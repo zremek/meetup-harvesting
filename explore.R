@@ -1,5 +1,6 @@
 library(moments)
 library(tidyverse)
+library(stringr)
 
 # pro networks
 
@@ -25,3 +26,23 @@ hist(d$members[d$city == "Warszawa"])
 hist(d$members[d$city == "Kraków"])
 
 d$name[d$members >= 3000]
+
+# members vs population
+# csv from http://swaid.stat.gov.pl/Dashboards/Miasta%20najwi%C4%99ksze%20pod%20wzgl%C4%99dem%20liczby%20ludno%C5%9Bci.aspx
+city_pop <- read_csv("city_pop.csv", skip = 3)
+city_pop[1,7] <- "Warszawa"
+names(city_pop)[7] <- "city"
+city_pop <- city_pop %>% mutate(ogolem_num = gsub("[[:space:]]", "", ogolem),
+                                ogolem_num = parse_integer(ogolem_num)) 
+city_pop <- left_join(lon_lat_cities, city_pop, "city") 
+city_pop %>% 
+  ggplot(aes(x = as.numeric(ogolem_num), y = as.numeric(members_sum), label = city, colour = city)) +
+  geom_point() + 
+  geom_text() +
+  scale_y_log10() +
+  scale_x_log10()
+
+summary(lm(members_sum~ogolem_num, city_pop))
+cor(city_pop$members_sum, city_pop$groups_n)
+
+# check https://stackoverflow.com/questions/7549694/adding-regression-line-equation-and-r2-on-graph

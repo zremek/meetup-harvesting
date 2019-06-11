@@ -1,0 +1,35 @@
+﻿Textbox9
+Miasta największe pod względem liczby ludności - stan na dzień 31.12.2018 r.
+
+Textbox4,Textbox1,Textbox3,Textbox5,Textbox7,lp,nazwa,nazwa_woj,ogolem,mezczyzni,kobiety
+Gmina,Województwo,Ogółem,Mężczyźni,Kobiety,1,M.st.Warszawa od 2002,MAZOWIECKIE,1 777 972,817 660,960 312
+Gmina,Województwo,Ogółem,Mężczyźni,Kobiety,2,Kraków,MAŁOPOLSKIE,771 069,359 865,411 204
+Gmina,Województwo,Ogółem,Mężczyźni,Kobiety,3,Łódź,ŁÓDZKIE,685 285,312 328,372 957
+Gmina,Województwo,Ogółem,Mężczyźni,Kobiety,4,Wrocław,DOLNOŚLĄSKIE,640 648,299 190,341 458
+Gmina,Województwo,Ogółem,Mężczyźni,Kobiety,5,Poznań,WIELKOPOLSKIE,536 438,250 244,286 194
+Gmina,Województwo,Ogółem,Mężczyźni,Kobiety,6,Gdańsk,POMORSKIE,466 631,221 187,245 444
+Gmina,Województwo,Ogółem,Mężczyźni,Kobiety,7,Szczecin,ZACHODNIOPOMORSKIE,402 465,191 211,211 254
+Gmina,Województwo,Ogółem,Mężczyźni,Kobiety,8,Bydgoszcz,KUJAWSKO-POMORSKIE,350 178,164 754,185 424
+Gmina,Województwo,Ogółem,Mężczyźni,Kobiety,9,Lublin,LUBELSKIE,339 682,156 631,183 051
+Gmina,Województwo,Ogółem,Mężczyźni,Kobiety,10,Białystok,PODLASKIE,297 459,139 621,157 838
+Gmina,Województwo,Ogółem,Mężczyźni,Kobiety,11,Katowice,ŚLĄSKIE,294 510,140 083,154 427
+Gmina,Województwo,Ogółem,Mężczyźni,Kobiety,12,Gdynia,POMORSKIE,246 309,116 330,129 979
+Gmina,Województwo,Ogółem,Mężczyźni,Kobiety,13,Częstochowa,ŚLĄSKIE,222 292,104 334,117 958
+Gmina,Województwo,Ogółem,Mężczyźni,Kobiety,14,Radom,MAZOWIECKIE,213 029,101 111,111 918
+Gmina,Województwo,Ogółem,Mężczyźni,Kobiety,15,Toruń,KUJAWSKO-POMORSKIE,202 074,93 964,108 110
+Gmina,Województwo,Ogółem,Mężczyźni,Kobiety,16,Sosnowiec,ŚLĄSKIE,202 036,95 606,106 430
+Gmina,Województwo,Ogółem,Mężczyźni,Kobiety,17,Kielce,ŚWIĘTOKRZYSKIE,195 774,91 753,104 021
+Gmina,Województwo,Ogółem,Mężczyźni,Kobiety,18,Rzeszów,PODKARPACKIE,191 564,90 845,100 719
+Gmina,Województwo,Ogółem,Mężczyźni,Kobiety,19,Gliwice,ŚLĄSKIE,179 806,86 445,93 361
+Gmina,Województwo,Ogółem,Mężczyźni,Kobiety,20,Zabrze,ŚLĄSKIE,173 374,83 630,89 744
+Gmina,Województwo,Ogółem,Mężczyźni,Kobiety,21,Olsztyn,WARMIŃSKO-MAZURSKIE,172 362,80 118,92 244
+Gmina,Województwo,Ogółem,Mężczyźni,Kobiety,22,Bielsko-Biała,ŚLĄSKIE,171 259,80 922,90 337
+Gmina,Województwo,Ogółem,Mężczyźni,Kobiety,23,Bytom,ŚLĄSKIE,166 795,79 646,87 149
+Gmina,Województwo,Ogółem,Mężczyźni,Kobiety,24,Zielona Góra,LUBUSKIE,140 297,66 574,73 723
+Gmina,Województwo,Ogółem,Mężczyźni,Kobiety,25,Rybnik,ŚLĄSKIE,138 696,67 658,71 038
+Gmina,Województwo,Ogółem,Mężczyźni,Kobiety,26,Ruda Śląska,ŚLĄSKIE,138 000,66 657,71 343
+Gmina,Województwo,Ogółem,Mężczyźni,Kobiety,27,Opole,OPOLSKIE,128 137,60 413,67 724
+Gmina,Województwo,Ogółem,Mężczyźni,Kobiety,28,Tychy,ŚLĄSKIE,127 831,61 550,66 281
+Gmina,Województwo,Ogółem,Mężczyźni,Kobiety,29,Gorzów Wielkopolski,LUBUSKIE,123 921,58 915,65 006
+Gmina,Województwo,Ogółem,Mężczyźni,Kobiety,30,Dąbrowa Górnicza,ŚLĄSKIE,120 259,57 549,62 710
+

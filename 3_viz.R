@@ -87,9 +87,9 @@ groups_firms_edu
 # save to good A4 fit size .png 
 # max width = 160, height = 247
 
-png("groups_firms_edu.png", width = 160, height = 130, units = "mm", res = 300)
-plot(groups_firms_edu) # Rys. 4. in chapter 5.1.
-dev.off()
+# png("groups_firms_edu.png", width = 160, height = 130, units = "mm", res = 300)
+# plot(groups_firms_edu) # Rys. 4. in chapter 5.1.
+# dev.off()
 
 ### show locations of members, members by groups and groups 
 
@@ -166,14 +166,14 @@ ggplot(aes(x = fct_rev(short_name), y = members, colour = city)) +
 # combine map_bar
 map_bar <- plot_grid(plot_grid(map, bar, ncol = 2, rel_widths = c(1.3, 1)))
 
-png("map_bar.png", width = 160, height = 100, units = "mm", res = 300)
-plot(map_bar) # Rys. 5. in chapter 5.1.
-dev.off()
+# png("map_bar.png", width = 160, height = 100, units = "mm", res = 300)
+# plot(map_bar) # Rys. 5. in chapter 5.1.
+# dev.off()
 
 # lolli to PNG
-png("lolli.png", width = 160, height = 220, units = "mm", res = 300)
-plot(lolli) # Rys. 6. in chapter 5.1.
-dev.off()
+# png("lolli.png", width = 160, height = 220, units = "mm", res = 300)
+# plot(lolli) # Rys. 6. in chapter 5.1.
+# dev.off()
 
 
 
