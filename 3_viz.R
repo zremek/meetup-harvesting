@@ -132,6 +132,7 @@ bar <- ggplot(data = lon_lat_cities) +
 
 # lollipop
 
+# shorten groups' names
 d$short_name <- sapply(d$name, FUN = function(x) 
   paste(strsplit(x," ")[[1]][1:4],collapse = " "))
 d$short_name <- sapply(d$short_name, FUN = function(x) 
@@ -171,7 +172,7 @@ dev.off()
 
 # lolli to PNG
 png("lolli.png", width = 160, height = 220, units = "mm", res = 300)
-plot(lolli) # Rys. 5. in chapter 5.1.
+plot(lolli) # Rys. 6. in chapter 5.1.
 dev.off()
 
 
