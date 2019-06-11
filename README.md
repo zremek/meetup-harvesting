@@ -22,6 +22,7 @@ Nie pozwoliło to pobrać danych o wszystkich grupach data science w Polsce.
 Dlatego ręcznie zmieniałem swoją lokalizację, uruchamiając pobranie łącznie 9 razy.
 
 [English]
+
 Analysis of Polish meetups on "data science" topic, prepared for my PhD thesis
 "Data science in Poland, ethnography of the social world" in the field of sociology.
 The results will appear in section 5.1. work.
