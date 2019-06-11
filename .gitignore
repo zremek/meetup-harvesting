@@ -32,3 +32,12 @@ vignettes/*.pdf
 *.utf8.md
 *.knit.md
 .Rproj.user
+
+# testing selenium - discontinued
+connect_selenium.R
+scrape.R
+selenium-meetup-groups.R
+
+# jupyter checkpoints and my help files
+meetup_api/.ipynb_checkpoints/
+meetup_API.txt

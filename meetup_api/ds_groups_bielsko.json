@@ -1,0 +1,1252 @@
+[
+    {
+        "category": {
+            "id": 34,
+            "name": "Tech",
+            "shortname": "tech",
+            "sort_name": "Tech"
+        },
+        "city": "Kraków",
+        "country": "PL",
+        "created": 1440773646000,
+        "description": "This group is all about Data Science and Machine Learning. We'll be organizing awesome meetings mixing the best theoretical and practical knowledge. Stay tuned!",
+        "id": 18876641,
+        "join_mode": "open",
+        "key_photo": {
+            "base_url": "https://secure.meetupstatic.com",
+            "highres_link": "https://secure.meetupstatic.com/photos/event/a/f/2/4/highres_444524836.jpeg",
+            "id": 444524836,
+            "photo_link": "https://secure.meetupstatic.com/photos/event/a/f/2/4/600_444524836.jpeg",
+            "thumb_link": "https://secure.meetupstatic.com/photos/event/a/f/2/4/thumb_444524836.jpeg",
+            "type": "event"
+        },
+        "lat": 50.06,
+        "link": "https://www.meetup.com/Data-Science-Krakow/",
+        "localized_country_name": "Poland",
+        "localized_location": "Kraków, Poland",
+        "lon": 19.96,
+        "members": 612,
+        "meta_category": {
+            "category_ids": [
+                34
+            ],
+            "id": 292,
+            "name": "Tech",
+            "photo": {
+                "base_url": "https://secure.meetupstatic.com",
+                "highres_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
+                "id": 450131949,
+                "photo_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
+                "type": "event"
+            },
+            "shortname": "tech",
+            "sort_name": "Tech"
+        },
+        "name": "Data Science Kraków",
+        "next_event": {
+            "id": "261800138",
+            "name": "#1 Meetup Data Science",
+            "time": 1559750400000,
+            "utc_offset": 7200000,
+            "yes_rsvp_count": 77
+        },
+        "organizer": {
+            "bio": "",
+            "id": 199474210,
+            "name": "Maria Nowakowska",
+            "photo": {
+                "base_url": "https://secure.meetupstatic.com",
+                "highres_link": "https://secure.meetupstatic.com/photos/member/5/e/e/b/highres_269484299.jpeg",
+                "id": 269484299,
+                "photo_link": "https://secure.meetupstatic.com/photos/member/5/e/e/b/member_269484299.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/member/5/e/e/b/thumb_269484299.jpeg",
+                "type": "member"
+            }
+        },
+        "score": 1.0,
+        "state": "",
+        "status": "active",
+        "timezone": "Europe/Warsaw",
+        "untranslated_city": "Kraków",
+        "urlname": "Data-Science-Krakow",
+        "visibility": "public",
+        "who": "Big Data Science Ninjas"
+    },
+    {
+        "category": {
+            "id": 34,
+            "name": "Tech",
+            "shortname": "tech",
+            "sort_name": "Tech"
+        },
+        "city": "Kraków",
+        "country": "PL",
+        "created": 1491569539000,
+        "description": "<p>Stacja IT to całodniowe warsztaty hands-on, bezpłatna edukacja trenerska, miejsce spotkań ekspertów branżowych, profesjonalistów, którzy nieprzerwanie podnoszą swoje kompetencje, trenerów, przedsiębiorców i twórców startupów, a także osób wchodzących na rynek pracy.</p>\n<p>Wstąp na Stację i złap pociag do kodowania! <a href=\"http://www.stacja.it\" class=\"linkified\">http://www.stacja.it</a></p>",
+        "id": 23193146,
+        "join_mode": "open",
+        "key_photo": {
+            "base_url": "https://secure.meetupstatic.com",
+            "highres_link": "https://secure.meetupstatic.com/photos/event/c/d/6/e/highres_462952590.jpeg",
+            "id": 462952590,
+            "photo_link": "https://secure.meetupstatic.com/photos/event/c/d/6/e/600_462952590.jpeg",
+            "thumb_link": "https://secure.meetupstatic.com/photos/event/c/d/6/e/thumb_462952590.jpeg",
+            "type": "event"
+        },
+        "lat": 50.06,
+        "link": "https://www.meetup.com/Stacja-IT-Krakow/",
+        "localized_country_name": "Poland",
+        "localized_location": "Kraków, Poland",
+        "lon": 19.96,
+        "members": 1553,
+        "meta_category": {
+            "category_ids": [
+                34
+            ],
+            "id": 292,
+            "name": "Tech",
+            "photo": {
+                "base_url": "https://secure.meetupstatic.com",
+                "highres_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
+                "id": 450131949,
+                "photo_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
+                "type": "event"
+            },
+            "shortname": "tech",
+            "sort_name": "Tech"
+        },
+        "name": "Stacja IT Kraków",
+        "next_event": {
+            "id": "261476602",
+            "name": "Warsztat: REST in Java - szybkie tworzenie usług sieciowych",
+            "time": 1560582000000,
+            "utc_offset": 7200000,
+            "yes_rsvp_count": 5
+        },
+        "organizer": {
+            "bio": "",
+            "id": 199474210,
+            "name": "Maria Nowakowska",
+            "photo": {
+                "base_url": "https://secure.meetupstatic.com",
+                "highres_link": "https://secure.meetupstatic.com/photos/member/5/e/e/b/highres_269484299.jpeg",
+                "id": 269484299,
+                "photo_link": "https://secure.meetupstatic.com/photos/member/5/e/e/b/member_269484299.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/member/5/e/e/b/thumb_269484299.jpeg",
+                "type": "member"
+            }
+        },
+        "score": 1.0,
+        "state": "",
+        "status": "active",
+        "timezone": "Europe/Warsaw",
+        "untranslated_city": "Kraków",
+        "urlname": "Stacja-IT-Krakow",
+        "visibility": "public",
+        "who": "Members"
+    },
+    {
+        "category": {
+            "id": 34,
+            "name": "Tech",
+            "shortname": "tech",
+            "sort_name": "Tech"
+        },
+        "city": "Kraków",
+        "country": "PL",
+        "created": 1522161492000,
+        "description": "<p>The group discusses topics, articles and books around Machine Learning, Data Science and more. In the form of a reading club (mostly).</p>",
+        "id": 27964039,
+        "join_mode": "open",
+        "lat": 50.06,
+        "link": "https://www.meetup.com/MLKRK-Machine-Learning-Krakow/",
+        "localized_country_name": "Poland",
+        "localized_location": "Kraków, Poland",
+        "lon": 19.96,
+        "members": 283,
+        "meta_category": {
+            "category_ids": [
+                34
+            ],
+            "id": 292,
+            "name": "Tech",
+            "photo": {
+                "base_url": "https://secure.meetupstatic.com",
+                "highres_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
+                "id": 450131949,
+                "photo_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
+                "type": "event"
+            },
+            "shortname": "tech",
+            "sort_name": "Tech"
+        },
+        "name": "MLKRK - Machine Learning Kraków",
+        "next_event": {
+            "id": "261825989",
+            "name": "Finding product substitutes with fastText et al. (Rescheduled)",
+            "time": 1560441600000,
+            "utc_offset": 7200000,
+            "yes_rsvp_count": 19
+        },
+        "organizer": {
+            "bio": "",
+            "id": 11745906,
+            "name": "Rafal Pokrywka",
+            "photo": {
+                "base_url": "https://secure.meetupstatic.com",
+                "highres_link": "https://secure.meetupstatic.com/photos/member/3/9/5/0/highres_87434672.jpeg",
+                "id": 87434672,
+                "photo_link": "https://secure.meetupstatic.com/photos/member/3/9/5/0/member_87434672.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/member/3/9/5/0/thumb_87434672.jpeg",
+                "type": "member"
+            }
+        },
+        "score": 1.0,
+        "state": "",
+        "status": "active",
+        "timezone": "Europe/Warsaw",
+        "untranslated_city": "Kraków",
+        "urlname": "MLKRK-Machine-Learning-Krakow",
+        "visibility": "public",
+        "who": "Members"
+    },
+    {
+        "category": {
+            "id": 34,
+            "name": "Tech",
+            "shortname": "tech",
+            "sort_name": "Tech"
+        },
+        "city": "Kraków",
+        "country": "PL",
+        "created": 1531909927000,
+        "description": "<p>Imponujące tempo rozwoju uczenia maszynowego i sztucznej inteligencji wymaga poświęcenia sporej ilości czasu aby być na bieżąco. Celem grupy jest złagodzenie tego procesu poprzez dzielenie się wiedzą i doświadczeniem. <br></p>\n<p>Spotkania mają formę seminariów - rozpoczynają się od wykładu, podczas którego prowadzący referując kilka tematycznych paperów wprowadza&nbsp;(lub odświeża wiedzę) słuchaczy na dany temat AI/ML. Następnie podejmowana jest dyskusja o teoretycznych i praktycznych aspektach omawianych technologii. <br></p>\n<p> UWAGA: Do członkowstwa w grupie zapraszamy osoby z doświadczeniem w dziedzinach AI/ML z racji na ograniczoną liczbę miejsc na spotkaniach oraz dla zapewnienia wysokiej jakości dyskusji <br></p>\n<p><b>*** For English speakers: as for now meetups are planned to be held in Polish, this may change in the future if there's a demand for an English version of our meetings ***</b> <br></p>\n<p>This group is meant to help keep up with the incredible pace of development in the area of artificial intelligence. <br> <br>Meetings take form of seminars, where speakers introduce the audience to (or refresh their knowledge on) various AI topics by going through several papers. Talks are followed by discussions on both theoretical and practical aspects of presented works. <br></p>\n<p>WARNING: because of limited capacity and to ensure high quality of discussions admittance to the group is allowed for people with prior experience in the field of AI/ML<br></p>",
+        "id": 29286146,
+        "join_mode": "approval",
+        "key_photo": {
+            "base_url": "https://secure.meetupstatic.com",
+            "highres_link": "https://secure.meetupstatic.com/photos/event/b/e/b/7/highres_473868823.jpeg",
+            "id": 473868823,
+            "photo_link": "https://secure.meetupstatic.com/photos/event/b/e/b/7/600_473868823.jpeg",
+            "thumb_link": "https://secure.meetupstatic.com/photos/event/b/e/b/7/thumb_473868823.jpeg",
+            "type": "event"
+        },
+        "lat": 50.06,
+        "link": "https://www.meetup.com/AI-Research-Seminars/",
+        "localized_country_name": "Poland",
+        "localized_location": "Kraków, Poland",
+        "lon": 19.96,
+        "members": 205,
+        "meta_category": {
+            "category_ids": [
+                34
+            ],
+            "id": 292,
+            "name": "Tech",
+            "photo": {
+                "base_url": "https://secure.meetupstatic.com",
+                "highres_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
+                "id": 450131949,
+                "photo_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
+                "type": "event"
+            },
+            "shortname": "tech",
+            "sort_name": "Tech"
+        },
+        "name": "AI Research Seminars",
+        "next_event": {
+            "id": "261756329",
+            "name": "Sztuczna inteligencja możliwości i ograniczenia, fakty i mity",
+            "time": 1559754000000,
+            "utc_offset": 7200000,
+            "yes_rsvp_count": 35
+        },
+        "organizer": {
+            "bio": "",
+            "id": 196103416,
+            "name": "Rafał Cycoń",
+            "photo": {
+                "base_url": "https://secure.meetupstatic.com",
+                "highres_link": "https://secure.meetupstatic.com/photos/member/e/5/3/b/highres_279838683.jpeg",
+                "id": 279838683,
+                "photo_link": "https://secure.meetupstatic.com/photos/member/e/5/3/b/member_279838683.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/member/e/5/3/b/thumb_279838683.jpeg",
+                "type": "member"
+            }
+        },
+        "score": 1.0,
+        "state": "",
+        "status": "active",
+        "timezone": "Europe/Warsaw",
+        "untranslated_city": "Kraków",
+        "urlname": "AI-Research-Seminars",
+        "visibility": "public",
+        "who": "Members"
+    },
+    {
+        "category": {
+            "id": 34,
+            "name": "Tech",
+            "shortname": "tech",
+            "sort_name": "Tech"
+        },
+        "city": "Kraków",
+        "country": "PL",
+        "created": 1413707244000,
+        "description": "<p>Entuzjastów R krakowska alternatywa (eRka) - to wyjątkowy projekt, którego najważniejszym celem jest stworzenie szerokiej społeczności osób związanych z analizą danych. Naszym głównym obszarem działania jest Małopolska. Chcemy zaoferować analitykom danych (oraz osobom, które chcą nimi zostać) „przestrzeń”, pozwalającą m.in. na zdobycie ciekawych kontaktów, wiedzy, czy też cennego doświadczenia. Jest to bardzo ważny aspekt w czasach, gdy gwałtownie rozwijają się takie dziedziny jak Data Science, czy Big Data, a miejsc, gdzie można łatwo szlifować swój warsztat analityczny prawie nie ma. Wszystkie nasze działania w mniejszym bądź większym stopniu powiązane są także z promocją języka R – obecnie najszybciej rozwijającego się środowiska do obliczeń statystycznych.</p>",
+        "group_photo": {
+            "base_url": "https://secure.meetupstatic.com",
+            "highres_link": "https://secure.meetupstatic.com/photos/event/9/a/e/7/highres_459339655.jpeg",
+            "id": 459339655,
+            "photo_link": "https://secure.meetupstatic.com/photos/event/9/a/e/7/600_459339655.jpeg",
+            "thumb_link": "https://secure.meetupstatic.com/photos/event/9/a/e/7/thumb_459339655.jpeg",
+            "type": "event"
+        },
+        "id": 17716742,
+        "join_mode": "open",
+        "key_photo": {
+            "base_url": "https://secure.meetupstatic.com",
+            "highres_link": "https://secure.meetupstatic.com/photos/event/b/2/f/a/highres_437985818.jpeg",
+            "id": 437985818,
+            "photo_link": "https://secure.meetupstatic.com/photos/event/b/2/f/a/600_437985818.jpeg",
+            "thumb_link": "https://secure.meetupstatic.com/photos/event/b/2/f/a/thumb_437985818.jpeg",
+            "type": "event"
+        },
+        "lat": 50.06,
+        "link": "https://www.meetup.com/erkakrakow/",
+        "localized_country_name": "Poland",
+        "localized_location": "Kraków, Poland",
+        "lon": 19.96,
+        "members": 811,
+        "meta_category": {
+            "category_ids": [
+                34
+            ],
+            "id": 292,
+            "name": "Tech",
+            "photo": {
+                "base_url": "https://secure.meetupstatic.com",
+                "highres_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
+                "id": 450131949,
+                "photo_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
+                "type": "event"
+            },
+            "shortname": "tech",
+            "sort_name": "Tech"
+        },
+        "name": "eRka / Cracow R Users Group",
+        "next_event": {
+            "id": "261629237",
+            "name": "#21 Spotkanie Entuzjastów R w Krakowie",
+            "time": 1560357000000,
+            "utc_offset": 7200000,
+            "yes_rsvp_count": 28
+        },
+        "organizer": {
+            "bio": "",
+            "id": 178526492,
+            "name": "Bartosz Sękiewicz"
+        },
+        "score": 1.0,
+        "state": "",
+        "status": "active",
+        "timezone": "Europe/Warsaw",
+        "untranslated_city": "Kraków",
+        "urlname": "erkakrakow",
+        "visibility": "public",
+        "who": "useRs"
+    },
+    {
+        "category": {
+            "id": 34,
+            "name": "Tech",
+            "shortname": "tech",
+            "sort_name": "Tech"
+        },
+        "city": "Kraków",
+        "country": "PL",
+        "created": 1536753373000,
+        "description": "<p>Krakowski oddział Data Community skupiający profesjonalistów zajmujących się platformą danych głównie firmy Microsoft.</p>",
+        "id": 29781731,
+        "join_mode": "open",
+        "lat": 50.06,
+        "link": "https://www.meetup.com/Data-Community-Krakow/",
+        "localized_country_name": "Poland",
+        "localized_location": "Kraków, Poland",
+        "lon": 19.96,
+        "members": 357,
+        "meta_category": {
+            "category_ids": [
+                34
+            ],
+            "id": 292,
+            "name": "Tech",
+            "photo": {
+                "base_url": "https://secure.meetupstatic.com",
+                "highres_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
+                "id": 450131949,
+                "photo_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
+                "type": "event"
+            },
+            "shortname": "tech",
+            "sort_name": "Tech"
+        },
+        "name": "Data Community Krakow",
+        "organizer": {
+            "bio": "",
+            "id": 149738542,
+            "name": "Hubert Kobierzewski",
+            "photo": {
+                "base_url": "https://secure.meetupstatic.com",
+                "id": 201974672,
+                "photo_link": "https://secure.meetupstatic.com/photos/member/3/9/5/0/member_201974672.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/member/3/9/5/0/thumb_201974672.jpeg",
+                "type": "member"
+            }
+        },
+        "pro_network": {
+            "name": "Data Community",
+            "network_url": "https://www.meetup.com/pro/data-community/",
+            "number_of_groups": 5,
+            "urlname": "data-community"
+        },
+        "score": 1.0,
+        "state": "",
+        "status": "active",
+        "timezone": "Europe/Warsaw",
+        "untranslated_city": "Kraków",
+        "urlname": "Data-Community-Krakow",
+        "visibility": "public",
+        "who": "Members"
+    },
+    {
+        "category": {
+            "id": 34,
+            "name": "Tech",
+            "shortname": "tech",
+            "sort_name": "Tech"
+        },
+        "city": "Katowice",
+        "country": "PL",
+        "created": 1512653717000,
+        "description": "<p>Grupa osób zainteresowana tematyką DS/ML/Big Data/Business Intelligence ze Śląska, Zagłębie i okolic :)</p>",
+        "id": 26809304,
+        "join_mode": "open",
+        "lat": 50.26,
+        "link": "https://www.meetup.com/Data-Science-Silesia/",
+        "localized_country_name": "Poland",
+        "localized_location": "Katowice, Poland",
+        "lon": 19.02,
+        "members": 477,
+        "meta_category": {
+            "category_ids": [
+                34
+            ],
+            "id": 292,
+            "name": "Tech",
+            "photo": {
+                "base_url": "https://secure.meetupstatic.com",
+                "highres_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
+                "id": 450131949,
+                "photo_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
+                "type": "event"
+            },
+            "shortname": "tech",
+            "sort_name": "Tech"
+        },
+        "name": "Data Science Silesia",
+        "organizer": {
+            "bio": "",
+            "id": 184158005,
+            "name": "Maciej Bryński",
+            "photo": {
+                "base_url": "https://secure.meetupstatic.com",
+                "highres_link": "https://secure.meetupstatic.com/photos/member/3/a/7/b/highres_259694971.jpeg",
+                "id": 259694971,
+                "photo_link": "https://secure.meetupstatic.com/photos/member/3/a/7/b/member_259694971.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/member/3/a/7/b/thumb_259694971.jpeg",
+                "type": "member"
+            }
+        },
+        "score": 1.0,
+        "state": "",
+        "status": "active",
+        "timezone": "Europe/Warsaw",
+        "untranslated_city": "Katowice",
+        "urlname": "Data-Science-Silesia",
+        "visibility": "public",
+        "who": "Członkowie"
+    },
+    {
+        "category": {
+            "id": 34,
+            "name": "Tech",
+            "shortname": "tech",
+            "sort_name": "Tech"
+        },
+        "city": "Katowice",
+        "country": "PL",
+        "created": 1494454106000,
+        "description": "<p>Spotkanie użytkowników i entuzjastów narzędzi Qlik</p>",
+        "group_photo": {
+            "base_url": "https://secure.meetupstatic.com",
+            "highres_link": "https://secure.meetupstatic.com/photos/event/a/5/b/6/highres_461442422.jpeg",
+            "id": 461442422,
+            "photo_link": "https://secure.meetupstatic.com/photos/event/a/5/b/6/600_461442422.jpeg",
+            "thumb_link": "https://secure.meetupstatic.com/photos/event/a/5/b/6/thumb_461442422.jpeg",
+            "type": "event"
+        },
+        "id": 23710934,
+        "join_mode": "open",
+        "key_photo": {
+            "base_url": "https://secure.meetupstatic.com",
+            "highres_link": "https://secure.meetupstatic.com/photos/event/a/5/b/6/highres_461442422.jpeg",
+            "id": 461442422,
+            "photo_link": "https://secure.meetupstatic.com/photos/event/a/5/b/6/600_461442422.jpeg",
+            "thumb_link": "https://secure.meetupstatic.com/photos/event/a/5/b/6/thumb_461442422.jpeg",
+            "type": "event"
+        },
+        "lat": 50.26,
+        "link": "https://www.meetup.com/QlikKTW/",
+        "localized_country_name": "Poland",
+        "localized_location": "Katowice, Poland",
+        "lon": 19.02,
+        "members": 178,
+        "meta_category": {
+            "category_ids": [
+                34
+            ],
+            "id": 292,
+            "name": "Tech",
+            "photo": {
+                "base_url": "https://secure.meetupstatic.com",
+                "highres_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
+                "id": 450131949,
+                "photo_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
+                "type": "event"
+            },
+            "shortname": "tech",
+            "sort_name": "Tech"
+        },
+        "name": "QlikKTW",
+        "organizer": {
+            "bio": "",
+            "id": 187601974,
+            "name": "Pawel Manowiecki",
+            "photo": {
+                "base_url": "https://secure.meetupstatic.com",
+                "highres_link": "https://secure.meetupstatic.com/photos/member/8/9/e/d/highres_261575309.jpeg",
+                "id": 261575309,
+                "photo_link": "https://secure.meetupstatic.com/photos/member/8/9/e/d/member_261575309.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/member/8/9/e/d/thumb_261575309.jpeg",
+                "type": "member"
+            }
+        },
+        "pro_network": {
+            "name": "Qlik Global Meetups",
+            "network_url": "https://www.meetup.com/pro/qlik/",
+            "number_of_groups": 50,
+            "urlname": "qlik"
+        },
+        "score": 1.0,
+        "state": "",
+        "status": "active",
+        "timezone": "Europe/Warsaw",
+        "untranslated_city": "Katowice",
+        "urlname": "QlikKTW",
+        "visibility": "public",
+        "who": "Qlikkies"
+    },
+    {
+        "category": {
+            "id": 34,
+            "name": "Tech",
+            "shortname": "tech",
+            "sort_name": "Tech"
+        },
+        "city": "Katowice",
+        "country": "PL",
+        "created": 1484554063000,
+        "description": "<p>Slaska grupa Google.<br>Organizujemy Eventy o tematyce IT i popwiazane z firma Google</p>\n<p>Zapraszamy do dolaczania !!!!!</p>",
+        "group_photo": {
+            "base_url": "https://secure.meetupstatic.com",
+            "highres_link": "https://secure.meetupstatic.com/photos/event/7/e/2/9/highres_458672297.jpeg",
+            "id": 458672297,
+            "photo_link": "https://secure.meetupstatic.com/photos/event/7/e/2/9/600_458672297.jpeg",
+            "thumb_link": "https://secure.meetupstatic.com/photos/event/7/e/2/9/thumb_458672297.jpeg",
+            "type": "event"
+        },
+        "id": 21947514,
+        "join_mode": "open",
+        "key_photo": {
+            "base_url": "https://secure.meetupstatic.com",
+            "highres_link": "https://secure.meetupstatic.com/photos/event/7/e/2/9/highres_458672297.jpeg",
+            "id": 458672297,
+            "photo_link": "https://secure.meetupstatic.com/photos/event/7/e/2/9/600_458672297.jpeg",
+            "thumb_link": "https://secure.meetupstatic.com/photos/event/7/e/2/9/thumb_458672297.jpeg",
+            "type": "event"
+        },
+        "lat": 50.26,
+        "link": "https://www.meetup.com/gdg-silesia/",
+        "localized_country_name": "Poland",
+        "localized_location": "Katowice, Poland",
+        "lon": 19.02,
+        "members": 243,
+        "meta_category": {
+            "category_ids": [
+                34
+            ],
+            "id": 292,
+            "name": "Tech",
+            "photo": {
+                "base_url": "https://secure.meetupstatic.com",
+                "highres_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
+                "id": 450131949,
+                "photo_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
+                "type": "event"
+            },
+            "shortname": "tech",
+            "sort_name": "Tech"
+        },
+        "name": "GDG Silesia",
+        "organizer": {
+            "bio": "",
+            "id": 158136192,
+            "name": "Michal Tomasik",
+            "photo": {
+                "base_url": "https://secure.meetupstatic.com",
+                "highres_link": "https://secure.meetupstatic.com/photos/member/c/d/9/3/highres_262972627.jpeg",
+                "id": 262972627,
+                "photo_link": "https://secure.meetupstatic.com/photos/member/c/d/9/3/member_262972627.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/member/c/d/9/3/thumb_262972627.jpeg",
+                "type": "member"
+            }
+        },
+        "score": 1.0,
+        "state": "",
+        "status": "active",
+        "timezone": "Europe/Warsaw",
+        "untranslated_city": "Katowice",
+        "urlname": "gdg-silesia",
+        "visibility": "public",
+        "who": "Members"
+    },
+    {
+        "category": {
+            "id": 34,
+            "name": "Tech",
+            "shortname": "tech",
+            "sort_name": "Tech"
+        },
+        "city": "Zhilina",
+        "country": "SK",
+        "created": 1549540020000,
+        "description": "<p>Regular meetups of primarily web development and technology enthusiasts in Zilina. Backend, frontend, architecture, best practices, data, from time to time special topics as blockchain and other trending technologies.</p>",
+        "id": 31108888,
+        "join_mode": "open",
+        "key_photo": {
+            "base_url": "https://secure.meetupstatic.com",
+            "highres_link": "https://secure.meetupstatic.com/photos/event/d/9/a/1/highres_478495713.jpeg",
+            "id": 478495713,
+            "photo_link": "https://secure.meetupstatic.com/photos/event/d/9/a/1/600_478495713.jpeg",
+            "thumb_link": "https://secure.meetupstatic.com/photos/event/d/9/a/1/thumb_478495713.jpeg",
+            "type": "event"
+        },
+        "lat": 49.22,
+        "link": "https://www.meetup.com/WebUP-Web-Developers-In-Zilina/",
+        "localized_country_name": "Slovakia",
+        "localized_location": "Zhilina, Slovakia",
+        "lon": 18.74,
+        "members": 20,
+        "meta_category": {
+            "category_ids": [
+                34
+            ],
+            "id": 292,
+            "name": "Tech",
+            "photo": {
+                "base_url": "https://secure.meetupstatic.com",
+                "highres_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
+                "id": 450131949,
+                "photo_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
+                "type": "event"
+            },
+            "shortname": "tech",
+            "sort_name": "Tech"
+        },
+        "name": "WebUP Web Developers In Zilina",
+        "organizer": {
+            "bio": "",
+            "id": 79659532,
+            "name": "Daniel Harcek",
+            "photo": {
+                "base_url": "https://secure.meetupstatic.com",
+                "id": 96369822,
+                "photo_link": "https://secure.meetupstatic.com/photos/member/2/6/5/e/member_96369822.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/member/2/6/5/e/thumb_96369822.jpeg",
+                "type": "member"
+            }
+        },
+        "score": 1.0,
+        "state": "",
+        "status": "active",
+        "timezone": "Europe/Bratislava",
+        "untranslated_city": "Zhilina",
+        "urlname": "WebUP-Web-Developers-In-Zilina",
+        "visibility": "public",
+        "who": "Members"
+    },
+    {
+        "category": {
+            "id": 34,
+            "name": "Tech",
+            "shortname": "tech",
+            "sort_name": "Tech"
+        },
+        "city": "Kraków",
+        "country": "PL",
+        "created": 1447684505000,
+        "description": "New meetup in Krakow for any Business Intelligence enthusiast. We are going to talk about everything related to BI, reports, analysis, databases, data warehousing, data mining and share experience. We are vendor agnostic so any technology is welcomed.",
+        "id": 19126868,
+        "join_mode": "open",
+        "lat": 50.06,
+        "link": "https://www.meetup.com/Business-Intelligence-KRK/",
+        "localized_country_name": "Poland",
+        "localized_location": "Kraków, Poland",
+        "lon": 19.96,
+        "members": 218,
+        "meta_category": {
+            "category_ids": [
+                34
+            ],
+            "id": 292,
+            "name": "Tech",
+            "photo": {
+                "base_url": "https://secure.meetupstatic.com",
+                "highres_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
+                "id": 450131949,
+                "photo_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
+                "type": "event"
+            },
+            "shortname": "tech",
+            "sort_name": "Tech"
+        },
+        "name": "Business Intelligence KRK",
+        "organizer": {
+            "bio": "",
+            "id": 198038778,
+            "name": "Oleg Chekan",
+            "photo": {
+                "base_url": "https://secure.meetupstatic.com",
+                "highres_link": "https://secure.meetupstatic.com/photos/member/5/e/1/c/highres_252864092.jpeg",
+                "id": 252864092,
+                "photo_link": "https://secure.meetupstatic.com/photos/member/5/e/1/c/member_252864092.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/member/5/e/1/c/thumb_252864092.jpeg",
+                "type": "member"
+            }
+        },
+        "score": 1.0,
+        "state": "",
+        "status": "active",
+        "timezone": "Europe/Warsaw",
+        "untranslated_city": "Kraków",
+        "urlname": "Business-Intelligence-KRK",
+        "visibility": "public",
+        "who": "Members"
+    },
+    {
+        "category": {
+            "id": 2,
+            "name": "Career & Business",
+            "shortname": "career-business",
+            "sort_name": "Career & Business"
+        },
+        "city": "Kraków",
+        "country": "PL",
+        "created": 1413794274000,
+        "description": "<p>Cykl spotkań \"INIME na żywo\" to seria seminariów popularno-naukowych dla wszystkich zainteresowanych zastosowaniami matematyki i informatyki w ekonomii i finansach. Spotkania będą miały formę seminarium, podczas którego prelegent przez około godzinę będzie prezentował wybrane przez siebie wcześniej zagadnienie, o którym wszyscy później podyskutujemy. Oczywiście potem wszystkich zainteresowanych zachęcamy do dyskusji mniej oficjalnej. Każda osoba, która odpowiednio wcześniej zgłosi swoją kandydaturę oraz podeśle nam plan swojego wystąpienia, będzie mogła podzielić się swoją wiedzą z szerszym gronem.</p>",
+        "group_photo": {
+            "base_url": "https://secure.meetupstatic.com",
+            "highres_link": "https://secure.meetupstatic.com/photos/event/d/4/2/highres_432303394.jpeg",
+            "id": 432303394,
+            "photo_link": "https://secure.meetupstatic.com/photos/event/d/4/2/600_432303394.jpeg",
+            "thumb_link": "https://secure.meetupstatic.com/photos/event/d/4/2/thumb_432303394.jpeg",
+            "type": "event"
+        },
+        "id": 17738372,
+        "join_mode": "open",
+        "key_photo": {
+            "base_url": "https://secure.meetupstatic.com",
+            "highres_link": "https://secure.meetupstatic.com/photos/event/d/4/2/highres_432303394.jpeg",
+            "id": 432303394,
+            "photo_link": "https://secure.meetupstatic.com/photos/event/d/4/2/600_432303394.jpeg",
+            "thumb_link": "https://secure.meetupstatic.com/photos/event/d/4/2/thumb_432303394.jpeg",
+            "type": "event"
+        },
+        "lat": 50.06,
+        "link": "https://www.meetup.com/INIME-na-%C5%BCywo/",
+        "localized_country_name": "Poland",
+        "localized_location": "Kraków, Poland",
+        "lon": 19.96,
+        "members": 262,
+        "meta_category": {
+            "category_ids": [
+                2
+            ],
+            "id": 522,
+            "name": "Career & Business",
+            "photo": {
+                "base_url": "https://secure.meetupstatic.com",
+                "highres_link": "https://secure.meetupstatic.com/photos/event/2/e/9/7/highres_450131927.jpeg",
+                "id": 450131927,
+                "photo_link": "https://secure.meetupstatic.com/photos/event/2/e/9/7/600_450131927.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/9/7/thumb_450131927.jpeg",
+                "type": "event"
+            },
+            "shortname": "career-business",
+            "sort_name": "Career & Business"
+        },
+        "name": "INIME na żywo",
+        "organizer": {
+            "bio": "",
+            "id": 117761322,
+            "name": "Alan Klimowski",
+            "photo": {
+                "base_url": "https://secure.meetupstatic.com",
+                "highres_link": "https://secure.meetupstatic.com/photos/member/6/a/e/c/highres_236367372.jpeg",
+                "id": 236367372,
+                "photo_link": "https://secure.meetupstatic.com/photos/member/6/a/e/c/member_236367372.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/member/6/a/e/c/thumb_236367372.jpeg",
+                "type": "member"
+            }
+        },
+        "score": 1.0,
+        "state": "",
+        "status": "active",
+        "timezone": "Europe/Warsaw",
+        "untranslated_city": "Kraków",
+        "urlname": "INIME-na-żywo",
+        "visibility": "public",
+        "who": "Members"
+    },
+    {
+        "category": {
+            "id": 6,
+            "name": "Education & Learning",
+            "shortname": "education-learning",
+            "sort_name": "Education & Learning"
+        },
+        "city": "Kraków",
+        "country": "PL",
+        "created": 1487669963000,
+        "description": "<p>We are building a community of bioinformatics geeks in Kraków. If you are interested in the subject either from the bio or the computer and data science side, you are welcome to join. We will be organising workshops, seminars, open fora and networking events. <br>If you want to share your experience, meet people or are just curious about bioinformatics, this is a place for you.</p>",
+        "id": 22497044,
+        "join_mode": "open",
+        "lat": 50.06,
+        "link": "https://www.meetup.com/Krakow-Bioinformatics-Data-Science-Meetup/",
+        "localized_country_name": "Poland",
+        "localized_location": "Kraków, Poland",
+        "lon": 19.96,
+        "members": 91,
+        "meta_category": {
+            "category_ids": [
+                6
+            ],
+            "id": 562,
+            "name": "Learning",
+            "photo": {
+                "base_url": "https://secure.meetupstatic.com",
+                "highres_link": "https://secure.meetupstatic.com/photos/event/2/e/9/b/highres_450131931.jpeg",
+                "id": 450131931,
+                "photo_link": "https://secure.meetupstatic.com/photos/event/2/e/9/b/600_450131931.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/9/b/thumb_450131931.jpeg",
+                "type": "event"
+            },
+            "shortname": "education",
+            "sort_name": "Learning"
+        },
+        "name": "Kraków Bioinformatics & Data Science Meetup",
+        "organizer": {
+            "bio": "",
+            "id": 193459317,
+            "name": "Janusz Homa",
+            "photo": {
+                "base_url": "https://secure.meetupstatic.com",
+                "highres_link": "https://secure.meetupstatic.com/photos/member/e/4/5/3/highres_264478451.jpeg",
+                "id": 264478451,
+                "photo_link": "https://secure.meetupstatic.com/photos/member/e/4/5/3/member_264478451.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/member/e/4/5/3/thumb_264478451.jpeg",
+                "type": "member"
+            }
+        },
+        "score": 1.0,
+        "state": "",
+        "status": "active",
+        "timezone": "Europe/Warsaw",
+        "untranslated_city": "Kraków",
+        "urlname": "Krakow-Bioinformatics-Data-Science-Meetup",
+        "visibility": "public",
+        "who": "Bioinformaticians"
+    },
+    {
+        "category": {
+            "id": 34,
+            "name": "Tech",
+            "shortname": "tech",
+            "sort_name": "Tech"
+        },
+        "city": "Kraków",
+        "country": "PL",
+        "created": 1527594685000,
+        "description": "<p>Grupa dla wszystkich zafascynowanych szybkim rozwojem sztucznej inteligencj i machine/deep learningu. Meetupy z expertami ze świata nauki i korporacji.</p>",
+        "id": 28635550,
+        "join_mode": "open",
+        "key_photo": {
+            "base_url": "https://secure.meetupstatic.com",
+            "highres_link": "https://secure.meetupstatic.com/photos/event/e/0/2/a/highres_471537386.jpeg",
+            "id": 471537386,
+            "photo_link": "https://secure.meetupstatic.com/photos/event/e/0/2/a/600_471537386.jpeg",
+            "thumb_link": "https://secure.meetupstatic.com/photos/event/e/0/2/a/thumb_471537386.jpeg",
+            "type": "event"
+        },
+        "lat": 50.06,
+        "link": "https://www.meetup.com/Polski-AI-meetup-PLAI/",
+        "localized_country_name": "Poland",
+        "localized_location": "Kraków, Poland",
+        "lon": 19.96,
+        "members": 163,
+        "meta_category": {
+            "category_ids": [
+                34
+            ],
+            "id": 292,
+            "name": "Tech",
+            "photo": {
+                "base_url": "https://secure.meetupstatic.com",
+                "highres_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
+                "id": 450131949,
+                "photo_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
+                "type": "event"
+            },
+            "shortname": "tech",
+            "sort_name": "Tech"
+        },
+        "name": "Polski AI meetup (PLAI)",
+        "organizer": {
+            "bio": "",
+            "id": 209300847,
+            "name": "Łukasz Kidziński",
+            "photo": {
+                "base_url": "https://secure.meetupstatic.com",
+                "highres_link": "https://secure.meetupstatic.com/photos/member/b/2/0/c/highres_258465580.jpeg",
+                "id": 258465580,
+                "photo_link": "https://secure.meetupstatic.com/photos/member/b/2/0/c/member_258465580.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/member/b/2/0/c/thumb_258465580.jpeg",
+                "type": "member"
+            }
+        },
+        "score": 1.0,
+        "state": "",
+        "status": "active",
+        "timezone": "Europe/Warsaw",
+        "untranslated_city": "Kraków",
+        "urlname": "Polski-AI-meetup-PLAI",
+        "visibility": "public",
+        "who": "Members"
+    },
+    {
+        "category": {
+            "id": 34,
+            "name": "Tech",
+            "shortname": "tech",
+            "sort_name": "Tech"
+        },
+        "city": "Kraków",
+        "country": "PL",
+        "created": 1427406731000,
+        "description": "This a group for everyone interested in machine learning. The main goal is to provide workshops and lectures about machine learning.",
+        "id": 18521663,
+        "join_mode": "open",
+        "lat": 50.06,
+        "link": "https://www.meetup.com/Machine-Learning-Krakow/",
+        "localized_country_name": "Poland",
+        "localized_location": "Kraków, Poland",
+        "lon": 19.96,
+        "members": 521,
+        "meta_category": {
+            "category_ids": [
+                34
+            ],
+            "id": 292,
+            "name": "Tech",
+            "photo": {
+                "base_url": "https://secure.meetupstatic.com",
+                "highres_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
+                "id": 450131949,
+                "photo_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
+                "type": "event"
+            },
+            "shortname": "tech",
+            "sort_name": "Tech"
+        },
+        "name": "Machine Learning Kraków",
+        "organizer": {
+            "bio": "",
+            "id": 114280342,
+            "name": "Karol Przystalski",
+            "photo": {
+                "base_url": "https://secure.meetupstatic.com",
+                "highres_link": "https://secure.meetupstatic.com/photos/member/3/c/1/2/highres_244875378.jpeg",
+                "id": 244875378,
+                "photo_link": "https://secure.meetupstatic.com/photos/member/3/c/1/2/member_244875378.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/member/3/c/1/2/thumb_244875378.jpeg",
+                "type": "member"
+            }
+        },
+        "score": 1.0,
+        "state": "",
+        "status": "active",
+        "timezone": "Europe/Warsaw",
+        "untranslated_city": "Kraków",
+        "urlname": "Machine-Learning-Krakow",
+        "visibility": "public",
+        "who": "Data Scientists"
+    },
+    {
+        "category": {
+            "id": 34,
+            "name": "Tech",
+            "shortname": "tech",
+            "sort_name": "Tech"
+        },
+        "city": "Kraków",
+        "country": "PL",
+        "created": 1456856623000,
+        "description": "<p>We welcome everyone interested in sharing real-life experiences from writing software. We believe that the key to creating simple and elegant software is to choose the right tool for the job - and you will not learn that by reading documentation. You need to try the tool yourself, possibly in a few varying use cases, but there is not enough time to do that yourself. That’s why we want to share experiences on tools, technologies and architectures we used and they worked… or not.</p>",
+        "group_photo": {
+            "base_url": "https://secure.meetupstatic.com",
+            "highres_link": "https://secure.meetupstatic.com/photos/event/e/5/4/9/highres_447418697.jpeg",
+            "id": 447418697,
+            "photo_link": "https://secure.meetupstatic.com/photos/event/e/5/4/9/600_447418697.jpeg",
+            "thumb_link": "https://secure.meetupstatic.com/photos/event/e/5/4/9/thumb_447418697.jpeg",
+            "type": "event"
+        },
+        "id": 19648392,
+        "join_mode": "open",
+        "key_photo": {
+            "base_url": "https://secure.meetupstatic.com",
+            "highres_link": "https://secure.meetupstatic.com/photos/event/e/5/4/9/highres_447418697.jpeg",
+            "id": 447418697,
+            "photo_link": "https://secure.meetupstatic.com/photos/event/e/5/4/9/600_447418697.jpeg",
+            "thumb_link": "https://secure.meetupstatic.com/photos/event/e/5/4/9/thumb_447418697.jpeg",
+            "type": "event"
+        },
+        "lat": 50.06,
+        "link": "https://www.meetup.com/Motorola-Software-Developers-Meetup/",
+        "localized_country_name": "Poland",
+        "localized_location": "Kraków, Poland",
+        "lon": 19.96,
+        "members": 542,
+        "meta_category": {
+            "category_ids": [
+                34
+            ],
+            "id": 292,
+            "name": "Tech",
+            "photo": {
+                "base_url": "https://secure.meetupstatic.com",
+                "highres_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
+                "id": 450131949,
+                "photo_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
+                "type": "event"
+            },
+            "shortname": "tech",
+            "sort_name": "Tech"
+        },
+        "name": "Motorola Software Developers Meetup",
+        "organizer": {
+            "bio": "",
+            "id": 163898112,
+            "name": "Grzegorz Slawecki",
+            "photo": {
+                "base_url": "https://secure.meetupstatic.com",
+                "highres_link": "https://secure.meetupstatic.com/photos/member/2/8/5/c/highres_222010332.jpeg",
+                "id": 222010332,
+                "photo_link": "https://secure.meetupstatic.com/photos/member/2/8/5/c/member_222010332.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/member/2/8/5/c/thumb_222010332.jpeg",
+                "type": "member"
+            }
+        },
+        "score": 1.0,
+        "state": "",
+        "status": "active",
+        "timezone": "Europe/Warsaw",
+        "untranslated_city": "Kraków",
+        "urlname": "Motorola-Software-Developers-Meetup",
+        "visibility": "public",
+        "who": "Software Developers"
+    },
+    {
+        "category": {
+            "id": 34,
+            "name": "Tech",
+            "shortname": "tech",
+            "sort_name": "Tech"
+        },
+        "city": "Kraków",
+        "country": "PL",
+        "created": 1426783580000,
+        "description": "<p>At our meetups we like to collaborate ideas, provide an environment for education and discovery and make data fun all whilst increasing knowledge about kdb+ and its programming language, q.</p>\n<p>Interested in topics such as Industry 4.0, IIoT, IoT, Manufacturing and Consumer Insights? If so then this meetup is for you! Everybody from total newbies to q \"Gods\" are welcome!</p>\n<p>You bring the laptop; we’ll bring the pizza!</p>\n<p>Come along for an interactive evening of coding with an experienced Kx engineer.</p>\n<p>We look forward to seeing you there!</p>",
+        "group_photo": {
+            "base_url": "https://secure.meetupstatic.com",
+            "highres_link": "https://secure.meetupstatic.com/photos/event/4/4/9/6/highres_468017558.jpeg",
+            "id": 468017558,
+            "photo_link": "https://secure.meetupstatic.com/photos/event/4/4/9/6/600_468017558.jpeg",
+            "thumb_link": "https://secure.meetupstatic.com/photos/event/4/4/9/6/thumb_468017558.jpeg",
+            "type": "event"
+        },
+        "id": 18511428,
+        "join_mode": "open",
+        "key_photo": {
+            "base_url": "https://secure.meetupstatic.com",
+            "highres_link": "https://secure.meetupstatic.com/photos/event/4/4/9/9/highres_468017561.jpeg",
+            "id": 468017561,
+            "photo_link": "https://secure.meetupstatic.com/photos/event/4/4/9/9/600_468017561.jpeg",
+            "thumb_link": "https://secure.meetupstatic.com/photos/event/4/4/9/9/thumb_468017561.jpeg",
+            "type": "event"
+        },
+        "lat": 50.06,
+        "link": "https://www.meetup.com/kx-krakow/",
+        "localized_country_name": "Poland",
+        "localized_location": "Kraków, Poland",
+        "lon": 19.96,
+        "members": 46,
+        "meta_category": {
+            "category_ids": [
+                34
+            ],
+            "id": 292,
+            "name": "Tech",
+            "photo": {
+                "base_url": "https://secure.meetupstatic.com",
+                "highres_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
+                "id": 450131949,
+                "photo_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
+                "type": "event"
+            },
+            "shortname": "tech",
+            "sort_name": "Tech"
+        },
+        "name": "Analytics At Speed Krakow",
+        "organizer": {
+            "bio": "For those interested in the kdb+ database and its programming language, q. To provide an environment for people to meet, chat and present various topics on kdb+ and its industry applications. Everybody from total newbies to q \"Gods\" are welcome!",
+            "id": 196296186,
+            "name": "Kx Community",
+            "photo": {
+                "base_url": "https://secure.meetupstatic.com",
+                "highres_link": "https://secure.meetupstatic.com/photos/member/2/1/8/9/highres_251828585.jpeg",
+                "id": 251828585,
+                "photo_link": "https://secure.meetupstatic.com/photos/member/2/1/8/9/member_251828585.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/member/2/1/8/9/thumb_251828585.jpeg",
+                "type": "member"
+            }
+        },
+        "score": 1.0,
+        "state": "",
+        "status": "active",
+        "timezone": "Europe/Warsaw",
+        "untranslated_city": "Kraków",
+        "urlname": "kx-krakow",
+        "visibility": "public",
+        "who": "q-ists"
+    },
+    {
+        "category": {
+            "id": 34,
+            "name": "Tech",
+            "shortname": "tech",
+            "sort_name": "Tech"
+        },
+        "city": "Kraków",
+        "country": "PL",
+        "created": 1327579224000,
+        "description": "<p><span>Data KRK brings practical Data Science to Krakow. It is everything you always wanted to know about Big Data, NoSQL or Machine Learning, but were afraid to ask.</span></p>\n<p>Our main area of interest is Hadoop Ecosystem and bringing business value out of it, but we don't forget about anything related to Data Science.</p>\n<p><span>Whether you just want to have a good time...or are planning to change the world with your ideas (and a bit of number crunching), join us!</span></p>\n<p><span>We meet each month to present an inspiring talk or organize a data-hacking session.</span></p>\n<p> </p>",
+        "group_photo": {
+            "base_url": "https://secure.meetupstatic.com",
+            "highres_link": "https://secure.meetupstatic.com/photos/event/7/1/f/4/highres_222269172.jpeg",
+            "id": 222269172,
+            "photo_link": "https://secure.meetupstatic.com/photos/event/7/1/f/4/600_222269172.jpeg",
+            "thumb_link": "https://secure.meetupstatic.com/photos/event/7/1/f/4/thumb_222269172.jpeg",
+            "type": "event"
+        },
+        "id": 3171672,
+        "join_mode": "open",
+        "key_photo": {
+            "base_url": "https://secure.meetupstatic.com",
+            "highres_link": "https://secure.meetupstatic.com/photos/event/4/2/4/3/highres_451576963.jpeg",
+            "id": 451576963,
+            "photo_link": "https://secure.meetupstatic.com/photos/event/4/2/4/3/600_451576963.jpeg",
+            "thumb_link": "https://secure.meetupstatic.com/photos/event/4/2/4/3/thumb_451576963.jpeg",
+            "type": "event"
+        },
+        "lat": 50.06,
+        "link": "https://www.meetup.com/datakrk/",
+        "localized_country_name": "Poland",
+        "localized_location": "Kraków, Poland",
+        "lon": 19.96,
+        "members": 2140,
+        "meta_category": {
+            "category_ids": [
+                34
+            ],
+            "id": 292,
+            "name": "Tech",
+            "photo": {
+                "base_url": "https://secure.meetupstatic.com",
+                "highres_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
+                "id": 450131949,
+                "photo_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
+                "type": "event"
+            },
+            "shortname": "tech",
+            "sort_name": "Tech"
+        },
+        "name": "DataKRK (formerly Cracow Hadoop User Group)",
+        "organizer": {
+            "bio": "",
+            "id": 61448142,
+            "name": "Przemek Maciolek",
+            "photo": {
+                "base_url": "https://secure.meetupstatic.com",
+                "id": 71389142,
+                "photo_link": "https://secure.meetupstatic.com/photos/member/b/f/f/6/member_71389142.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/member/b/f/f/6/thumb_71389142.jpeg",
+                "type": "member"
+            }
+        },
+        "score": 1.0,
+        "state": "",
+        "status": "active",
+        "timezone": "Europe/Warsaw",
+        "untranslated_city": "Kraków",
+        "urlname": "datakrk",
+        "visibility": "public",
+        "who": "Members"
+    }
+]

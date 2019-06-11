@@ -1,0 +1,1527 @@
+[
+    {
+        "category": {
+            "id": 34,
+            "name": "Tech",
+            "shortname": "tech",
+            "sort_name": "Tech"
+        },
+        "city": "Poznan",
+        "country": "PL",
+        "created": 1552917795000,
+        "description": "<p>Nasza grupa powstaje dla osób zainteresowanych tematyką AI i technologii webowych. Chcielibyśmy stworzyć miejsce, w którym będziemy mogli dzielić się wiedzą, zachęcać do zgłębiania poruszanych tematów, a zainteresowanym przedstawić projekty, nad którymi aktualnie pracujemy.</p>",
+        "id": 31418066,
+        "join_mode": "open",
+        "key_photo": {
+            "base_url": "https://secure.meetupstatic.com",
+            "highres_link": "https://secure.meetupstatic.com/photos/event/6/5/8/6/highres_479605990.jpeg",
+            "id": 479605990,
+            "photo_link": "https://secure.meetupstatic.com/photos/event/6/5/8/6/600_479605990.jpeg",
+            "thumb_link": "https://secure.meetupstatic.com/photos/event/6/5/8/6/thumb_479605990.jpeg",
+            "type": "event"
+        },
+        "lat": 52.4,
+        "link": "https://www.meetup.com/Pearson-AI-Tech/",
+        "localized_country_name": "Poland",
+        "localized_location": "Poznan, Poland",
+        "lon": 16.9,
+        "members": 224,
+        "meta_category": {
+            "category_ids": [
+                34
+            ],
+            "id": 292,
+            "name": "Tech",
+            "photo": {
+                "base_url": "https://secure.meetupstatic.com",
+                "highres_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
+                "id": 450131949,
+                "photo_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
+                "type": "event"
+            },
+            "shortname": "tech",
+            "sort_name": "Tech"
+        },
+        "name": "Pearson Poznań AI & Tech",
+        "next_event": {
+            "id": "259868913",
+            "name": "AI Talks #1: NLP, A/B Testing i dinozaury",
+            "time": 1560441600000,
+            "utc_offset": 7200000,
+            "yes_rsvp_count": 101
+        },
+        "organizer": {
+            "bio": "",
+            "id": 235790414,
+            "name": "Dominika Kostrzewska",
+            "photo": {
+                "base_url": "https://secure.meetupstatic.com",
+                "highres_link": "https://secure.meetupstatic.com/photos/member/8/3/7/1/highres_270393649.jpeg",
+                "id": 270393649,
+                "photo_link": "https://secure.meetupstatic.com/photos/member/8/3/7/1/member_270393649.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/member/8/3/7/1/thumb_270393649.jpeg",
+                "type": "member"
+            }
+        },
+        "score": 1.0,
+        "state": "",
+        "status": "active",
+        "timezone": "Europe/Warsaw",
+        "untranslated_city": "Poznan",
+        "urlname": "Pearson-AI-Tech",
+        "visibility": "public",
+        "who": "Członkowie"
+    },
+    {
+        "category": {
+            "id": 34,
+            "name": "Tech",
+            "shortname": "tech",
+            "sort_name": "Tech"
+        },
+        "city": "Wroclaw",
+        "country": "PL",
+        "created": 1484661563000,
+        "description": "<p><b>R</b> to jedno z bardziej popularnych otwartych środowisk analizy danych. Podczas spotkań Stowarzyszenia Wrocławskich Użytkowników R (STWUR) rozmawiamy o <b>R</b>, nie podczas akademickich wykładów, ale w trakcie warsztatów podczas których wspólnie poznajemy nowe narzędzia e<b>R</b>owe i techniki analizy danych. Opanowane umiejętności natychmiast wykorzystujemy w praktyce, a rezultaty analizy dyskutujemy pod koniec każdego spotkania.</p>\n<p>We meet to talk about <b>R</b>. Instead of listening to theoretical lectures, we learn new <b>R</b> tools and data analysis techniques. We instantly implement learned solutions and discuss results of our pursuits.</p>",
+        "group_photo": {
+            "base_url": "https://secure.meetupstatic.com",
+            "highres_link": "https://secure.meetupstatic.com/photos/event/7/8/4/highres_476341924.jpeg",
+            "id": 476341924,
+            "photo_link": "https://secure.meetupstatic.com/photos/event/7/8/4/600_476341924.jpeg",
+            "thumb_link": "https://secure.meetupstatic.com/photos/event/7/8/4/thumb_476341924.jpeg",
+            "type": "event"
+        },
+        "id": 21966342,
+        "join_mode": "open",
+        "key_photo": {
+            "base_url": "https://secure.meetupstatic.com",
+            "highres_link": "https://secure.meetupstatic.com/photos/event/9/6/c/3/highres_476498595.jpeg",
+            "id": 476498595,
+            "photo_link": "https://secure.meetupstatic.com/photos/event/9/6/c/3/600_476498595.jpeg",
+            "thumb_link": "https://secure.meetupstatic.com/photos/event/9/6/c/3/thumb_476498595.jpeg",
+            "type": "event"
+        },
+        "lat": 51.11,
+        "link": "https://www.meetup.com/Wroclaw-R-Users-Group/",
+        "localized_country_name": "Poland",
+        "localized_location": "Wroclaw, Poland",
+        "lon": 17.03,
+        "members": 621,
+        "meta_category": {
+            "category_ids": [
+                34
+            ],
+            "id": 292,
+            "name": "Tech",
+            "photo": {
+                "base_url": "https://secure.meetupstatic.com",
+                "highres_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
+                "id": 450131949,
+                "photo_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
+                "type": "event"
+            },
+            "shortname": "tech",
+            "sort_name": "Tech"
+        },
+        "name": "STWUR - Wroclaw R Users Group Meetup",
+        "next_event": {
+            "id": "261825090",
+            "name": "WAMPIR #1: GANs and NLP",
+            "time": 1560441600000,
+            "utc_offset": 7200000,
+            "yes_rsvp_count": 58
+        },
+        "organizer": {
+            "bio": "",
+            "id": 215835833,
+            "name": "Michał Burdukiewicz",
+            "photo": {
+                "base_url": "https://secure.meetupstatic.com",
+                "highres_link": "https://secure.meetupstatic.com/photos/member/6/d/1/4/highres_263427924.jpeg",
+                "id": 263427924,
+                "photo_link": "https://secure.meetupstatic.com/photos/member/6/d/1/4/member_263427924.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/member/6/d/1/4/thumb_263427924.jpeg",
+                "type": "member"
+            }
+        },
+        "score": 1.0,
+        "state": "",
+        "status": "active",
+        "timezone": "Europe/Warsaw",
+        "untranslated_city": "Wroclaw",
+        "urlname": "Wroclaw-R-Users-Group",
+        "visibility": "public",
+        "who": "Members"
+    },
+    {
+        "category": {
+            "id": 34,
+            "name": "Tech",
+            "shortname": "tech",
+            "sort_name": "Tech"
+        },
+        "city": "Poznan",
+        "country": "PL",
+        "created": 1448646607000,
+        "description": "<p>Grupa dla osób zainteresowanych pakietem statystycznym R oraz ogólnie pojętym data science</p>",
+        "id": 19159837,
+        "join_mode": "open",
+        "key_photo": {
+            "base_url": "https://secure.meetupstatic.com",
+            "highres_link": "https://secure.meetupstatic.com/photos/event/a/b/8/b/highres_481363915.jpeg",
+            "id": 481363915,
+            "photo_link": "https://secure.meetupstatic.com/photos/event/a/b/8/b/600_481363915.jpeg",
+            "thumb_link": "https://secure.meetupstatic.com/photos/event/a/b/8/b/thumb_481363915.jpeg",
+            "type": "event"
+        },
+        "lat": 52.4,
+        "link": "https://www.meetup.com/Poznan-R-User-Group-PAZUR/",
+        "localized_country_name": "Poland",
+        "localized_location": "Poznan, Poland",
+        "lon": 16.9,
+        "members": 561,
+        "meta_category": {
+            "category_ids": [
+                34
+            ],
+            "id": 292,
+            "name": "Tech",
+            "photo": {
+                "base_url": "https://secure.meetupstatic.com",
+                "highres_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
+                "id": 450131949,
+                "photo_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
+                "type": "event"
+            },
+            "shortname": "tech",
+            "sort_name": "Tech"
+        },
+        "name": "Poznan R Users Group (PAZUR)",
+        "next_event": {
+            "id": "261733766",
+            "name": "PAZUR 33 - Jan Górecki (data.table)",
+            "time": 1560873600000,
+            "utc_offset": 7200000,
+            "yes_rsvp_count": 24
+        },
+        "organizer": {
+            "bio": "",
+            "id": 196133157,
+            "name": "Maciej Beręsewicz",
+            "photo": {
+                "base_url": "https://secure.meetupstatic.com",
+                "highres_link": "https://secure.meetupstatic.com/photos/member/c/f/b/f/highres_252113183.jpeg",
+                "id": 252113183,
+                "photo_link": "https://secure.meetupstatic.com/photos/member/c/f/b/f/member_252113183.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/member/c/f/b/f/thumb_252113183.jpeg",
+                "type": "member"
+            }
+        },
+        "score": 1.0,
+        "state": "",
+        "status": "active",
+        "timezone": "Europe/Warsaw",
+        "untranslated_city": "Poznan",
+        "urlname": "Poznan-R-User-Group-PAZUR",
+        "visibility": "public",
+        "who": "R users"
+    },
+    {
+        "category": {
+            "id": 34,
+            "name": "Tech",
+            "shortname": "tech",
+            "sort_name": "Tech"
+        },
+        "city": "Wroclaw",
+        "country": "PL",
+        "created": 1547733171000,
+        "description": "<p><a href=\"https://www.mckinsey.com/knowledge-network/wroclaw/knowledge-network-tech-meetups\">Knowledge Network Tech Meetups</a></p>\n<p>Join our Wroclaw community of practitioners on Tuesdays from 18:30 – 20:30 in the Knowledge Center for interactive technical presentations by data scientists, tech entrepreneurs and experts. All presentations will be facilitated by researcher and founder of the Wrocław R User Group Michał Burdukiewicz, and followed by a networking reception. Space is limited.</p>\n<p>When: Select Tuesdays, 18:30 – 20:30</p>\n<p>Where: McKinsey Polish Knowledge Center <br>Plac Grunwaldzki 23-27 <br>Wroclaw 50–365</p>\n<p>Facilitator: Michał Burdukiewicz</p>\n<p><br></p>",
+        "id": 30946172,
+        "join_mode": "open",
+        "key_photo": {
+            "base_url": "https://secure.meetupstatic.com",
+            "highres_link": "https://secure.meetupstatic.com/photos/event/a/e/3/d/highres_478064605.jpeg",
+            "id": 478064605,
+            "photo_link": "https://secure.meetupstatic.com/photos/event/a/e/3/d/600_478064605.jpeg",
+            "thumb_link": "https://secure.meetupstatic.com/photos/event/a/e/3/d/thumb_478064605.jpeg",
+            "type": "event"
+        },
+        "lat": 51.11,
+        "link": "https://www.meetup.com/McKinsey-Company-Knowledge-Network-Tech-Meetup/",
+        "localized_country_name": "Poland",
+        "localized_location": "Wroclaw, Poland",
+        "lon": 17.03,
+        "members": 210,
+        "meta_category": {
+            "category_ids": [
+                34
+            ],
+            "id": 292,
+            "name": "Tech",
+            "photo": {
+                "base_url": "https://secure.meetupstatic.com",
+                "highres_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
+                "id": 450131949,
+                "photo_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
+                "type": "event"
+            },
+            "shortname": "tech",
+            "sort_name": "Tech"
+        },
+        "name": "McKinsey & Company Knowledge Network Tech Meetup",
+        "organizer": {
+            "bio": "",
+            "id": 278070609,
+            "name": "Marta Swiniarska",
+            "photo": {
+                "base_url": "https://secure.meetupstatic.com",
+                "highres_link": "https://secure.meetupstatic.com/photos/member/7/f/2/7/highres_286952551.jpeg",
+                "id": 286952551,
+                "photo_link": "https://secure.meetupstatic.com/photos/member/7/f/2/7/member_286952551.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/member/7/f/2/7/thumb_286952551.jpeg",
+                "type": "member"
+            }
+        },
+        "score": 1.0,
+        "state": "",
+        "status": "active",
+        "timezone": "Europe/Warsaw",
+        "untranslated_city": "Wroclaw",
+        "urlname": "McKinsey-Company-Knowledge-Network-Tech-Meetup",
+        "visibility": "public",
+        "who": "Members"
+    },
+    {
+        "category": {
+            "id": 34,
+            "name": "Tech",
+            "shortname": "tech",
+            "sort_name": "Tech"
+        },
+        "city": "Wroclaw",
+        "country": "PL",
+        "created": 1491568969000,
+        "description": "<p>Stacja IT to całodniowe warsztaty hands-on, bezpłatna edukacja trenerska, miejsce spotkań ekspertów branżowych, profesjonalistów, którzy nieprzerwanie podnoszą swoje kompetencje, trenerów, przedsiębiorców i twórców startupów, a także osób wchodzących na rynek pracy.</p>\n<p>Wstąp na Stację i złap pociag do kodowania! <a href=\"http://www.stacja.it\" class=\"linkified\">http://www.stacja.it</a></p>",
+        "id": 23193005,
+        "join_mode": "open",
+        "lat": 51.11,
+        "link": "https://www.meetup.com/Stacja-IT-Wroclaw/",
+        "localized_country_name": "Poland",
+        "localized_location": "Wroclaw, Poland",
+        "lon": 17.03,
+        "members": 1062,
+        "meta_category": {
+            "category_ids": [
+                34
+            ],
+            "id": 292,
+            "name": "Tech",
+            "photo": {
+                "base_url": "https://secure.meetupstatic.com",
+                "highres_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
+                "id": 450131949,
+                "photo_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
+                "type": "event"
+            },
+            "shortname": "tech",
+            "sort_name": "Tech"
+        },
+        "name": "Stacja IT Wrocław",
+        "organizer": {
+            "bio": "",
+            "id": 199474210,
+            "name": "Maria Nowakowska",
+            "photo": {
+                "base_url": "https://secure.meetupstatic.com",
+                "highres_link": "https://secure.meetupstatic.com/photos/member/5/e/e/b/highres_269484299.jpeg",
+                "id": 269484299,
+                "photo_link": "https://secure.meetupstatic.com/photos/member/5/e/e/b/member_269484299.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/member/5/e/e/b/thumb_269484299.jpeg",
+                "type": "member"
+            }
+        },
+        "score": 1.0,
+        "state": "",
+        "status": "active",
+        "timezone": "Europe/Warsaw",
+        "untranslated_city": "Wroclaw",
+        "urlname": "Stacja-IT-Wroclaw",
+        "visibility": "public",
+        "who": "Members"
+    },
+    {
+        "category": {
+            "id": 34,
+            "name": "Tech",
+            "shortname": "tech",
+            "sort_name": "Tech"
+        },
+        "city": "Poznan",
+        "country": "PL",
+        "created": 1491569917000,
+        "description": "<p>Stacja IT to całodniowe warsztaty hands-on, bezpłatna edukacja trenerska, miejsce spotkań ekspertów branżowych, profesjonalistów, którzy nieprzerwanie podnoszą swoje kompetencje, trenerów, przedsiębiorców i twórców startupów, a także osób wchodzących na rynek pracy.</p>\n<p>Wstąp na Stację i złap pociag do kodowania! <a href=\"http://www.stacja.it\" class=\"linkified\">http://www.stacja.it</a></p>",
+        "id": 23193247,
+        "join_mode": "open",
+        "lat": 52.4,
+        "link": "https://www.meetup.com/Stacja-IT-Poznan/",
+        "localized_country_name": "Poland",
+        "localized_location": "Poznan, Poland",
+        "lon": 16.9,
+        "members": 889,
+        "meta_category": {
+            "category_ids": [
+                34
+            ],
+            "id": 292,
+            "name": "Tech",
+            "photo": {
+                "base_url": "https://secure.meetupstatic.com",
+                "highres_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
+                "id": 450131949,
+                "photo_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
+                "type": "event"
+            },
+            "shortname": "tech",
+            "sort_name": "Tech"
+        },
+        "name": "Stacja IT Poznań",
+        "organizer": {
+            "bio": "",
+            "id": 199474210,
+            "name": "Maria Nowakowska",
+            "photo": {
+                "base_url": "https://secure.meetupstatic.com",
+                "highres_link": "https://secure.meetupstatic.com/photos/member/5/e/e/b/highres_269484299.jpeg",
+                "id": 269484299,
+                "photo_link": "https://secure.meetupstatic.com/photos/member/5/e/e/b/member_269484299.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/member/5/e/e/b/thumb_269484299.jpeg",
+                "type": "member"
+            }
+        },
+        "score": 1.0,
+        "state": "",
+        "status": "active",
+        "timezone": "Europe/Warsaw",
+        "untranslated_city": "Poznan",
+        "urlname": "Stacja-IT-Poznan",
+        "visibility": "public",
+        "who": "Members"
+    },
+    {
+        "category": {
+            "id": 34,
+            "name": "Tech",
+            "shortname": "tech",
+            "sort_name": "Tech"
+        },
+        "city": "Wroclaw",
+        "country": "PL",
+        "created": 1538580608000,
+        "description": "<p>Intelligent/Cognitive Systems consume data that are too complex for current databases to handle. GRAKN.AI is a hyper-relational database that allows you to perform knowledge engineering to manage this complexity. Effectively, Grakn provides a Knowledge Graph as the core foundation of intelligent systems.</p>\n<p>Grakn provides an intelligent query language, Graql: Grakn’s reasoning (through OLTP) and analytics (through OLAP) query language, which is a much higher-level abstraction over traditional query languages. This allows intelligent systems to benefit from an intuitive language the provides an expressive schema for knowledge modelling, reasoning transactions for real-time inference, distributed algorithms for large-scale analytics, and optimisation of query execution. Grakn also provides the logical integrity of SQL, the scale of relationships of Graph databases, and the horizontal scalability of NoSQL.</p>\n<p>In this community, we discuss the underlying technology and applications of the Grakn hyper-relational database. We will also discuss the techniques of a new software engineering principle, Knowledge-Driven Development, that Grakn now enables. The group is for engineers to demonstrate their solutions and share the lessons they learnt, as well as business leaders to learn applications of Grakn in their business.</p>",
+        "group_photo": {
+            "base_url": "https://secure.meetupstatic.com",
+            "highres_link": "https://secure.meetupstatic.com/photos/event/b/0/1/a/highres_475125082.jpeg",
+            "id": 475125082,
+            "photo_link": "https://secure.meetupstatic.com/photos/event/b/0/1/a/600_475125082.jpeg",
+            "thumb_link": "https://secure.meetupstatic.com/photos/event/b/0/1/a/thumb_475125082.jpeg",
+            "type": "event"
+        },
+        "id": 30049385,
+        "join_mode": "open",
+        "key_photo": {
+            "base_url": "https://secure.meetupstatic.com",
+            "highres_link": "https://secure.meetupstatic.com/photos/event/a/f/e/2/highres_475125026.jpeg",
+            "id": 475125026,
+            "photo_link": "https://secure.meetupstatic.com/photos/event/a/f/e/2/600_475125026.jpeg",
+            "thumb_link": "https://secure.meetupstatic.com/photos/event/a/f/e/2/thumb_475125026.jpeg",
+            "type": "event"
+        },
+        "lat": 51.11,
+        "link": "https://www.meetup.com/grakn-poland/",
+        "localized_country_name": "Poland",
+        "localized_location": "Wroclaw, Poland",
+        "lon": 17.03,
+        "members": 176,
+        "meta_category": {
+            "category_ids": [
+                34
+            ],
+            "id": 292,
+            "name": "Tech",
+            "photo": {
+                "base_url": "https://secure.meetupstatic.com",
+                "highres_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
+                "id": 450131949,
+                "photo_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
+                "type": "event"
+            },
+            "shortname": "tech",
+            "sort_name": "Tech"
+        },
+        "name": "GRAKN.AI Poland Engineers",
+        "organizer": {
+            "bio": "",
+            "id": 29057012,
+            "name": "Tomás Sabat",
+            "photo": {
+                "base_url": "https://secure.meetupstatic.com",
+                "highres_link": "https://secure.meetupstatic.com/photos/member/c/f/9/highres_269283321.jpeg",
+                "id": 269283321,
+                "photo_link": "https://secure.meetupstatic.com/photos/member/c/f/9/member_269283321.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/member/c/f/9/thumb_269283321.jpeg",
+                "type": "member"
+            }
+        },
+        "score": 1.0,
+        "state": "",
+        "status": "active",
+        "timezone": "Europe/Warsaw",
+        "untranslated_city": "Wroclaw",
+        "urlname": "grakn-poland",
+        "visibility": "public",
+        "who": "Engineers"
+    },
+    {
+        "category": {
+            "id": 34,
+            "name": "Tech",
+            "shortname": "tech",
+            "sort_name": "Tech"
+        },
+        "city": "Wroclaw",
+        "country": "PL",
+        "created": 1495379443000,
+        "description": "<p>This is a group for anyone interested in Artificial Intelligence, how it can be used in the enterprise and what benefits it can bring. This group was started to meet others with an interest in AI technology and to share different experiences. The group is aligned with Neurons.AI - The Online Professional Network for AI, but you don't have to be a member of Neurons to join this meetup ... everyone is welcome to these meetings.</p>\n<p>Don't forget to follow us on Twitter <a href=\"https://twitter.com/Neurons_AI\">@Neurons_AI</a> and sign up to <a href=\"http://Neurons.AI\">Neurons.AI</a>&nbsp;</p>\n<p><span>Would you like to help run this Neurons.AI Meetup Chapter, if so please let us know at </span><a href=\"mailto:meetups@neurons.ai\">meetups@neurons.ai</a><span>.</span><br></p>\n<p>For more information on this and other Neurons.AI meetups please visit <a href=\"http://Chapters.Neurons.AI\" class=\"linkified\">http://Chapters.Neurons.AI</a></p>",
+        "group_photo": {
+            "base_url": "https://secure.meetupstatic.com",
+            "highres_link": "https://secure.meetupstatic.com/photos/event/8/7/3/2/highres_470674610.jpeg",
+            "id": 470674610,
+            "photo_link": "https://secure.meetupstatic.com/photos/event/8/7/3/2/600_470674610.jpeg",
+            "thumb_link": "https://secure.meetupstatic.com/photos/event/8/7/3/2/thumb_470674610.jpeg",
+            "type": "event"
+        },
+        "id": 23916726,
+        "join_mode": "open",
+        "key_photo": {
+            "base_url": "https://secure.meetupstatic.com",
+            "highres_link": "https://secure.meetupstatic.com/photos/event/b/2/5/5/highres_461145653.jpeg",
+            "id": 461145653,
+            "photo_link": "https://secure.meetupstatic.com/photos/event/b/2/5/5/600_461145653.jpeg",
+            "thumb_link": "https://secure.meetupstatic.com/photos/event/b/2/5/5/thumb_461145653.jpeg",
+            "type": "event"
+        },
+        "lat": 51.11,
+        "link": "https://www.meetup.com/Neurons-AI-Poland-Wroclaw/",
+        "localized_country_name": "Poland",
+        "localized_location": "Wroclaw, Poland",
+        "lon": 17.03,
+        "members": 124,
+        "meta_category": {
+            "category_ids": [
+                34
+            ],
+            "id": 292,
+            "name": "Tech",
+            "photo": {
+                "base_url": "https://secure.meetupstatic.com",
+                "highres_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
+                "id": 450131949,
+                "photo_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
+                "type": "event"
+            },
+            "shortname": "tech",
+            "sort_name": "Tech"
+        },
+        "name": "Neurons.AI (Poland - Wroclaw)",
+        "organizer": {
+            "bio": "Neurons.AI is the Global Professional Network for AI Practitioners and Researchers",
+            "id": 227497678,
+            "name": "Neurons Meetups",
+            "photo": {
+                "base_url": "https://secure.meetupstatic.com",
+                "highres_link": "https://secure.meetupstatic.com/photos/member/6/7/1/highres_266881649.jpeg",
+                "id": 266881649,
+                "photo_link": "https://secure.meetupstatic.com/photos/member/6/7/1/member_266881649.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/member/6/7/1/thumb_266881649.jpeg",
+                "type": "member"
+            }
+        },
+        "score": 1.0,
+        "state": "",
+        "status": "active",
+        "timezone": "Europe/Warsaw",
+        "untranslated_city": "Wroclaw",
+        "urlname": "Neurons-AI-Poland-Wroclaw",
+        "visibility": "public",
+        "who": "Neurons"
+    },
+    {
+        "category": {
+            "id": 34,
+            "name": "Tech",
+            "shortname": "tech",
+            "sort_name": "Tech"
+        },
+        "city": "Wroclaw",
+        "country": "PL",
+        "created": 1474640839000,
+        "description": "<p>PyData is an educational program of NumFOCUS, a 501(c)3 non-profit organization in the United States. PyData provides a forum for the international community of users and developers of data analysis tools to share ideas and learn from each other. The global PyData network promotes discussion of best practices, new approaches, and emerging technologies for data management, processing, analytics, and visualization. PyData communities approach data science using many languages, including (but not limited to) Python, Julia, and R.</p>\n<p>Follow us on twitter <a href=\"https://twitter.com/PyDataWroclaw\">@PyDataWroclaw</a><span>!&nbsp;</span></p>\n<p>The PyData&nbsp;<a href=\"http://pydata.org/code-of-conduct.html\">Code of Conduct</a>&nbsp;<span>governs this meetup. To discuss any issues or concerns relating to the code of conduct or the behavior of anyone at a PyData meetup, please contact the organizer: Christian Barra (+48 730064638, barrachri@gmail.com) or NumFOCUS Executive Director Leah Silen (+1 512-222-5449, leah@numfocus.org).</span></p>",
+        "group_photo": {
+            "base_url": "https://secure.meetupstatic.com",
+            "highres_link": "https://secure.meetupstatic.com/photos/event/a/7/c/4/highres_454542948.jpeg",
+            "id": 454542948,
+            "photo_link": "https://secure.meetupstatic.com/photos/event/a/7/c/4/600_454542948.jpeg",
+            "thumb_link": "https://secure.meetupstatic.com/photos/event/a/7/c/4/thumb_454542948.jpeg",
+            "type": "event"
+        },
+        "id": 20458771,
+        "join_mode": "open",
+        "key_photo": {
+            "base_url": "https://secure.meetupstatic.com",
+            "highres_link": "https://secure.meetupstatic.com/photos/event/a/7/c/4/highres_454542948.jpeg",
+            "id": 454542948,
+            "photo_link": "https://secure.meetupstatic.com/photos/event/a/7/c/4/600_454542948.jpeg",
+            "thumb_link": "https://secure.meetupstatic.com/photos/event/a/7/c/4/thumb_454542948.jpeg",
+            "type": "event"
+        },
+        "lat": 51.11,
+        "link": "https://www.meetup.com/PyData-Wroclaw/",
+        "localized_country_name": "Poland",
+        "localized_location": "Wroclaw, Poland",
+        "lon": 17.03,
+        "members": 593,
+        "meta_category": {
+            "category_ids": [
+                34
+            ],
+            "id": 292,
+            "name": "Tech",
+            "photo": {
+                "base_url": "https://secure.meetupstatic.com",
+                "highres_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
+                "id": 450131949,
+                "photo_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
+                "type": "event"
+            },
+            "shortname": "tech",
+            "sort_name": "Tech"
+        },
+        "name": "PyData Wroclaw",
+        "organizer": {
+            "bio": "",
+            "id": 249568730,
+            "name": "Maciej Sobczak"
+        },
+        "pro_network": {
+            "name": "PyData",
+            "network_url": "https://www.meetup.com/pro/pydata/",
+            "number_of_groups": 140,
+            "urlname": "pydata"
+        },
+        "score": 1.0,
+        "state": "",
+        "status": "active",
+        "timezone": "Europe/Warsaw",
+        "untranslated_city": "Wroclaw",
+        "urlname": "PyData-Wroclaw",
+        "visibility": "public",
+        "who": "Members"
+    },
+    {
+        "category": {
+            "id": 34,
+            "name": "Tech",
+            "shortname": "tech",
+            "sort_name": "Tech"
+        },
+        "city": "Wroclaw",
+        "country": "PL",
+        "created": 1470760225000,
+        "description": "<p>This meetup is focused on the Future of Data and the open community data projects governed by the Apache Software Foundation. Geared towards developers, data scientists and ALL Data enthusiasts who are building modern data applications. Our meetups cover all data -- data-in-motion and data-at-rest. Meetups provide an opportunity to listen, share and work hands on with other technologists in the open source and open community Apache tools.</p>",
+        "id": 20297509,
+        "join_mode": "open",
+        "key_photo": {
+            "base_url": "https://secure.meetupstatic.com",
+            "highres_link": "https://secure.meetupstatic.com/photos/event/a/0/d/3/highres_467021171.jpeg",
+            "id": 467021171,
+            "photo_link": "https://secure.meetupstatic.com/photos/event/a/0/d/3/600_467021171.jpeg",
+            "thumb_link": "https://secure.meetupstatic.com/photos/event/a/0/d/3/thumb_467021171.jpeg",
+            "type": "event"
+        },
+        "lat": 51.11,
+        "link": "https://www.meetup.com/futureofdata-wroclaw/",
+        "localized_country_name": "Poland",
+        "localized_location": "Wroclaw, Poland",
+        "lon": 17.03,
+        "members": 161,
+        "meta_category": {
+            "category_ids": [
+                34
+            ],
+            "id": 292,
+            "name": "Tech",
+            "photo": {
+                "base_url": "https://secure.meetupstatic.com",
+                "highres_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
+                "id": 450131949,
+                "photo_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
+                "type": "event"
+            },
+            "shortname": "tech",
+            "sort_name": "Tech"
+        },
+        "name": "Future of Data: Wroclaw",
+        "organizer": {
+            "bio": "Community Team at Hortonworks.",
+            "id": 217906218,
+            "name": "Future of Data 2",
+            "photo": {
+                "base_url": "https://secure.meetupstatic.com",
+                "highres_link": "https://secure.meetupstatic.com/photos/member/3/6/2/c/highres_278353868.jpeg",
+                "id": 278353868,
+                "photo_link": "https://secure.meetupstatic.com/photos/member/3/6/2/c/member_278353868.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/member/3/6/2/c/thumb_278353868.jpeg",
+                "type": "member"
+            }
+        },
+        "score": 1.0,
+        "state": "",
+        "status": "active",
+        "timezone": "Europe/Warsaw",
+        "untranslated_city": "Wroclaw",
+        "urlname": "futureofdata-wroclaw",
+        "visibility": "public",
+        "who": "Members"
+    },
+    {
+        "category": {
+            "id": 34,
+            "name": "Tech",
+            "shortname": "tech",
+            "sort_name": "Tech"
+        },
+        "city": "Wroclaw",
+        "country": "PL",
+        "created": 1487679120000,
+        "description": "<p>This is a group for anyone interested in building cloud services using Amazon Web Services - AWS. All skill levels are welcome. We are a start-up looking forward to share experiences and meet other AWS enthusiasts!</p>",
+        "id": 22498035,
+        "join_mode": "open",
+        "key_photo": {
+            "base_url": "https://secure.meetupstatic.com",
+            "highres_link": "https://secure.meetupstatic.com/photos/event/d/e/4/b/highres_459716907.jpeg",
+            "id": 459716907,
+            "photo_link": "https://secure.meetupstatic.com/photos/event/d/e/4/b/600_459716907.jpeg",
+            "thumb_link": "https://secure.meetupstatic.com/photos/event/d/e/4/b/thumb_459716907.jpeg",
+            "type": "event"
+        },
+        "lat": 51.11,
+        "link": "https://www.meetup.com/Wroclaw-AWS-Meetup/",
+        "localized_country_name": "Poland",
+        "localized_location": "Wroclaw, Poland",
+        "lon": 17.03,
+        "members": 363,
+        "meta_category": {
+            "category_ids": [
+                34
+            ],
+            "id": 292,
+            "name": "Tech",
+            "photo": {
+                "base_url": "https://secure.meetupstatic.com",
+                "highres_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
+                "id": 450131949,
+                "photo_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
+                "type": "event"
+            },
+            "shortname": "tech",
+            "sort_name": "Tech"
+        },
+        "name": "Wroclaw AWS Meetup",
+        "organizer": {
+            "bio": "",
+            "id": 222452236,
+            "name": "Łukasz Skrajny",
+            "photo": {
+                "base_url": "https://secure.meetupstatic.com",
+                "highres_link": "https://secure.meetupstatic.com/photos/member/3/7/5/highres_264480885.jpeg",
+                "id": 264480885,
+                "photo_link": "https://secure.meetupstatic.com/photos/member/3/7/5/member_264480885.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/member/3/7/5/thumb_264480885.jpeg",
+                "type": "member"
+            }
+        },
+        "score": 1.0,
+        "state": "",
+        "status": "active",
+        "timezone": "Europe/Warsaw",
+        "untranslated_city": "Wroclaw",
+        "urlname": "Wroclaw-AWS-Meetup",
+        "visibility": "public",
+        "who": "Members"
+    },
+    {
+        "category": {
+            "id": 34,
+            "name": "Tech",
+            "shortname": "tech",
+            "sort_name": "Tech"
+        },
+        "city": "Wroclaw",
+        "country": "PL",
+        "created": 1431534638000,
+        "description": "<p>At our meetups we like to collaborate ideas, provide an environment for education and discovery and make data fun all whilst increasing knowledge about kdb+ and its programming language, q.</p>\n<p>Interested in topics such as Industry 4.0, IIoT, IoT, Manufacturing and Consumer Insights? If so then this meetup is for you! Everybody from total newbies to q \"Gods\" are welcome!</p>\n<p>You bring the laptop; we’ll bring the pizza!</p>\n<p>Come along for an interactive evening of coding with an experienced Kx engineer.</p>\n<p>We look forward to seeing you there!</p>",
+        "group_photo": {
+            "base_url": "https://secure.meetupstatic.com",
+            "highres_link": "https://secure.meetupstatic.com/photos/event/b/5/d/highres_448802909.jpeg",
+            "id": 448802909,
+            "photo_link": "https://secure.meetupstatic.com/photos/event/b/5/d/600_448802909.jpeg",
+            "thumb_link": "https://secure.meetupstatic.com/photos/event/b/5/d/thumb_448802909.jpeg",
+            "type": "event"
+        },
+        "id": 18595212,
+        "join_mode": "open",
+        "key_photo": {
+            "base_url": "https://secure.meetupstatic.com",
+            "highres_link": "https://secure.meetupstatic.com/photos/event/4/4/7/b/highres_468017531.jpeg",
+            "id": 468017531,
+            "photo_link": "https://secure.meetupstatic.com/photos/event/4/4/7/b/600_468017531.jpeg",
+            "thumb_link": "https://secure.meetupstatic.com/photos/event/4/4/7/b/thumb_468017531.jpeg",
+            "type": "event"
+        },
+        "lat": 51.11,
+        "link": "https://www.meetup.com/kx-wroclaw/",
+        "localized_country_name": "Poland",
+        "localized_location": "Wroclaw, Poland",
+        "lon": 17.03,
+        "members": 49,
+        "meta_category": {
+            "category_ids": [
+                34
+            ],
+            "id": 292,
+            "name": "Tech",
+            "photo": {
+                "base_url": "https://secure.meetupstatic.com",
+                "highres_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
+                "id": 450131949,
+                "photo_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
+                "type": "event"
+            },
+            "shortname": "tech",
+            "sort_name": "Tech"
+        },
+        "name": "Analytics At Speed Wroclaw",
+        "organizer": {
+            "bio": "For those interested in the kdb+ database and its programming language, q. To provide an environment for people to meet, chat and present various topics on kdb+ and its industry applications. Everybody from total newbies to q \"Gods\" are welcome!",
+            "id": 196296186,
+            "name": "Kx Community",
+            "photo": {
+                "base_url": "https://secure.meetupstatic.com",
+                "highres_link": "https://secure.meetupstatic.com/photos/member/2/1/8/9/highres_251828585.jpeg",
+                "id": 251828585,
+                "photo_link": "https://secure.meetupstatic.com/photos/member/2/1/8/9/member_251828585.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/member/2/1/8/9/thumb_251828585.jpeg",
+                "type": "member"
+            }
+        },
+        "score": 1.0,
+        "state": "",
+        "status": "active",
+        "timezone": "Europe/Warsaw",
+        "untranslated_city": "Wroclaw",
+        "urlname": "kx-wroclaw",
+        "visibility": "public",
+        "who": "q-ists"
+    },
+    {
+        "category": {
+            "id": 34,
+            "name": "Tech",
+            "shortname": "tech",
+            "sort_name": "Tech"
+        },
+        "city": "Wroclaw",
+        "country": "PL",
+        "created": 1486636886000,
+        "description": "<p>Noc IT to cykliczna impreza dla profesjonalistów branży IT organizowana przez Centrum Kompetencyjne AB S.A. Gospodarzem najbliższej edycji będzie QNAP.</p> \n<p>Firma QNAP jest czołowym dostawcą sieciowych pamięci masowych (NAS), które dzięki przemyślanym rozwiązaniom i niezawodności, poprawiają efektywność oraz wydajność pracy. Bogata oferta pozwala instytucjom administracji publicznej, korporacjom czy przedsiębiorstwom na dopasowanie serwera NAS do swoich potrzeb.</p> \n<p>Podczas spotkania zostaną przedstawione urządzenia oraz omówione możliwości systemów operacyjnych QTS oraz QES instalowanych na urządzeniach QNAP oraz narzędzi dostępnych w App Center. Zakres tematyczny obejmuje szeroko pojętą archiwizację danych, przechowywanie i udostępnianie plików, wirtualizację oraz rozwiązania poprawiające produktywność.<br>W trakcie szkolenia do dyspozycji będą partnerzy, którzy pokażą urządzenia, wyjaśnią działanie poszczególnych aplikacji i odpowiedzą na wszelkie pytania dotyczące sprzętu i jego funkcjonalności.</p>",
+        "id": 22300951,
+        "join_mode": "open",
+        "key_photo": {
+            "base_url": "https://secure.meetupstatic.com",
+            "highres_link": "https://secure.meetupstatic.com/photos/event/d/9/2/2/highres_458215586.jpeg",
+            "id": 458215586,
+            "photo_link": "https://secure.meetupstatic.com/photos/event/d/9/2/2/600_458215586.jpeg",
+            "thumb_link": "https://secure.meetupstatic.com/photos/event/d/9/2/2/thumb_458215586.jpeg",
+            "type": "event"
+        },
+        "lat": 51.11,
+        "link": "https://www.meetup.com/NOC-IT/",
+        "localized_country_name": "Poland",
+        "localized_location": "Wroclaw, Poland",
+        "lon": 17.03,
+        "members": 260,
+        "meta_category": {
+            "category_ids": [
+                34
+            ],
+            "id": 292,
+            "name": "Tech",
+            "photo": {
+                "base_url": "https://secure.meetupstatic.com",
+                "highres_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
+                "id": 450131949,
+                "photo_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
+                "type": "event"
+            },
+            "shortname": "tech",
+            "sort_name": "Tech"
+        },
+        "name": "NOC IT",
+        "organizer": {
+            "bio": "",
+            "id": 221701854,
+            "name": "Joanna Owczarek",
+            "photo": {
+                "base_url": "https://secure.meetupstatic.com",
+                "highres_link": "https://secure.meetupstatic.com/photos/member/e/9/a/highres_264123738.jpeg",
+                "id": 264123738,
+                "photo_link": "https://secure.meetupstatic.com/photos/member/e/9/a/member_264123738.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/member/e/9/a/thumb_264123738.jpeg",
+                "type": "member"
+            }
+        },
+        "score": 1.0,
+        "state": "",
+        "status": "active",
+        "timezone": "Europe/Warsaw",
+        "untranslated_city": "Wroclaw",
+        "urlname": "NOC-IT",
+        "visibility": "public",
+        "who": "Members"
+    },
+    {
+        "category": {
+            "id": 34,
+            "name": "Tech",
+            "shortname": "tech",
+            "sort_name": "Tech"
+        },
+        "city": "Wroclaw",
+        "country": "PL",
+        "created": 1426492983000,
+        "description": "<p>[PL] Grupa skupia wszystkich zainteresowanych Data Science, Machine Learning, AI i Big Data, zwłaszcza używających darmowych / otwartych narzędzi. Szczególnie mile widziani są użytkownicy R i Pythona oraz chcący poznać te narzędzia. Co robimy? Networking, wystąpienia, hackathony, warsztaty. Organizatorami są entuzjaści i praktycy analizy danych. Zapraszamy wszystkich zainteresowanych!</p>\n<p>Spotkania grupy są organizowane i sponsorowane przez firmę <a href=\"http://quantup.pl\">QuantUp</a> (organizacja i niektóre wystąpienia, pizza i napoje) oraz <a href=\"http://math.uni.wroc.pl\">Instytut Matematyczny</a> Uniwersytetu Wrocławskiego (sala).<br></p>\n<p>[EN] The group brings together all the people interested in Data Science, Machine Learning, Artificial Intelligence and Big Data. Especially users of free / open tools. In particular, people using and willing to learn R and Python are warmly welcome. What do we do? Networking, talks, hackathons, and workshops. Organized by enthusiasts and practitioners of data analysis. Everyone is invited! <br></p>\n<p>The group is powered by <a href=\"http://quantup.pl\">QuantUp</a> (organization &amp; some talks, pizza + soft drinks) and <a href=\"http://math.uni.wroc.pl\">Institute of Mathematics</a> of University of Wroclaw (the venue).<br></p>",
+        "group_photo": {
+            "base_url": "https://secure.meetupstatic.com",
+            "highres_link": "https://secure.meetupstatic.com/photos/event/a/1/4/c/highres_480281292.jpeg",
+            "id": 480281292,
+            "photo_link": "https://secure.meetupstatic.com/photos/event/a/1/4/c/600_480281292.jpeg",
+            "thumb_link": "https://secure.meetupstatic.com/photos/event/a/1/4/c/thumb_480281292.jpeg",
+            "type": "event"
+        },
+        "id": 18504663,
+        "join_mode": "open",
+        "key_photo": {
+            "base_url": "https://secure.meetupstatic.com",
+            "highres_link": "https://secure.meetupstatic.com/photos/event/9/9/c/1/highres_437199361.jpeg",
+            "id": 437199361,
+            "photo_link": "https://secure.meetupstatic.com/photos/event/9/9/c/1/600_437199361.jpeg",
+            "thumb_link": "https://secure.meetupstatic.com/photos/event/9/9/c/1/thumb_437199361.jpeg",
+            "type": "event"
+        },
+        "lat": 51.11,
+        "link": "https://www.meetup.com/Data-Science-Wroclaw/",
+        "localized_country_name": "Poland",
+        "localized_location": "Wroclaw, Poland",
+        "lon": 17.03,
+        "members": 1688,
+        "meta_category": {
+            "category_ids": [
+                34
+            ],
+            "id": 292,
+            "name": "Tech",
+            "photo": {
+                "base_url": "https://secure.meetupstatic.com",
+                "highres_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
+                "id": 450131949,
+                "photo_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
+                "type": "event"
+            },
+            "shortname": "tech",
+            "sort_name": "Tech"
+        },
+        "name": "Data Science & Machine Learning Wroclaw",
+        "organizer": {
+            "bio": "",
+            "id": 144723792,
+            "name": "Artur Suchwałko",
+            "photo": {
+                "base_url": "https://secure.meetupstatic.com",
+                "highres_link": "https://secure.meetupstatic.com/photos/member/7/6/4/0/highres_194850272.jpeg",
+                "id": 194850272,
+                "photo_link": "https://secure.meetupstatic.com/photos/member/7/6/4/0/member_194850272.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/member/7/6/4/0/thumb_194850272.jpeg",
+                "type": "member"
+            }
+        },
+        "score": 1.0,
+        "state": "",
+        "status": "active",
+        "timezone": "Europe/Warsaw",
+        "untranslated_city": "Wroclaw",
+        "urlname": "Data-Science-Wroclaw",
+        "visibility": "public",
+        "who": "Members"
+    },
+    {
+        "category": {
+            "id": 34,
+            "name": "Tech",
+            "shortname": "tech",
+            "sort_name": "Tech"
+        },
+        "city": "Poznan",
+        "country": "PL",
+        "created": 1522892687000,
+        "description": "<p>Witaj!</p>\n<p>Ta grupa powstała, aby zachęcić osoby, przede wszystkim kobiety, zainteresowane rozwojem w obszarze Machine Learningu i Data Science do aktywnego budowania lokalnej społeczności. Chcemy się spotykać w ramach prelekcji i warsztatów tematycznych na różnym poziomie zaawansowania. A także mniej formalnie, docelowo tworząc społeczność będącą platformą wymiany wiedzy, ale też wsparcia w samorozwoju i budowaniu oddolnych inicjatyw o tematyce ML/DS.&nbsp;</p>\n<p>Chcesz podzielić się z innymi swoją wiedzą? Chcesz poznać nową technologię albo wejść na wyższy poziom wtajemniczenia? Marzy Ci się wykład lub warsztaty techniczne z konkretnego tematu? Świetnie! Dołącz do nas i spróbujmy przekuć idee w działanie!</p>\n<p>Jesteśmy częścią międzynarodowej organizacji Women in Machine Learning &amp; Data Science (<a href=\"http://wimlds.org/\">wimlds.org</a>), a nasza grupa jest otwarta dla wszystkich osób, które chcą dołączyć do naszej społeczności!</p>\n<p>Do zobaczenia na MeetUp-ie!</p>\n<p>Poznański Team WiMLDS</p>\n<p>Official description of WiMLS mission:</p>\n<p>This is a group for women and non-binary persons interested in Machine Learning and Data Science. We meet to socialize, and to discuss machine learning and data science in an informal setting with the purpose of building a community around women in these fields. We are openly inclusive of anyone who identifies as female, genderqueer or non-binary. Men who support our mission are invited to attend our meetups as guests of female members or with permission from the organizers (please send a message to introduce yourself!), though priority will be given to female members if an event is overbooked.</p>\n<p>Our Code of Conduct ( <a href=\"https://github.com/WiMLDS/starter-kit/wiki/Code-of-conduct\" class=\"linkified\">https://github.com/WiMLDS/starter-kit/wiki/Code-of-conduct</a> ) applies to all our spaces, both online and off.</p>\n<p>• Follow @wimlds ( <a href=\"https://twitter.com/wimlds\" class=\"linkified\">https://twitter.com/wimlds</a> ) on Twitter for general WiMLDS news or visit <a href=\"http://wimlds.org\" class=\"linkified\">http://wimlds.org</a> to learn about our chapters in other cities.</p>\n<p>• Women &amp; non-binary folks are invited to join the global WiMLDS Slack group by sending an email to slack@wimlds.org.</p>",
+        "id": 28053881,
+        "join_mode": "open",
+        "key_photo": {
+            "base_url": "https://secure.meetupstatic.com",
+            "highres_link": "https://secure.meetupstatic.com/photos/event/2/a/7/c/highres_469870876.jpeg",
+            "id": 469870876,
+            "photo_link": "https://secure.meetupstatic.com/photos/event/2/a/7/c/600_469870876.jpeg",
+            "thumb_link": "https://secure.meetupstatic.com/photos/event/2/a/7/c/thumb_469870876.jpeg",
+            "type": "event"
+        },
+        "lat": 52.4,
+        "link": "https://www.meetup.com/Poznan-Women-in-Machine-Learning-Data-Science/",
+        "localized_country_name": "Poland",
+        "localized_location": "Poznan, Poland",
+        "lon": 16.9,
+        "members": 510,
+        "meta_category": {
+            "category_ids": [
+                34
+            ],
+            "id": 292,
+            "name": "Tech",
+            "photo": {
+                "base_url": "https://secure.meetupstatic.com",
+                "highres_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
+                "id": 450131949,
+                "photo_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
+                "type": "event"
+            },
+            "shortname": "tech",
+            "sort_name": "Tech"
+        },
+        "name": "Poznań Women in Machine Learning & Data Science",
+        "organizer": {
+            "bio": "",
+            "id": 246181634,
+            "name": "WiMLDS",
+            "photo": {
+                "base_url": "https://secure.meetupstatic.com",
+                "highres_link": "https://secure.meetupstatic.com/photos/member/c/c/8/5/highres_276112357.jpeg",
+                "id": 276112357,
+                "photo_link": "https://secure.meetupstatic.com/photos/member/c/c/8/5/member_276112357.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/member/c/c/8/5/thumb_276112357.jpeg",
+                "type": "member"
+            }
+        },
+        "score": 1.0,
+        "state": "",
+        "status": "active",
+        "timezone": "Europe/Warsaw",
+        "untranslated_city": "Poznan",
+        "urlname": "Poznan-Women-in-Machine-Learning-Data-Science",
+        "visibility": "public",
+        "who": "Members"
+    },
+    {
+        "category": {
+            "id": 34,
+            "name": "Tech",
+            "shortname": "tech",
+            "sort_name": "Tech"
+        },
+        "city": "Poznan",
+        "country": "PL",
+        "created": 1519572247000,
+        "description": "<p>We are creating a community of people interested in artificial intelligence to exchange informations about the technology and it's impact on our life.</p>\n<p>We are already managed to do that in Krakow, Warsaw and Bialystok (see www.aimeetup.pl) and looking forward to do it in Poznan! If you are interested in cooperation (presenting, sponsorship, etc.) please contact us at meetup@2040.io .</p>",
+        "id": 27644145,
+        "join_mode": "open",
+        "key_photo": {
+            "base_url": "https://secure.meetupstatic.com",
+            "highres_link": "https://secure.meetupstatic.com/photos/event/b/6/2/b/highres_468766635.jpeg",
+            "id": 468766635,
+            "photo_link": "https://secure.meetupstatic.com/photos/event/b/6/2/b/600_468766635.jpeg",
+            "thumb_link": "https://secure.meetupstatic.com/photos/event/b/6/2/b/thumb_468766635.jpeg",
+            "type": "event"
+        },
+        "lat": 52.4,
+        "link": "https://www.meetup.com/Artificial-Intelligence-Poznan/",
+        "localized_country_name": "Poland",
+        "localized_location": "Poznan, Poland",
+        "lon": 16.9,
+        "members": 794,
+        "meta_category": {
+            "category_ids": [
+                34
+            ],
+            "id": 292,
+            "name": "Tech",
+            "photo": {
+                "base_url": "https://secure.meetupstatic.com",
+                "highres_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
+                "id": 450131949,
+                "photo_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
+                "type": "event"
+            },
+            "shortname": "tech",
+            "sort_name": "Tech"
+        },
+        "name": "Artificial Intelligence Poznan",
+        "organizer": {
+            "bio": "",
+            "id": 203754623,
+            "name": "Tomasz Wesołowski",
+            "photo": {
+                "base_url": "https://secure.meetupstatic.com",
+                "highres_link": "https://secure.meetupstatic.com/photos/member/7/f/0/4/highres_255872516.jpeg",
+                "id": 255872516,
+                "photo_link": "https://secure.meetupstatic.com/photos/member/7/f/0/4/member_255872516.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/member/7/f/0/4/thumb_255872516.jpeg",
+                "type": "member"
+            }
+        },
+        "score": 1.0,
+        "state": "",
+        "status": "active",
+        "timezone": "Europe/Warsaw",
+        "untranslated_city": "Poznan",
+        "urlname": "Artificial-Intelligence-Poznan",
+        "visibility": "public",
+        "who": "Members"
+    },
+    {
+        "category": {
+            "id": 34,
+            "name": "Tech",
+            "shortname": "tech",
+            "sort_name": "Tech"
+        },
+        "city": "Poznan",
+        "country": "PL",
+        "created": 1503299541000,
+        "description": "<p>This meetup group is based in Poznan but going to organize meetups in whole Poland for anyone interested in learning more about the open source KNIME Analytics Platform, in sharing data analytics best practices, and in networking with other KNIMErs. If you have an interesting KNIME story to tell - please do contact us! &lt;br&gt;</p>\n<p>====================================================</p>\n<p>Grupa założona w Poznaniu jednak każdy kto jest zainteresowany narzedziem, ma spostrzezenia badz doswiadczenia jest mile widziany. Jesli masz cos do powiedzenia na temat KNIME - skontaktuj się z nami!</p>",
+        "group_photo": {
+            "base_url": "https://secure.meetupstatic.com",
+            "highres_link": "https://secure.meetupstatic.com/photos/event/9/3/7/5/highres_463897749.jpeg",
+            "id": 463897749,
+            "photo_link": "https://secure.meetupstatic.com/photos/event/9/3/7/5/600_463897749.jpeg",
+            "thumb_link": "https://secure.meetupstatic.com/photos/event/9/3/7/5/thumb_463897749.jpeg",
+            "type": "event"
+        },
+        "id": 25565671,
+        "join_mode": "open",
+        "key_photo": {
+            "base_url": "https://secure.meetupstatic.com",
+            "highres_link": "https://secure.meetupstatic.com/photos/event/b/0/a/a/highres_473205226.jpeg",
+            "id": 473205226,
+            "photo_link": "https://secure.meetupstatic.com/photos/event/b/0/a/a/600_473205226.jpeg",
+            "thumb_link": "https://secure.meetupstatic.com/photos/event/b/0/a/a/thumb_473205226.jpeg",
+            "type": "event"
+        },
+        "lat": 52.4,
+        "link": "https://www.meetup.com/Poland-KNIME-Users/",
+        "localized_country_name": "Poland",
+        "localized_location": "Poznan, Poland",
+        "lon": 16.9,
+        "members": 125,
+        "meta_category": {
+            "category_ids": [
+                34
+            ],
+            "id": 292,
+            "name": "Tech",
+            "photo": {
+                "base_url": "https://secure.meetupstatic.com",
+                "highres_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
+                "id": 450131949,
+                "photo_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
+                "type": "event"
+            },
+            "shortname": "tech",
+            "sort_name": "Tech"
+        },
+        "name": "Poland KNIME Users",
+        "organizer": {
+            "bio": "",
+            "id": 212932724,
+            "name": "Marten Pfannenschmidt",
+            "photo": {
+                "base_url": "https://secure.meetupstatic.com",
+                "highres_link": "https://secure.meetupstatic.com/photos/member/5/c/e/f/highres_273143791.jpeg",
+                "id": 273143791,
+                "photo_link": "https://secure.meetupstatic.com/photos/member/5/c/e/f/member_273143791.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/member/5/c/e/f/thumb_273143791.jpeg",
+                "type": "member"
+            }
+        },
+        "score": 1.0,
+        "state": "",
+        "status": "active",
+        "timezone": "Europe/Warsaw",
+        "untranslated_city": "Poznan",
+        "urlname": "Poland-KNIME-Users",
+        "visibility": "public",
+        "who": "KNIMErs"
+    },
+    {
+        "category": {
+            "id": 2,
+            "name": "Career & Business",
+            "shortname": "career-business",
+            "sort_name": "Career & Business"
+        },
+        "city": "Poznan",
+        "country": "PL",
+        "created": 1558364196000,
+        "description": "<p>MasterClass by OLX Group is a meetup for professionals from all fields - where experts share their knowledge and know how on varying topics: from Data to Marketing, from Programming to Analytics, from HR to Product Management.</p>",
+        "id": 31968292,
+        "join_mode": "open",
+        "key_photo": {
+            "base_url": "https://secure.meetupstatic.com",
+            "highres_link": "https://secure.meetupstatic.com/photos/event/c/0/f/9/highres_481909401.jpeg",
+            "id": 481909401,
+            "photo_link": "https://secure.meetupstatic.com/photos/event/c/0/f/9/600_481909401.jpeg",
+            "thumb_link": "https://secure.meetupstatic.com/photos/event/c/0/f/9/thumb_481909401.jpeg",
+            "type": "event"
+        },
+        "lat": 52.4,
+        "link": "https://www.meetup.com/MasterClass-by-OLX-Group/",
+        "localized_country_name": "Poland",
+        "localized_location": "Poznan, Poland",
+        "lon": 16.9,
+        "members": 45,
+        "meta_category": {
+            "category_ids": [
+                2
+            ],
+            "id": 522,
+            "name": "Career & Business",
+            "photo": {
+                "base_url": "https://secure.meetupstatic.com",
+                "highres_link": "https://secure.meetupstatic.com/photos/event/2/e/9/7/highres_450131927.jpeg",
+                "id": 450131927,
+                "photo_link": "https://secure.meetupstatic.com/photos/event/2/e/9/7/600_450131927.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/9/7/thumb_450131927.jpeg",
+                "type": "event"
+            },
+            "shortname": "career-business",
+            "sort_name": "Career & Business"
+        },
+        "name": "MasterClass by OLX Group",
+        "organizer": {
+            "bio": "",
+            "id": 248221355,
+            "name": "Adam Milich",
+            "photo": {
+                "base_url": "https://secure.meetupstatic.com",
+                "highres_link": "https://secure.meetupstatic.com/photos/member/b/2/b/4/highres_274725748.jpeg",
+                "id": 274725748,
+                "photo_link": "https://secure.meetupstatic.com/photos/member/b/2/b/4/member_274725748.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/member/b/2/b/4/thumb_274725748.jpeg",
+                "type": "member"
+            }
+        },
+        "score": 1.0,
+        "state": "",
+        "status": "active",
+        "timezone": "Europe/Warsaw",
+        "untranslated_city": "Poznan",
+        "urlname": "MasterClass-by-OLX-Group",
+        "visibility": "public",
+        "who": "Members"
+    },
+    {
+        "category": {
+            "id": 34,
+            "name": "Tech",
+            "shortname": "tech",
+            "sort_name": "Tech"
+        },
+        "city": "Poznan",
+        "country": "PL",
+        "created": 1551693537000,
+        "description": "<p>Grupa która powstała aby stymulować wymianę wiedzy między członkami poznańskiej społeczności skupionej wokół przetwarzania danych. Dotyczy to całości spektrum tej dziedziny, począwszy od uczenia maszynowego i analizy statystycznej, poprzez aspekty biznesowe, aż do inżynierii danych i kwestii DevOpsowych. Najczęstszą formą, którą będą przyjmować wydarzenia związane z tą grupą jest dyskusja poprzedzona krótkim wprowadzeniem.</p>",
+        "id": 31303721,
+        "join_mode": "open",
+        "lat": 52.4,
+        "link": "https://www.meetup.com/Pozna%C5%84ski-Horyzont-Danych/",
+        "localized_country_name": "Poland",
+        "localized_location": "Poznan, Poland",
+        "lon": 16.9,
+        "members": 157,
+        "meta_category": {
+            "category_ids": [
+                34
+            ],
+            "id": 292,
+            "name": "Tech",
+            "photo": {
+                "base_url": "https://secure.meetupstatic.com",
+                "highres_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
+                "id": 450131949,
+                "photo_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
+                "type": "event"
+            },
+            "shortname": "tech",
+            "sort_name": "Tech"
+        },
+        "name": "Poznański Horyzont Danych",
+        "organizer": {
+            "bio": "Principal Data Scientist; zainteresowany zarówno badawczymi, technicznymi, jak i biznesowymi aspektami Data Science",
+            "id": 196621680,
+            "name": "Krzysztof Jędrzejewski",
+            "photo": {
+                "base_url": "https://secure.meetupstatic.com",
+                "highres_link": "https://secure.meetupstatic.com/photos/member/2/d/7/8/highres_255851640.jpeg",
+                "id": 255851640,
+                "photo_link": "https://secure.meetupstatic.com/photos/member/2/d/7/8/member_255851640.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/member/2/d/7/8/thumb_255851640.jpeg",
+                "type": "member"
+            }
+        },
+        "score": 1.0,
+        "state": "",
+        "status": "active",
+        "timezone": "Europe/Warsaw",
+        "untranslated_city": "Poznan",
+        "urlname": "Poznański-Horyzont-Danych",
+        "visibility": "public",
+        "who": "Członkowie"
+    },
+    {
+        "category": {
+            "id": 34,
+            "name": "Tech",
+            "shortname": "tech",
+            "sort_name": "Tech"
+        },
+        "city": "Poznan",
+        "country": "PL",
+        "created": 1534136386000,
+        "description": "<p>The Poznan branch of a global community of AI learners: \"School of AI\" founded by Siraj Raval: <a href=\"https://youtube.com/c/SirajRaval\" class=\"embedded\">https://youtube.com/c/SirajRaval</a> &lt;br&gt;</p> \n<p>*School of AI Mission Statement:*</p> \n<p>Our mission is to offer a world-class AI education to anyone on Earth for free. Our doors are open to all those who wish to learn. We are a learning community that spans almost every country dedicated to teaching our students how to make a positive impact in the world using AI technology, whether that's through employment or entrepreneurship</p> \n<p>School of AI Introduction and its values: &lt;br&gt;</p> \n<p>&lt;br&gt;</p> \n<p><a href=\"https://www.youtube.com/watch?v=8yu8rtXThy8\" class=\"embedded\">https://www.youtube.com/watch?v=8yu8rtXThy8</a></p> \n<p>&lt;br&gt;</p> \n<p>Facebook: <a href=\"https://www.facebook.com/groups/poznanschoolofai/\">https://www.facebook.com/groups/poznanschoolofai</a></p>",
+        "id": 29511529,
+        "join_mode": "open",
+        "key_photo": {
+            "base_url": "https://secure.meetupstatic.com",
+            "highres_link": "https://secure.meetupstatic.com/photos/event/3/a/6/a/highres_473714954.jpeg",
+            "id": 473714954,
+            "photo_link": "https://secure.meetupstatic.com/photos/event/3/a/6/a/600_473714954.jpeg",
+            "thumb_link": "https://secure.meetupstatic.com/photos/event/3/a/6/a/thumb_473714954.jpeg",
+            "type": "event"
+        },
+        "lat": 52.4,
+        "link": "https://www.meetup.com/Poznan-School-of-AI/",
+        "localized_country_name": "Poland",
+        "localized_location": "Poznan, Poland",
+        "lon": 16.9,
+        "members": 252,
+        "meta_category": {
+            "category_ids": [
+                34
+            ],
+            "id": 292,
+            "name": "Tech",
+            "photo": {
+                "base_url": "https://secure.meetupstatic.com",
+                "highres_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
+                "id": 450131949,
+                "photo_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
+                "type": "event"
+            },
+            "shortname": "tech",
+            "sort_name": "Tech"
+        },
+        "name": "Poznan School of AI",
+        "organizer": {
+            "bio": "Software engineer, co-founder of Poznan Scala User Group",
+            "id": 186195358,
+            "name": "Bartosz Mikulski",
+            "photo": {
+                "base_url": "https://secure.meetupstatic.com",
+                "highres_link": "https://secure.meetupstatic.com/photos/member/5/8/8/e/highres_253282670.jpeg",
+                "id": 253282670,
+                "photo_link": "https://secure.meetupstatic.com/photos/member/5/8/8/e/member_253282670.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/member/5/8/8/e/thumb_253282670.jpeg",
+                "type": "member"
+            }
+        },
+        "score": 1.0,
+        "state": "",
+        "status": "active",
+        "timezone": "Europe/Warsaw",
+        "untranslated_city": "Poznan",
+        "urlname": "Poznan-School-of-AI",
+        "visibility": "public",
+        "who": "AI Wizards"
+    },
+    {
+        "category": {
+            "id": 2,
+            "name": "Career & Business",
+            "shortname": "career-business",
+            "sort_name": "Career & Business"
+        },
+        "city": "Poznan",
+        "country": "PL",
+        "created": 1528121640000,
+        "description": "<p>[ENG below]</p>\n<p>Kochamy dane! I mówić o nich!&nbsp;</p>\n<p>Poprzez dołączenie do tej grupy, staniesz się lepszy w pomiarze, analizie i optymalizacji działań marketingowych w swojej firmie.</p>\n<p>W tej grupie dzielimy się wiedzą z marketingu opartego o dane, analitykę i data science. Organizujemy warsztaty, wykłady i indywidualne konsultacje. Staramy się mówić na podstawie codziennych doświadczeń z obsługi klientów i budowy narzędzi marketingowych w naszej agencji marketingu analitycznego Datomni (<a href=\"http://datomni.com/\" class=\"linkified\">http://datomni.com/</a>).</p>\n<p>SPOŁECZNOŚĆ</p>\n<p>Nasza społeczność skupia już blisko 1600 osób w czterech innych miastach Europy, tzn. w:</p>\n<p>- Berlinie (1100+ członków) (trzeci co do wielkości meetup marketingowy w Niemczech),</p>\n<p>- Brukseli (150 członków),</p>\n<p>- Wilnie (blisko 170 członków),</p>\n<p>- Wiedniu (blisko 50 członków),</p>\n<p>a już wkrótce także w Paryżu, Londynie i Rzymie.</p>\n<p>POZIOM</p>\n<p>Dokładamy wszelkich starań, aby nasze wydarzenia były dobre. Potwierdzają to oceny naszych meetupów, do tej pory ok. 4.9/5. Feedback zbieramy po każdym wydarzeniu i na bieżąco się poprawiamy.</p>\n<p>WARTOŚĆ</p>\n<p>Poprzez dołączenie do tej grupy, staniesz się lepszy w pomiarze, analizie i optymalizacji działań marketingowych w swojej firmie.</p>\n<p>FORMATY</p>\n<p>- Wykłady,</p>\n<p>- Seminaria,</p>\n<p>- Szkolenia,</p>\n<p>- Panele dyskusyjne,</p>\n<p>- Indywidualne konsultacje.</p>\n<p>TEMATY</p>\n<p>- Analityka internetowa, w tym analityka predykcyjna.</p>\n<p>- Zbieranie, integracja, unifikacja, analiza, przechowywanie i wizualizowanie danych marketingowych.</p>\n<p>- Optymalizacja kampanii i silników marketingowych.</p>\n<p>- Automatyzacje, zespolenia narzędzi.</p>\n<p>- Segmentacja i wykorzystanie algorytmów uczenia maszynowego do optymalizacji działań.</p>\n<p>DOŚWIADCZENIE</p>\n<p>Ten meetup jest organizowany przez firmę Datomni.</p>\n<p>W ramach naszej codziennej pracy pomagamy firmom zwiększyć sprzedaż poprzez optymalną alokację budżetu marketingowego między kanały.</p>\n<p>Pracujemy z obecnymi lub przyszłymi liderami rynkowymi w segmentach startup oraz MSP.</p>\n<p>Przykładowi klienci:</p>\n<p>- Mustache (ze wsparciem Venture Capital)</p>\n<p>- Time for Wax (VC)</p>\n<p>- Elab (VC)</p>\n<p>- Beautikon</p>\n<p>- Grafik Optymalny (VC)</p>\n<p>Przykładowe wyniki (na podstawie szeregów czasowych o długości min. 1 roku):</p>\n<p>- 1787% wzrost leadów przy jednoczesnym spadku CAC i wzroście LVR.</p>\n<p>- 301% wzrost liczby użytkowników, w tym 288% wzrost wielkości ruchu organicznego.</p>\n<p>- 230% wzrost współczynnika konwersji.</p>\n<p>Przykładowe opinie:</p>\n<p>- “They deliver” (Karolina, co-founder, Grafik Optymalny)</p>\n<p>- “The results look fabulous” (Tobias, co-founder, Enerkeep)</p>\n<p>POLITYKA NIEOBECNOŚCI</p>\n<p>Osoby, które nie pojawiają się na meetupach wbrew zapowiedzi i bez informacji uprzedzającej, nie mogą uczestniczyć w dwóch kolejnych meetupach.</p>\n<p>DOŁĄCZ DO NAS I STAŃ SIĘ NINJĄ MARKETINGU ANALITYCZNEGO!</p>\n<p>EN:</p>\n<p>We help marketing managers become ninjas in data-driven marketing &amp; analytics.</p>\n<p>COMMUNITY</p>\n<p>Welcome to the Warsaw chapter of an international, 1600+ member community centered on data-driven marketing.</p>\n<p>Apart from Warsaw, our community is also based in Berlin, Brussels, Vilnius, and Vienna. For example, Berlin community has ~1100 members, 1.5 years history, 6 past meetups, 4.9/5 average meetup grade. It’s also one of the top 3 marketing meetups in Berlin.</p>\n<p>VALUE</p>\n<p>By joining us, you get to learn the latest techniques and advances in data-driven marketing, often applied at the hottest startups or established companies in Europe.</p>\n<p>MOTTO</p>\n<p>\"Add real value or go home\".</p>\n<p>MEMBERS AND THEME</p>\n<p>Marketing managers and company owners will get the most out of this meetup.</p>\n<p>We’ll help you and your company become more data-driven so that you back up your next marketing moves with data-based insights.</p>\n<p>Or, more technically, we define data-driven marketing as a proactive use of data aimed at improving predefined marketing metrics.</p>\n<p>FORMATS</p>\n<p>- Lectures</p>\n<p>- Seminars</p>\n<p>- Workshops</p>\n<p>- Panels</p>\n<p>TOPICS</p>\n<p>- Analytics, including predictive analytics</p>\n<p>- Data integration, unification, analysis, and warehousing</p>\n<p>- Campaign optimisation and measurement, including leadgen campaigns</p>\n<p>- Automations</p>\n<p>- Reporting</p>\n<p>- Statistical modelling for marketing</p>\n<p>BACKGROUND</p>\n<p>This meetup is brought to you by Datomni ( <a href=\"http://datomni.com/\" class=\"linkified\">http://datomni.com/</a> )</p>\n<p>Datomni provides data-driven growth for the actual or becoming category leaders across SMB and startup segments.</p>\n<p>Sample clients:</p>\n<p>- Mustache (with VC funding)</p>\n<p>- Time for Wax (VC)</p>\n<p>- Elab (VC)</p>\n<p>- Beautikon</p>\n<p>- Grafik Optymalny (VC)</p>\n<p>Sample client results (based on 1 year long time series):</p>\n<p>- 1787% growth in the number of leads, while reducing CAC and increasing LVR (lead velocity rate)</p>\n<p>- 301% growth in the traffic volume, including 288% more organic traffic (resulting from drastic growth in the average position as well as 200% increase in organic CTRs)</p>\n<p>- 230% growth in long-term conversion rate</p>\n<p>Sample testimonials:</p>\n<p>- “They deliver” (Karolina, co-founder, Grafik Optymalny)</p>\n<p>- “The results look fabulous” (Tobias, co-founder, Enerkeep)</p>\n<p>NO-SHOW POLICY</p>\n<p>Our standard policy in the entire, 1400+ member, international community based in 6 cities is that no-shows are banned from participating in two consecutive meetups / workshops. Please: only serious RSVPs.</p>\n<p>Join us.</p>",
+        "group_photo": {
+            "base_url": "https://secure.meetupstatic.com",
+            "highres_link": "https://secure.meetupstatic.com/photos/event/3/6/4/6/highres_471733894.jpeg",
+            "id": 471733894,
+            "photo_link": "https://secure.meetupstatic.com/photos/event/3/6/4/6/600_471733894.jpeg",
+            "thumb_link": "https://secure.meetupstatic.com/photos/event/3/6/4/6/thumb_471733894.jpeg",
+            "type": "event"
+        },
+        "id": 28700963,
+        "join_mode": "open",
+        "key_photo": {
+            "base_url": "https://secure.meetupstatic.com",
+            "highres_link": "https://secure.meetupstatic.com/photos/event/3/6/e/2/highres_471734050.jpeg",
+            "id": 471734050,
+            "photo_link": "https://secure.meetupstatic.com/photos/event/3/6/e/2/600_471734050.jpeg",
+            "thumb_link": "https://secure.meetupstatic.com/photos/event/3/6/e/2/thumb_471734050.jpeg",
+            "type": "event"
+        },
+        "lat": 52.4,
+        "link": "https://www.meetup.com/The-10X-Data-driven-Marketing-Poznan/",
+        "localized_country_name": "Poland",
+        "localized_location": "Poznan, Poland",
+        "lon": 16.9,
+        "members": 127,
+        "meta_category": {
+            "category_ids": [
+                2
+            ],
+            "id": 522,
+            "name": "Career & Business",
+            "photo": {
+                "base_url": "https://secure.meetupstatic.com",
+                "highres_link": "https://secure.meetupstatic.com/photos/event/2/e/9/7/highres_450131927.jpeg",
+                "id": 450131927,
+                "photo_link": "https://secure.meetupstatic.com/photos/event/2/e/9/7/600_450131927.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/9/7/thumb_450131927.jpeg",
+                "type": "event"
+            },
+            "shortname": "career-business",
+            "sort_name": "Career & Business"
+        },
+        "name": "The 10X: Data-driven Marketing Poznań",
+        "organizer": {
+            "bio": "Datomni is a marketing agency using data science, analytics, and focused creativity to create sustainable growth engines for SMB's. Some of the companies we work with: Mustache, Enerkeep, Time For Wax. Join our 1700+ member community in 6 cities.",
+            "id": 255973479,
+            "name": "Datomni",
+            "photo": {
+                "base_url": "https://secure.meetupstatic.com",
+                "highres_link": "https://secure.meetupstatic.com/photos/member/a/7/e/4/highres_277782980.jpeg",
+                "id": 277782980,
+                "photo_link": "https://secure.meetupstatic.com/photos/member/a/7/e/4/member_277782980.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/member/a/7/e/4/thumb_277782980.jpeg",
+                "type": "member"
+            }
+        },
+        "score": 1.0,
+        "state": "",
+        "status": "active",
+        "timezone": "Europe/Warsaw",
+        "untranslated_city": "Poznan",
+        "urlname": "The-10X-Data-driven-Marketing-Poznan",
+        "visibility": "public",
+        "who": "Members"
+    },
+    {
+        "category": {
+            "id": 34,
+            "name": "Tech",
+            "shortname": "tech",
+            "sort_name": "Tech"
+        },
+        "city": "Poznan",
+        "country": "PL",
+        "created": 1456068095000,
+        "description": "<p>This group is for developers, data scientists and big data professionals and enthusiasts, as well as anyone interested in applied machine learning.</p>",
+        "id": 19603045,
+        "join_mode": "open",
+        "key_photo": {
+            "base_url": "https://secure.meetupstatic.com",
+            "highres_link": "https://secure.meetupstatic.com/photos/event/7/f/8/d/highres_449072653.jpeg",
+            "id": 449072653,
+            "photo_link": "https://secure.meetupstatic.com/photos/event/7/f/8/d/600_449072653.jpeg",
+            "thumb_link": "https://secure.meetupstatic.com/photos/event/7/f/8/d/thumb_449072653.jpeg",
+            "type": "event"
+        },
+        "lat": 52.4,
+        "link": "https://www.meetup.com/meetml/",
+        "localized_country_name": "Poland",
+        "localized_location": "Poznan, Poland",
+        "lon": 16.9,
+        "members": 726,
+        "meta_category": {
+            "category_ids": [
+                34
+            ],
+            "id": 292,
+            "name": "Tech",
+            "photo": {
+                "base_url": "https://secure.meetupstatic.com",
+                "highres_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
+                "id": 450131949,
+                "photo_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
+                "type": "event"
+            },
+            "shortname": "tech",
+            "sort_name": "Tech"
+        },
+        "name": "meet.ml Poznań",
+        "organizer": {
+            "bio": "",
+            "id": 148864742,
+            "name": "Jan Mizgajski"
+        },
+        "score": 1.0,
+        "state": "",
+        "status": "active",
+        "timezone": "Europe/Warsaw",
+        "untranslated_city": "Poznan",
+        "urlname": "meetml",
+        "visibility": "public",
+        "who": "Machine Learning Fans"
+    }
+]

@@ -1,0 +1,907 @@
+[
+    {
+        "category": {
+            "id": 34,
+            "name": "Tech",
+            "shortname": "tech",
+            "sort_name": "Tech"
+        },
+        "city": "Torun",
+        "country": "PL",
+        "created": 1550010374000,
+        "description": "<p>Oddział Data Community działający w Bydgoszczy oraz Toruniu, skupiający profesjonalistów zajmujących się platformą danych (głównie firmy Microsoft) a także praktyków Data Science.</p>\n<p>Materiały ze spotkań grupy są dostępne pod linkiem: <br><a href=\"https://github.com/DataCommunityBiT\">https://github.com/DataCommunityBiT</a><br><br>Część naszych sesji jest nagrywana, a nagrania są udostępniane na youtube. Link do playlisty z naszymi nagraniami: <br><a href=\"https://www.youtube.com/watch?v=ZYGTgor6OKw&amp;list=PLgQS_Zhc1frdwrsrV4ov6ncgl8IwLR9f4\">https://www.youtube.com/watch?v=ZYGTgor6OKw&amp;list=PLgQS_Zhc1frdwrsrV4ov6ncgl8IwLR9f4</a><br></p>",
+        "group_photo": {
+            "base_url": "https://secure.meetupstatic.com",
+            "highres_link": "https://secure.meetupstatic.com/photos/event/7/0/0/2/highres_478648674.jpeg",
+            "id": 478648674,
+            "photo_link": "https://secure.meetupstatic.com/photos/event/7/0/0/2/600_478648674.jpeg",
+            "thumb_link": "https://secure.meetupstatic.com/photos/event/7/0/0/2/thumb_478648674.jpeg",
+            "type": "event"
+        },
+        "id": 31151082,
+        "join_mode": "open",
+        "key_photo": {
+            "base_url": "https://secure.meetupstatic.com",
+            "highres_link": "https://secure.meetupstatic.com/photos/event/a/8/a/5/highres_478663173.jpeg",
+            "id": 478663173,
+            "photo_link": "https://secure.meetupstatic.com/photos/event/a/8/a/5/600_478663173.jpeg",
+            "thumb_link": "https://secure.meetupstatic.com/photos/event/a/8/a/5/thumb_478663173.jpeg",
+            "type": "event"
+        },
+        "lat": 53.02,
+        "link": "https://www.meetup.com/Data-Community-Bydgoszcz-i-Toru%C5%84/",
+        "localized_country_name": "Poland",
+        "localized_location": "Torun, Poland",
+        "lon": 18.61,
+        "members": 268,
+        "meta_category": {
+            "category_ids": [
+                34
+            ],
+            "id": 292,
+            "name": "Tech",
+            "photo": {
+                "base_url": "https://secure.meetupstatic.com",
+                "highres_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
+                "id": 450131949,
+                "photo_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
+                "type": "event"
+            },
+            "shortname": "tech",
+            "sort_name": "Tech"
+        },
+        "name": "Data Community Bydgoszcz i Toruń",
+        "next_event": {
+            "id": "262029224",
+            "name": "42. Spotkanie DC Bydgoszcz i Toruń",
+            "time": 1560265200000,
+            "utc_offset": 7200000,
+            "yes_rsvp_count": 1
+        },
+        "organizer": {
+            "bio": "",
+            "id": 149738542,
+            "name": "Hubert Kobierzewski",
+            "photo": {
+                "base_url": "https://secure.meetupstatic.com",
+                "id": 201974672,
+                "photo_link": "https://secure.meetupstatic.com/photos/member/3/9/5/0/member_201974672.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/member/3/9/5/0/thumb_201974672.jpeg",
+                "type": "member"
+            }
+        },
+        "pro_network": {
+            "name": "Data Community",
+            "network_url": "https://www.meetup.com/pro/data-community/",
+            "number_of_groups": 5,
+            "urlname": "data-community"
+        },
+        "score": 1.0,
+        "state": "",
+        "status": "active",
+        "timezone": "Europe/Warsaw",
+        "untranslated_city": "Torun",
+        "urlname": "Data-Community-Bydgoszcz-i-Toruń",
+        "visibility": "public",
+        "who": "Data Geeks"
+    },
+    {
+        "category": {
+            "id": 34,
+            "name": "Tech",
+            "shortname": "tech",
+            "sort_name": "Tech"
+        },
+        "city": "Gdansk",
+        "country": "PL",
+        "created": 1540186484000,
+        "description": "<p>This is a group for anyone interested in big data analysis, spark, machine learning and data science, etc. All skill levels are welcome. I started this group to meet other bigdata enthusiasts. Looking forward to exploring the bigdata aspects with everybody.</p>",
+        "id": 30368540,
+        "join_mode": "open",
+        "key_photo": {
+            "base_url": "https://secure.meetupstatic.com",
+            "highres_link": "https://secure.meetupstatic.com/photos/event/5/e/d/6/highres_475884278.jpeg",
+            "id": 475884278,
+            "photo_link": "https://secure.meetupstatic.com/photos/event/5/e/d/6/600_475884278.jpeg",
+            "thumb_link": "https://secure.meetupstatic.com/photos/event/5/e/d/6/thumb_475884278.jpeg",
+            "type": "event"
+        },
+        "lat": 54.36,
+        "link": "https://www.meetup.com/DataMass/",
+        "localized_country_name": "Poland",
+        "localized_location": "Gdansk, Poland",
+        "lon": 18.64,
+        "members": 648,
+        "meta_category": {
+            "category_ids": [
+                34
+            ],
+            "id": 292,
+            "name": "Tech",
+            "photo": {
+                "base_url": "https://secure.meetupstatic.com",
+                "highres_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
+                "id": 450131949,
+                "photo_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
+                "type": "event"
+            },
+            "shortname": "tech",
+            "sort_name": "Tech"
+        },
+        "name": "DataMass - Data Engineering Group",
+        "organizer": {
+            "bio": "",
+            "id": 266108277,
+            "name": "Jakub Wszolek"
+        },
+        "score": 1.0,
+        "state": "",
+        "status": "active",
+        "timezone": "Europe/Warsaw",
+        "untranslated_city": "Gdansk",
+        "urlname": "DataMass",
+        "visibility": "public",
+        "who": "Members"
+    },
+    {
+        "category": {
+            "id": 34,
+            "name": "Tech",
+            "shortname": "tech",
+            "sort_name": "Tech"
+        },
+        "city": "Gdansk",
+        "country": "PL",
+        "created": 1470250491000,
+        "description": "<p>This meetup is focused on the Future of Data and the open community data projects governed by the Apache Software Foundation. Geared towards developers, data scientists and ALL Data enthusiasts who are building modern data applications. Our meetups cover all data -- data-in-motion and data-at-rest. Meetups provide an opportunity to listen, share and work hands on with other technologists in the open source and open community Apache tools.</p>",
+        "id": 20276036,
+        "join_mode": "open",
+        "key_photo": {
+            "base_url": "https://secure.meetupstatic.com",
+            "highres_link": "https://secure.meetupstatic.com/photos/event/9/f/9/5/highres_467020853.jpeg",
+            "id": 467020853,
+            "photo_link": "https://secure.meetupstatic.com/photos/event/9/f/9/5/600_467020853.jpeg",
+            "thumb_link": "https://secure.meetupstatic.com/photos/event/9/f/9/5/thumb_467020853.jpeg",
+            "type": "event"
+        },
+        "lat": 54.36,
+        "link": "https://www.meetup.com/futureofdata-gdansk/",
+        "localized_country_name": "Poland",
+        "localized_location": "Gdansk, Poland",
+        "lon": 18.64,
+        "members": 326,
+        "meta_category": {
+            "category_ids": [
+                34
+            ],
+            "id": 292,
+            "name": "Tech",
+            "photo": {
+                "base_url": "https://secure.meetupstatic.com",
+                "highres_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
+                "id": 450131949,
+                "photo_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
+                "type": "event"
+            },
+            "shortname": "tech",
+            "sort_name": "Tech"
+        },
+        "name": "Future of Data: Gdansk",
+        "organizer": {
+            "bio": "Community Team at Hortonworks.",
+            "id": 217906218,
+            "name": "Future of Data 2",
+            "photo": {
+                "base_url": "https://secure.meetupstatic.com",
+                "highres_link": "https://secure.meetupstatic.com/photos/member/3/6/2/c/highres_278353868.jpeg",
+                "id": 278353868,
+                "photo_link": "https://secure.meetupstatic.com/photos/member/3/6/2/c/member_278353868.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/member/3/6/2/c/thumb_278353868.jpeg",
+                "type": "member"
+            }
+        },
+        "score": 1.0,
+        "state": "",
+        "status": "active",
+        "timezone": "Europe/Warsaw",
+        "untranslated_city": "Gdansk",
+        "urlname": "futureofdata-gdansk",
+        "visibility": "public",
+        "who": "Members"
+    },
+    {
+        "category": {
+            "id": 34,
+            "name": "Tech",
+            "shortname": "tech",
+            "sort_name": "Tech"
+        },
+        "city": "Gdansk",
+        "country": "PL",
+        "created": 1481711537000,
+        "description": "<p>Jeżeli jesteś osobą, która: &lt;br&gt;</p> \n<p>• pracuje z różnego rodzaju <b>danymi</b>, &lt;br&gt;</p> \n<p>• chce się <b>nauczyć</b> języka programowania <b>R</b> oraz jego możliwości</p> \n<p>lub &lt;br&gt;</p> \n<p>• zna już język R, ale chce dowiedzieć się czegoś <b>nowego</b> &lt;br&gt;</p> \n<p>• lubi <b>poznawać</b> nowych <b>ludzi</b> oraz ich <b>zainteresowania</b> &lt;br&gt;</p> \n<p>to dobrze trafiłeś/aś :)</p>",
+        "id": 21570958,
+        "join_mode": "approval",
+        "key_photo": {
+            "base_url": "https://secure.meetupstatic.com",
+            "highres_link": "https://secure.meetupstatic.com/photos/event/5/c/3/5/highres_471563605.jpeg",
+            "id": 471563605,
+            "photo_link": "https://secure.meetupstatic.com/photos/event/5/c/3/5/600_471563605.jpeg",
+            "thumb_link": "https://secure.meetupstatic.com/photos/event/5/c/3/5/thumb_471563605.jpeg",
+            "type": "event"
+        },
+        "lat": 54.36,
+        "link": "https://www.meetup.com/Trojmiejska-Grupa-Entuzjastow-R/",
+        "localized_country_name": "Poland",
+        "localized_location": "Gdansk, Poland",
+        "lon": 18.64,
+        "members": 278,
+        "meta_category": {
+            "category_ids": [
+                34
+            ],
+            "id": 292,
+            "name": "Tech",
+            "photo": {
+                "base_url": "https://secure.meetupstatic.com",
+                "highres_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
+                "id": 450131949,
+                "photo_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
+                "type": "event"
+            },
+            "shortname": "tech",
+            "sort_name": "Tech"
+        },
+        "name": "trigeR - Trójmiejska Grupa Entuzjastów R",
+        "organizer": {
+            "bio": "",
+            "id": 214257496,
+            "name": "Ania Rybińska",
+            "photo": {
+                "base_url": "https://secure.meetupstatic.com",
+                "highres_link": "https://secure.meetupstatic.com/photos/member/5/c/a/highres_260701482.jpeg",
+                "id": 260701482,
+                "photo_link": "https://secure.meetupstatic.com/photos/member/5/c/a/member_260701482.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/member/5/c/a/thumb_260701482.jpeg",
+                "type": "member"
+            }
+        },
+        "score": 1.0,
+        "state": "",
+        "status": "active",
+        "timezone": "Europe/Warsaw",
+        "untranslated_city": "Gdansk",
+        "urlname": "Trojmiejska-Grupa-Entuzjastow-R",
+        "visibility": "public",
+        "who": "Members"
+    },
+    {
+        "category": {
+            "id": 34,
+            "name": "Tech",
+            "shortname": "tech",
+            "sort_name": "Tech"
+        },
+        "city": "Gdansk",
+        "country": "PL",
+        "created": 1482336885000,
+        "description": "<p><img src=\"https://secure.meetupstatic.com/photos/event/3/7/7/1/600_465374193.jpeg\"></p>\n<p><span>We discuss using </span><b>Data Science</b><span> to create and develop data-driven products, data-based pricing strategies, recommendation engines, predictive maintenance, and more.</span> <br></p>\n<p>Our second field of interest is <b>Blockchain Technology</b>. Based on our experience with setting up large-scale blockchain solutions (e.g. Building Blocks for the United Nations), we discuss technical, economic, legal and ethical aspects of blockchains, s.a. Bitcoin, Ethereum, Hyperledger, Ripple, QTUM, NEO, IOTA and others. <br></p>\n<p>All Data Geeks are ecouraged to add their perspectives, ideas, suggestions during our meetups.</p>",
+        "group_photo": {
+            "base_url": "https://secure.meetupstatic.com",
+            "highres_link": "https://secure.meetupstatic.com/photos/event/5/6/3/2/highres_457042066.jpeg",
+            "id": 457042066,
+            "photo_link": "https://secure.meetupstatic.com/photos/event/5/6/3/2/600_457042066.jpeg",
+            "thumb_link": "https://secure.meetupstatic.com/photos/event/5/6/3/2/thumb_457042066.jpeg",
+            "type": "event"
+        },
+        "id": 21646068,
+        "join_mode": "open",
+        "key_photo": {
+            "base_url": "https://secure.meetupstatic.com",
+            "highres_link": "https://secure.meetupstatic.com/photos/event/7/a/d/5/highres_457651445.jpeg",
+            "id": 457651445,
+            "photo_link": "https://secure.meetupstatic.com/photos/event/7/a/d/5/600_457651445.jpeg",
+            "thumb_link": "https://secure.meetupstatic.com/photos/event/7/a/d/5/thumb_457651445.jpeg",
+            "type": "event"
+        },
+        "lat": 54.36,
+        "link": "https://www.meetup.com/Data-Science-Gdansk/",
+        "localized_country_name": "Poland",
+        "localized_location": "Gdansk, Poland",
+        "lon": 18.64,
+        "members": 407,
+        "meta_category": {
+            "category_ids": [
+                34
+            ],
+            "id": 292,
+            "name": "Tech",
+            "photo": {
+                "base_url": "https://secure.meetupstatic.com",
+                "highres_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
+                "id": 450131949,
+                "photo_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
+                "type": "event"
+            },
+            "shortname": "tech",
+            "sort_name": "Tech"
+        },
+        "name": "Baltic Data Science",
+        "organizer": {
+            "bio": "Entrepreneur @datarella @crowdstartcoin @raaynetwork @codelegit @databaltic @rewireDE\n\nCo-Chairman @eublasorg @baforumorg",
+            "id": 13469413,
+            "name": "Michael Reuter",
+            "photo": {
+                "base_url": "https://secure.meetupstatic.com",
+                "highres_link": "https://secure.meetupstatic.com/photos/member/4/e/b/6/highres_271760150.jpeg",
+                "id": 271760150,
+                "photo_link": "https://secure.meetupstatic.com/photos/member/4/e/b/6/member_271760150.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/member/4/e/b/6/thumb_271760150.jpeg",
+                "type": "member"
+            }
+        },
+        "score": 1.0,
+        "state": "",
+        "status": "active",
+        "timezone": "Europe/Warsaw",
+        "untranslated_city": "Gdansk",
+        "urlname": "Data-Science-Gdansk",
+        "visibility": "public",
+        "who": "Data Geeks"
+    },
+    {
+        "category": {
+            "id": 34,
+            "name": "Tech",
+            "shortname": "tech",
+            "sort_name": "Tech"
+        },
+        "city": "Gdansk",
+        "country": "PL",
+        "created": 1483821910000,
+        "description": "<p>A group dedicated to everyone interested in Machine Learning, Big Data and Artificial Intelligence. We want to build local community to share cool ideas. We highly encourage you to join regardless your skill level - we all want to learn from each other.<br></p>",
+        "group_photo": {
+            "base_url": "https://secure.meetupstatic.com",
+            "highres_link": "https://secure.meetupstatic.com/photos/event/a/0/5/a/highres_460121050.jpeg",
+            "id": 460121050,
+            "photo_link": "https://secure.meetupstatic.com/photos/event/a/0/5/a/600_460121050.jpeg",
+            "thumb_link": "https://secure.meetupstatic.com/photos/event/a/0/5/a/thumb_460121050.jpeg",
+            "type": "event"
+        },
+        "id": 21799991,
+        "join_mode": "open",
+        "key_photo": {
+            "base_url": "https://secure.meetupstatic.com",
+            "highres_link": "https://secure.meetupstatic.com/photos/event/6/4/8/b/highres_462985739.jpeg",
+            "id": 462985739,
+            "photo_link": "https://secure.meetupstatic.com/photos/event/6/4/8/b/600_462985739.jpeg",
+            "thumb_link": "https://secure.meetupstatic.com/photos/event/6/4/8/b/thumb_462985739.jpeg",
+            "type": "event"
+        },
+        "lat": 54.36,
+        "link": "https://www.meetup.com/PyData-Trojmiasto/",
+        "localized_country_name": "Poland",
+        "localized_location": "Gdansk, Poland",
+        "lon": 18.64,
+        "members": 599,
+        "meta_category": {
+            "category_ids": [
+                34
+            ],
+            "id": 292,
+            "name": "Tech",
+            "photo": {
+                "base_url": "https://secure.meetupstatic.com",
+                "highres_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
+                "id": 450131949,
+                "photo_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
+                "type": "event"
+            },
+            "shortname": "tech",
+            "sort_name": "Tech"
+        },
+        "name": "PyData Trojmiasto",
+        "organizer": {
+            "bio": "",
+            "id": 203987772,
+            "name": "P. Stoworowicz",
+            "photo": {
+                "base_url": "https://secure.meetupstatic.com",
+                "highres_link": "https://secure.meetupstatic.com/photos/member/4/7/b/8/highres_272598360.jpeg",
+                "id": 272598360,
+                "photo_link": "https://secure.meetupstatic.com/photos/member/4/7/b/8/member_272598360.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/member/4/7/b/8/thumb_272598360.jpeg",
+                "type": "member"
+            }
+        },
+        "pro_network": {
+            "name": "PyData",
+            "network_url": "https://www.meetup.com/pro/pydata/",
+            "number_of_groups": 140,
+            "urlname": "pydata"
+        },
+        "score": 1.0,
+        "state": "",
+        "status": "active",
+        "timezone": "Europe/Warsaw",
+        "untranslated_city": "Gdansk",
+        "urlname": "PyData-Trojmiasto",
+        "visibility": "public",
+        "who": "Learners"
+    },
+    {
+        "category": {
+            "id": 34,
+            "name": "Tech",
+            "shortname": "tech",
+            "sort_name": "Tech"
+        },
+        "city": "Gdansk",
+        "country": "PL",
+        "created": 1529488281000,
+        "description": "<p>The third edition of the Innovation@Amazon organized by Amazon Development Center Poland is coming up! Join us at our technical conference held in Gdansk to meet our top-notch engineers and tech pioneers, who are responsible for the development of Amazon’s products and solutions including Amazon Web Services, Machine Learning, IoT, Amazon Game Studios and Amazon Alexa.</p> \n<p>Our event will take place in Stary Maneż, Gdansk on September 29th. Deep-dive technical lectures will be followed by the networking activities. This autumn you will spend quality time with first-class speakers, who will gladly share their knowledge over a cup of coffee.</p> \n<p>Participation fee is symbolic and lets you contribute to a good cause! Income from ticket sales will be donated to ”Dotrzymaj Kroku” Foundation to support programming courses for children from Orphanages and Foster Families from Gdansk and Gdansk-area.</p>",
+        "id": 28893974,
+        "join_mode": "open",
+        "key_photo": {
+            "base_url": "https://secure.meetupstatic.com",
+            "highres_link": "https://secure.meetupstatic.com/photos/event/e/5/f/highres_472203679.jpeg",
+            "id": 472203679,
+            "photo_link": "https://secure.meetupstatic.com/photos/event/e/5/f/600_472203679.jpeg",
+            "thumb_link": "https://secure.meetupstatic.com/photos/event/e/5/f/thumb_472203679.jpeg",
+            "type": "event"
+        },
+        "lat": 54.36,
+        "link": "https://www.meetup.com/Innovation-Amazon-2018/",
+        "localized_country_name": "Poland",
+        "localized_location": "Gdansk, Poland",
+        "lon": 18.64,
+        "members": 133,
+        "meta_category": {
+            "category_ids": [
+                34
+            ],
+            "id": 292,
+            "name": "Tech",
+            "photo": {
+                "base_url": "https://secure.meetupstatic.com",
+                "highres_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
+                "id": 450131949,
+                "photo_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
+                "type": "event"
+            },
+            "shortname": "tech",
+            "sort_name": "Tech"
+        },
+        "name": "Innovation@Amazon 2018",
+        "organizer": {
+            "bio": "",
+            "id": 185155860,
+            "name": "Amazon Development Center Poland",
+            "photo": {
+                "base_url": "https://secure.meetupstatic.com",
+                "highres_link": "https://secure.meetupstatic.com/photos/member/2/7/e/highres_280620638.jpeg",
+                "id": 280620638,
+                "photo_link": "https://secure.meetupstatic.com/photos/member/2/7/e/member_280620638.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/member/2/7/e/thumb_280620638.jpeg",
+                "type": "member"
+            }
+        },
+        "score": 1.0,
+        "state": "",
+        "status": "active",
+        "timezone": "Europe/Warsaw",
+        "untranslated_city": "Gdansk",
+        "urlname": "Innovation-Amazon-2018",
+        "visibility": "public",
+        "who": "Members"
+    },
+    {
+        "category": {
+            "id": 34,
+            "name": "Tech",
+            "shortname": "tech",
+            "sort_name": "Tech"
+        },
+        "city": "Gdansk",
+        "country": "PL",
+        "created": 1511809061000,
+        "description": "<p>Apache Spark is a fast and general-purpose cluster computing system. It provides high-level APIs in Java, Scala, Python and R, and an optimized engine that supports general execution graphs. It also supports a rich set of higher-level tools including Spark SQL for SQL and structured data processing, MLlib for machine learning, GraphX for graph processing, and Spark Streaming.</p>",
+        "group_photo": {
+            "base_url": "https://secure.meetupstatic.com",
+            "highres_link": "https://secure.meetupstatic.com/photos/event/a/5/e/5/highres_466482469.jpeg",
+            "id": 466482469,
+            "photo_link": "https://secure.meetupstatic.com/photos/event/a/5/e/5/600_466482469.jpeg",
+            "thumb_link": "https://secure.meetupstatic.com/photos/event/a/5/e/5/thumb_466482469.jpeg",
+            "type": "event"
+        },
+        "id": 26718020,
+        "join_mode": "open",
+        "key_photo": {
+            "base_url": "https://secure.meetupstatic.com",
+            "highres_link": "https://secure.meetupstatic.com/photos/event/a/5/e/5/highres_466482469.jpeg",
+            "id": 466482469,
+            "photo_link": "https://secure.meetupstatic.com/photos/event/a/5/e/5/600_466482469.jpeg",
+            "thumb_link": "https://secure.meetupstatic.com/photos/event/a/5/e/5/thumb_466482469.jpeg",
+            "type": "event"
+        },
+        "lat": 54.36,
+        "link": "https://www.meetup.com/Trojmiasto-Spark-Meetup/",
+        "localized_country_name": "Poland",
+        "localized_location": "Gdansk, Poland",
+        "lon": 18.64,
+        "members": 155,
+        "meta_category": {
+            "category_ids": [
+                34
+            ],
+            "id": 292,
+            "name": "Tech",
+            "photo": {
+                "base_url": "https://secure.meetupstatic.com",
+                "highres_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
+                "id": 450131949,
+                "photo_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
+                "type": "event"
+            },
+            "shortname": "tech",
+            "sort_name": "Tech"
+        },
+        "name": "Trojmiasto Spark Meetup",
+        "organizer": {
+            "bio": "http://sarifil.blogspot.com.tr",
+            "id": 189090044,
+            "name": "Şafak Serdar Kapçı",
+            "photo": {
+                "base_url": "https://secure.meetupstatic.com",
+                "highres_link": "https://secure.meetupstatic.com/photos/member/6/c/3/a/highres_247347706.jpeg",
+                "id": 247347706,
+                "photo_link": "https://secure.meetupstatic.com/photos/member/6/c/3/a/member_247347706.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/member/6/c/3/a/thumb_247347706.jpeg",
+                "type": "member"
+            }
+        },
+        "score": 1.0,
+        "state": "",
+        "status": "active",
+        "timezone": "Europe/Warsaw",
+        "untranslated_city": "Gdansk",
+        "urlname": "Trojmiasto-Spark-Meetup",
+        "visibility": "public",
+        "who": "Members"
+    },
+    {
+        "category": {
+            "id": 34,
+            "name": "Tech",
+            "shortname": "tech",
+            "sort_name": "Tech"
+        },
+        "city": "Gdansk",
+        "country": "PL",
+        "created": 1530253706000,
+        "description": "<p>WiMLDS's mission is to support and promote women and gender minorities who are practicing, studying or are interested in the fields of machine learning and data science. We create opportunities for members to engage in technical and professional conversations in a positive, supportive environment by hosting talks by women and gender minority individuals working in data science or machine learning, technical workshops, networking events and hackathons. We are inclusive to anyone who supports our cause regardless of gender identity or technical background. However, in support of our mission, priority for certain events and opportunities will be given to women and gender minority members. <br></p>\n<p>Our Code of Conduct ( <a href=\"https://github.com/WiMLDS/starter-kit/wiki/Code-of-conduct\">https://github.com/WiMLDS/starter-kit/wiki/Code-of-conduct</a> ) is available online and applies to all our spaces, both online and off. <br></p>\n<p>•&nbsp;Follow @wimlds ( <a href=\"https://twitter.com/wimlds\">https://twitter.com/wimlds</a> ) on Twitter for general WiMLDS news or visit <a href=\"http://wimlds.org\">http://wimlds.org</a> ( <a href=\"http://wimlds.org/\">http://wimlds.org/</a> ) to learn about our chapters in other cities. <br></p>\n<p>•&nbsp;Women &amp; gender minorities are invited to join the global WiMLDS Slack group by sending an email to slack@wimlds.org.</p>",
+        "id": 29027689,
+        "join_mode": "open",
+        "key_photo": {
+            "base_url": "https://secure.meetupstatic.com",
+            "highres_link": "https://secure.meetupstatic.com/photos/event/3/6/5/a/highres_472453914.jpeg",
+            "id": 472453914,
+            "photo_link": "https://secure.meetupstatic.com/photos/event/3/6/5/a/600_472453914.jpeg",
+            "thumb_link": "https://secure.meetupstatic.com/photos/event/3/6/5/a/thumb_472453914.jpeg",
+            "type": "event"
+        },
+        "lat": 54.36,
+        "link": "https://www.meetup.com/Trojmiasto-Women-in-Machine-Learning-and-Data-Science/",
+        "localized_country_name": "Poland",
+        "localized_location": "Gdansk, Poland",
+        "lon": 18.64,
+        "members": 203,
+        "meta_category": {
+            "category_ids": [
+                34
+            ],
+            "id": 292,
+            "name": "Tech",
+            "photo": {
+                "base_url": "https://secure.meetupstatic.com",
+                "highres_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
+                "id": 450131949,
+                "photo_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
+                "type": "event"
+            },
+            "shortname": "tech",
+            "sort_name": "Tech"
+        },
+        "name": "Trojmiasto Women in Machine Learning & Data Science",
+        "organizer": {
+            "bio": "",
+            "id": 257650830,
+            "name": "WiMLDS",
+            "photo": {
+                "base_url": "https://secure.meetupstatic.com",
+                "highres_link": "https://secure.meetupstatic.com/photos/member/4/b/e/0/highres_278419424.jpeg",
+                "id": 278419424,
+                "photo_link": "https://secure.meetupstatic.com/photos/member/4/b/e/0/member_278419424.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/member/4/b/e/0/thumb_278419424.jpeg",
+                "type": "member"
+            }
+        },
+        "score": 1.0,
+        "state": "",
+        "status": "active",
+        "timezone": "Europe/Warsaw",
+        "untranslated_city": "Gdansk",
+        "urlname": "Trojmiasto-Women-in-Machine-Learning-and-Data-Science",
+        "visibility": "public",
+        "who": "Members"
+    },
+    {
+        "category": {
+            "id": 34,
+            "name": "Tech",
+            "shortname": "tech",
+            "sort_name": "Tech"
+        },
+        "city": "Gdansk",
+        "country": "PL",
+        "created": 1479372471000,
+        "description": "<p>This is for people specifically interested in Deep Neural Networks, theory, application and the latest news on the subject.</p>",
+        "id": 21205585,
+        "join_mode": "open",
+        "lat": 54.36,
+        "link": "https://www.meetup.com/Gdansk-Deep-Neural-Networks-Meetup/",
+        "localized_country_name": "Poland",
+        "localized_location": "Gdansk, Poland",
+        "lon": 18.64,
+        "members": 193,
+        "meta_category": {
+            "category_ids": [
+                34
+            ],
+            "id": 292,
+            "name": "Tech",
+            "photo": {
+                "base_url": "https://secure.meetupstatic.com",
+                "highres_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
+                "id": 450131949,
+                "photo_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
+                "type": "event"
+            },
+            "shortname": "tech",
+            "sort_name": "Tech"
+        },
+        "name": "Gdansk Deep Neural Networks Meetup",
+        "organizer": {
+            "bio": "linkedin.com/in/jacekkawalec",
+            "id": 216824690,
+            "name": "Jacek Kawalec ",
+            "photo": {
+                "base_url": "https://secure.meetupstatic.com",
+                "highres_link": "https://secure.meetupstatic.com/photos/member/9/f/1/7/highres_261940727.jpeg",
+                "id": 261940727,
+                "photo_link": "https://secure.meetupstatic.com/photos/member/9/f/1/7/member_261940727.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/member/9/f/1/7/thumb_261940727.jpeg",
+                "type": "member"
+            }
+        },
+        "score": 1.0,
+        "state": "",
+        "status": "active",
+        "timezone": "Europe/Warsaw",
+        "untranslated_city": "Gdansk",
+        "urlname": "Gdansk-Deep-Neural-Networks-Meetup",
+        "visibility": "public",
+        "who": "Members"
+    },
+    {
+        "category": {
+            "id": 34,
+            "name": "Tech",
+            "shortname": "tech",
+            "sort_name": "Tech"
+        },
+        "city": "Gdansk",
+        "country": "PL",
+        "created": 1463569313000,
+        "description": "<p>Meetup for students and academics interested in Data Science.</p>",
+        "id": 19967405,
+        "join_mode": "open",
+        "key_photo": {
+            "base_url": "https://secure.meetupstatic.com",
+            "highres_link": "https://secure.meetupstatic.com/photos/event/a/d/e/f/highres_450164527.jpeg",
+            "id": 450164527,
+            "photo_link": "https://secure.meetupstatic.com/photos/event/a/d/e/f/600_450164527.jpeg",
+            "thumb_link": "https://secure.meetupstatic.com/photos/event/a/d/e/f/thumb_450164527.jpeg",
+            "type": "event"
+        },
+        "lat": 54.36,
+        "link": "https://www.meetup.com/Academic-Data-Science/",
+        "localized_country_name": "Poland",
+        "localized_location": "Gdansk, Poland",
+        "lon": 18.64,
+        "members": 160,
+        "meta_category": {
+            "category_ids": [
+                34
+            ],
+            "id": 292,
+            "name": "Tech",
+            "photo": {
+                "base_url": "https://secure.meetupstatic.com",
+                "highres_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
+                "id": 450131949,
+                "photo_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
+                "type": "event"
+            },
+            "shortname": "tech",
+            "sort_name": "Tech"
+        },
+        "name": "Academic Data Science",
+        "organizer": {
+            "bio": "",
+            "id": 183832726,
+            "name": "Paweł Cejrowski",
+            "photo": {
+                "base_url": "https://secure.meetupstatic.com",
+                "highres_link": "https://secure.meetupstatic.com/photos/member/a/8/4/a/highres_252283082.jpeg",
+                "id": 252283082,
+                "photo_link": "https://secure.meetupstatic.com/photos/member/a/8/4/a/member_252283082.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/member/a/8/4/a/thumb_252283082.jpeg",
+                "type": "member"
+            }
+        },
+        "score": 1.0,
+        "state": "",
+        "status": "active",
+        "timezone": "Europe/Warsaw",
+        "untranslated_city": "Gdansk",
+        "urlname": "Academic-Data-Science",
+        "visibility": "public",
+        "who": "Data Geeks"
+    },
+    {
+        "category": {
+            "id": 34,
+            "name": "Tech",
+            "shortname": "tech",
+            "sort_name": "Tech"
+        },
+        "city": "Gdansk",
+        "country": "PL",
+        "created": 1554795409000,
+        "description": "<p>Zapraszamy na premierowy Meet-up Big Data Powered by WP.&nbsp;</p>",
+        "id": 31592083,
+        "join_mode": "open",
+        "key_photo": {
+            "base_url": "https://secure.meetupstatic.com",
+            "highres_link": "https://secure.meetupstatic.com/photos/event/e/0/1/4/highres_480297364.jpeg",
+            "id": 480297364,
+            "photo_link": "https://secure.meetupstatic.com/photos/event/e/0/1/4/600_480297364.jpeg",
+            "thumb_link": "https://secure.meetupstatic.com/photos/event/e/0/1/4/thumb_480297364.jpeg",
+            "type": "event"
+        },
+        "lat": 54.36,
+        "link": "https://www.meetup.com/Big-Data-Meet-up-Power-by-WP/",
+        "localized_country_name": "Poland",
+        "localized_location": "Gdansk, Poland",
+        "lon": 18.64,
+        "members": 108,
+        "meta_category": {
+            "category_ids": [
+                34
+            ],
+            "id": 292,
+            "name": "Tech",
+            "photo": {
+                "base_url": "https://secure.meetupstatic.com",
+                "highres_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
+                "id": 450131949,
+                "photo_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
+                "type": "event"
+            },
+            "shortname": "tech",
+            "sort_name": "Tech"
+        },
+        "name": "Meet-up Big Data Powered by WP",
+        "organizer": {
+            "bio": "",
+            "id": 278066546,
+            "name": "Malwina Kulinicz",
+            "photo": {
+                "base_url": "https://secure.meetupstatic.com",
+                "highres_link": "https://secure.meetupstatic.com/photos/member/5/9/d/b/highres_286703003.jpeg",
+                "id": 286703003,
+                "photo_link": "https://secure.meetupstatic.com/photos/member/5/9/d/b/member_286703003.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/member/5/9/d/b/thumb_286703003.jpeg",
+                "type": "member"
+            }
+        },
+        "score": 1.0,
+        "state": "",
+        "status": "active",
+        "timezone": "Europe/Warsaw",
+        "untranslated_city": "Gdansk",
+        "urlname": "Big-Data-Meet-up-Power-by-WP",
+        "visibility": "public",
+        "who": "Członkowie"
+    },
+    {
+        "category": {
+            "id": 34,
+            "name": "Tech",
+            "shortname": "tech",
+            "sort_name": "Tech"
+        },
+        "city": "Gdynia",
+        "country": "PL",
+        "created": 1409219542000,
+        "description": "<p>Celem grupy jest stworzenie środowiska w którym wszyscy będziemy mogli dzielić się swoją wiedzą i doświadczeniem oraz będziemy mogli dostać wsparcie od innych. Dodatkowo chcemy promować Machine Learning i pokazywać jakie są jego możliwości i zastosowania.  Dołącz do nas! </p>",
+        "id": 16649732,
+        "join_mode": "open",
+        "key_photo": {
+            "base_url": "https://secure.meetupstatic.com",
+            "highres_link": "https://secure.meetupstatic.com/photos/event/2/3/c/a/highres_430629162.jpeg",
+            "id": 430629162,
+            "photo_link": "https://secure.meetupstatic.com/photos/event/2/3/c/a/600_430629162.jpeg",
+            "thumb_link": "https://secure.meetupstatic.com/photos/event/2/3/c/a/thumb_430629162.jpeg",
+            "type": "event"
+        },
+        "lat": 54.52,
+        "link": "https://www.meetup.com/Gdansk-Gdynia-Machine-Learning-Meetup/",
+        "localized_country_name": "Poland",
+        "localized_location": "Gdynia, Poland",
+        "lon": 18.53,
+        "members": 514,
+        "meta_category": {
+            "category_ids": [
+                34
+            ],
+            "id": 292,
+            "name": "Tech",
+            "photo": {
+                "base_url": "https://secure.meetupstatic.com",
+                "highres_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
+                "id": 450131949,
+                "photo_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
+                "type": "event"
+            },
+            "shortname": "tech",
+            "sort_name": "Tech"
+        },
+        "name": "TriCity Machine Learning Meetup",
+        "organizer": {
+            "bio": "CEO of PinYourClient - Predictive analytics platform for every marketer. My fields of interest are: machine learning, predictive analytics, big data, chaos theory, lead generation, sales, marketing, marketing automation.",
+            "id": 137851622,
+            "name": "Jakub Dabkowski",
+            "photo": {
+                "base_url": "https://secure.meetupstatic.com",
+                "highres_link": "https://secure.meetupstatic.com/photos/member/c/7/5/8/highres_185091032.jpeg",
+                "id": 185091032,
+                "photo_link": "https://secure.meetupstatic.com/photos/member/c/7/5/8/member_185091032.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/member/c/7/5/8/thumb_185091032.jpeg",
+                "type": "member"
+            }
+        },
+        "score": 1.0,
+        "state": "",
+        "status": "active",
+        "timezone": "Europe/Warsaw",
+        "untranslated_city": "Gdynia",
+        "urlname": "Gdansk-Gdynia-Machine-Learning-Meetup",
+        "visibility": "public",
+        "who": "Data Nerds"
+    }
+]

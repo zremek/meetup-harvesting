@@ -1,0 +1,69 @@
+[
+    {
+        "category": {
+            "id": 34,
+            "name": "Tech",
+            "shortname": "tech",
+            "sort_name": "Tech"
+        },
+        "city": "Gdynia",
+        "country": "PL",
+        "created": 1409219542000,
+        "description": "<p>Celem grupy jest stworzenie środowiska w którym wszyscy będziemy mogli dzielić się swoją wiedzą i doświadczeniem oraz będziemy mogli dostać wsparcie od innych. Dodatkowo chcemy promować Machine Learning i pokazywać jakie są jego możliwości i zastosowania.  Dołącz do nas! </p>",
+        "id": 16649732,
+        "join_mode": "open",
+        "key_photo": {
+            "base_url": "https://secure.meetupstatic.com",
+            "highres_link": "https://secure.meetupstatic.com/photos/event/2/3/c/a/highres_430629162.jpeg",
+            "id": 430629162,
+            "photo_link": "https://secure.meetupstatic.com/photos/event/2/3/c/a/600_430629162.jpeg",
+            "thumb_link": "https://secure.meetupstatic.com/photos/event/2/3/c/a/thumb_430629162.jpeg",
+            "type": "event"
+        },
+        "lat": 54.52,
+        "link": "https://www.meetup.com/Gdansk-Gdynia-Machine-Learning-Meetup/",
+        "localized_country_name": "Poland",
+        "localized_location": "Gdynia, Poland",
+        "lon": 18.53,
+        "members": 514,
+        "meta_category": {
+            "category_ids": [
+                34
+            ],
+            "id": 292,
+            "name": "Tech",
+            "photo": {
+                "base_url": "https://secure.meetupstatic.com",
+                "highres_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
+                "id": 450131949,
+                "photo_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
+                "type": "event"
+            },
+            "shortname": "tech",
+            "sort_name": "Tech"
+        },
+        "name": "TriCity Machine Learning Meetup",
+        "organizer": {
+            "bio": "CEO of PinYourClient - Predictive analytics platform for every marketer. My fields of interest are: machine learning, predictive analytics, big data, chaos theory, lead generation, sales, marketing, marketing automation.",
+            "id": 137851622,
+            "name": "Jakub Dabkowski",
+            "photo": {
+                "base_url": "https://secure.meetupstatic.com",
+                "highres_link": "https://secure.meetupstatic.com/photos/member/c/7/5/8/highres_185091032.jpeg",
+                "id": 185091032,
+                "photo_link": "https://secure.meetupstatic.com/photos/member/c/7/5/8/member_185091032.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/member/c/7/5/8/thumb_185091032.jpeg",
+                "type": "member"
+            }
+        },
+        "score": 1.0,
+        "state": "",
+        "status": "active",
+        "timezone": "Europe/Warsaw",
+        "untranslated_city": "Gdynia",
+        "urlname": "Gdansk-Gdynia-Machine-Learning-Meetup",
+        "visibility": "public",
+        "who": "Data Nerds"
+    }
+]

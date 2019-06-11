@@ -1,0 +1,2092 @@
+[
+    {
+        "category": {
+            "id": 34,
+            "name": "Tech",
+            "shortname": "tech",
+            "sort_name": "Tech"
+        },
+        "city": "Warsaw",
+        "country": "PL",
+        "created": 1436451337000,
+        "description": "<p>This is a group for anyone interested in Machine Learning and Artificial Intelligence and their applications such as Big Data, predictive analytics, data science and robotics. Our main focus is Python based technology stack, but not only. All skill levels are welcome. We started this group because we want to meet other enthusiasts in the area. We're looking forward to exploring exciting new ideas with everybody!</p>\n<p><br></p>\n<p>The PyData Code of Conduct (<a href=\"https://meet.meetup.com/wf/click?upn=l-2FmQxaNVahlcgIEBhFi3TtAT5F0zNXwTmkuRMnL7QggFOHeFlCTbWeaUlZcHXTl8_cDXfX-2BkCO4dQfIZA-2FVaxi8-2BjkmmjtYlTor6VSTN-2F2sS-2B5sPfk9jSeuL6YhN2yjBXrnicb8pOxvs4g6BTpCFBDCgLH3iJ1IS1-2F6pM4GIW0VfBxPtkk93S9DD5-2BXP5xh3g-2B5azE44bMF5T4vA6sYOtFX9FTuEerH4tUMkTn3CvxrH82m6-2FVZdbAqI-2BKlsqY21d9qaSgJrhftyHrd9zpEHN0g-3D-3D\">http://pydata.org/code-of-conduct.html</a>) governs this meetup. To discuss any issues or concerns relating to the code of conduct or the behavior of anyone at a PyData meetup, please contact the local group organizers (message us on the meetup page). Please also submit a report of any potential Code of Conduct violation directly to NumFOCUS:&nbsp;<a href=\"https://numfocus.typeform.com/to/ynjGdT\">https://numfocus.typeform.com/to/ynjGdT</a>Thank you for helping us to maintain a welcoming and friendly PyData community!<br></p>",
+        "group_photo": {
+            "base_url": "https://secure.meetupstatic.com",
+            "highres_link": "https://secure.meetupstatic.com/photos/event/9/9/4/highres_476702452.jpeg",
+            "id": 476702452,
+            "photo_link": "https://secure.meetupstatic.com/photos/event/9/9/4/600_476702452.jpeg",
+            "thumb_link": "https://secure.meetupstatic.com/photos/event/9/9/4/thumb_476702452.jpeg",
+            "type": "event"
+        },
+        "id": 18729763,
+        "join_mode": "open",
+        "key_photo": {
+            "base_url": "https://secure.meetupstatic.com",
+            "highres_link": "https://secure.meetupstatic.com/photos/event/d/1/8/2/highres_465593634.jpeg",
+            "id": 465593634,
+            "photo_link": "https://secure.meetupstatic.com/photos/event/d/1/8/2/600_465593634.jpeg",
+            "thumb_link": "https://secure.meetupstatic.com/photos/event/d/1/8/2/thumb_465593634.jpeg",
+            "type": "event"
+        },
+        "lat": 52.26,
+        "link": "https://www.meetup.com/PyData-Warsaw/",
+        "localized_country_name": "Poland",
+        "localized_location": "Warsaw, Poland",
+        "lon": 21.02,
+        "members": 3616,
+        "meta_category": {
+            "category_ids": [
+                34
+            ],
+            "id": 292,
+            "name": "Tech",
+            "photo": {
+                "base_url": "https://secure.meetupstatic.com",
+                "highres_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
+                "id": 450131949,
+                "photo_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
+                "type": "event"
+            },
+            "shortname": "tech",
+            "sort_name": "Tech"
+        },
+        "name": "PyData Warsaw",
+        "next_event": {
+            "id": "261251405",
+            "name": "PyData Warsaw #20: Data Science, Deep & Machine Learning with ByteDance",
+            "time": 1559750400000,
+            "utc_offset": 7200000,
+            "yes_rsvp_count": 261
+        },
+        "organizer": {
+            "bio": "",
+            "id": 135325322,
+            "name": "PyData/NumFOCUS",
+            "photo": {
+                "base_url": "https://secure.meetupstatic.com",
+                "highres_link": "https://secure.meetupstatic.com/photos/member/2/c/b/9/highres_254591449.jpeg",
+                "id": 254591449,
+                "photo_link": "https://secure.meetupstatic.com/photos/member/2/c/b/9/member_254591449.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/member/2/c/b/9/thumb_254591449.jpeg",
+                "type": "member"
+            }
+        },
+        "pro_network": {
+            "name": "PyData",
+            "network_url": "https://www.meetup.com/pro/pydata/",
+            "number_of_groups": 140,
+            "urlname": "pydata"
+        },
+        "score": 1.0,
+        "state": "",
+        "status": "active",
+        "timezone": "Europe/Warsaw",
+        "untranslated_city": "Warsaw",
+        "urlname": "PyData-Warsaw",
+        "visibility": "public",
+        "who": "Machine Learners"
+    },
+    {
+        "category": {
+            "id": 34,
+            "name": "Tech",
+            "shortname": "tech",
+            "sort_name": "Tech"
+        },
+        "city": "Warsaw",
+        "country": "PL",
+        "created": 1489234110000,
+        "description": "<p>We are creating a community of people interested in artificial intelligence to exchange informations about the technology and it's impact on our life.</p>\n<p>We are already managed to do that in Krakow (see <a>www.aimeetup.pl)</a> and looking forward to do it in Warsaw! If you are interested in cooperation (presenting, sponsorship, etc.) please contact us at<a href=\"mailto:meetup@2040.io\">meetup@2040.io</a>.</p>",
+        "group_photo": {
+            "base_url": "https://secure.meetupstatic.com",
+            "highres_link": "https://secure.meetupstatic.com/photos/event/1/b/6/highres_459000438.jpeg",
+            "id": 459000438,
+            "photo_link": "https://secure.meetupstatic.com/photos/event/1/b/6/600_459000438.jpeg",
+            "thumb_link": "https://secure.meetupstatic.com/photos/event/1/b/6/thumb_459000438.jpeg",
+            "type": "event"
+        },
+        "id": 22845948,
+        "join_mode": "open",
+        "key_photo": {
+            "base_url": "https://secure.meetupstatic.com",
+            "highres_link": "https://secure.meetupstatic.com/photos/event/6/f/0/c/highres_461008428.jpeg",
+            "id": 461008428,
+            "photo_link": "https://secure.meetupstatic.com/photos/event/6/f/0/c/600_461008428.jpeg",
+            "thumb_link": "https://secure.meetupstatic.com/photos/event/6/f/0/c/thumb_461008428.jpeg",
+            "type": "event"
+        },
+        "lat": 52.26,
+        "link": "https://www.meetup.com/Artificial-Intelligence-Warsaw/",
+        "localized_country_name": "Poland",
+        "localized_location": "Warsaw, Poland",
+        "lon": 21.02,
+        "members": 2247,
+        "meta_category": {
+            "category_ids": [
+                34
+            ],
+            "id": 292,
+            "name": "Tech",
+            "photo": {
+                "base_url": "https://secure.meetupstatic.com",
+                "highres_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
+                "id": 450131949,
+                "photo_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
+                "type": "event"
+            },
+            "shortname": "tech",
+            "sort_name": "Tech"
+        },
+        "name": "Artificial Intelligence Warsaw",
+        "organizer": {
+            "bio": "",
+            "id": 203754623,
+            "name": "Tomasz Wesołowski",
+            "photo": {
+                "base_url": "https://secure.meetupstatic.com",
+                "highres_link": "https://secure.meetupstatic.com/photos/member/7/f/0/4/highres_255872516.jpeg",
+                "id": 255872516,
+                "photo_link": "https://secure.meetupstatic.com/photos/member/7/f/0/4/member_255872516.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/member/7/f/0/4/thumb_255872516.jpeg",
+                "type": "member"
+            }
+        },
+        "score": 1.0,
+        "state": "",
+        "status": "active",
+        "timezone": "Europe/Warsaw",
+        "untranslated_city": "Warsaw",
+        "urlname": "Artificial-Intelligence-Warsaw",
+        "visibility": "public",
+        "who": "Members"
+    },
+    {
+        "category": {
+            "id": 34,
+            "name": "Tech",
+            "shortname": "tech",
+            "sort_name": "Tech"
+        },
+        "city": "Warsaw",
+        "country": "PL",
+        "created": 1414022470000,
+        "description": "<p>Data Science Warsaw is a community of data scientists based in Warsaw. We are a non-profit professional organisation dedicated to the free, open, dissemination of data science. We meet to discuss the tools, methods and technologies used to ingest, transform, explore, analyze; visualize data, obtain predictive ; prescriptive insight, develop data products, and exploit business opportunities from data products.</p>\n<p>The organizers of the Data Science Warsaw meeting are <a href=\"http://www.icm.edu.pl\">ICM</a>&nbsp; and Foundation <a href=\"http://datasci.eu/\">DataSci</a>.</p>\n<p>Data Science Warsaw jest warszawską społecznością skupiającą data scientist. Jesteśmy organizacją non-profit działającą na rzecz upowszechniania informacji związanych z Data Science. Na spotkaniach rozmawiamy o&nbsp; narzędziach, metodach i technologiach stosowanych do pozyskiwania, przekształcania, badania, analizowania i wizualizacji danych. Dyskutujemy o możliwościach prognozowania, rozwoju produktów związanych z danymi i możliwości ich biznesowego wykorzystania. &nbsp;Organizatorami spotkań Data Science Warsaw są <a href=\"http://www.icm.edu.pl\">ICM</a> i Fundacja <a href=\"http://datasci.eu/\">DataSci</a>.&nbsp;</p>\n<p> <br></p>",
+        "group_photo": {
+            "base_url": "https://secure.meetupstatic.com",
+            "highres_link": "https://secure.meetupstatic.com/photos/event/1/7/f/a/highres_433146138.jpeg",
+            "id": 433146138,
+            "photo_link": "https://secure.meetupstatic.com/photos/event/1/7/f/a/600_433146138.jpeg",
+            "thumb_link": "https://secure.meetupstatic.com/photos/event/1/7/f/a/thumb_433146138.jpeg",
+            "type": "event"
+        },
+        "id": 17802322,
+        "join_mode": "open",
+        "key_photo": {
+            "base_url": "https://secure.meetupstatic.com",
+            "highres_link": "https://secure.meetupstatic.com/photos/event/1/7/f/a/highres_433146138.jpeg",
+            "id": 433146138,
+            "photo_link": "https://secure.meetupstatic.com/photos/event/1/7/f/a/600_433146138.jpeg",
+            "thumb_link": "https://secure.meetupstatic.com/photos/event/1/7/f/a/thumb_433146138.jpeg",
+            "type": "event"
+        },
+        "lat": 52.26,
+        "link": "https://www.meetup.com/Data-Science-Warsaw/",
+        "localized_country_name": "Poland",
+        "localized_location": "Warsaw, Poland",
+        "lon": 21.02,
+        "members": 5339,
+        "meta_category": {
+            "category_ids": [
+                34
+            ],
+            "id": 292,
+            "name": "Tech",
+            "photo": {
+                "base_url": "https://secure.meetupstatic.com",
+                "highres_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
+                "id": 450131949,
+                "photo_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
+                "type": "event"
+            },
+            "shortname": "tech",
+            "sort_name": "Tech"
+        },
+        "name": "Data Science Warsaw",
+        "next_event": {
+            "id": "260531226",
+            "name": "Data Science Summit",
+            "time": 1560499200000,
+            "utc_offset": 7200000,
+            "yes_rsvp_count": 106
+        },
+        "organizer": {
+            "bio": "",
+            "id": 62690772,
+            "name": "Dominik Batorski",
+            "photo": {
+                "base_url": "https://secure.meetupstatic.com",
+                "highres_link": "https://secure.meetupstatic.com/photos/member/4/7/b/highres_246121147.jpeg",
+                "id": 246121147,
+                "photo_link": "https://secure.meetupstatic.com/photos/member/4/7/b/member_246121147.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/member/4/7/b/thumb_246121147.jpeg",
+                "type": "member"
+            }
+        },
+        "score": 1.0,
+        "state": "",
+        "status": "active",
+        "timezone": "Europe/Warsaw",
+        "untranslated_city": "Warsaw",
+        "urlname": "Data-Science-Warsaw",
+        "visibility": "public",
+        "who": "Data Scientists"
+    },
+    {
+        "category": {
+            "id": 34,
+            "name": "Tech",
+            "shortname": "tech",
+            "sort_name": "Tech"
+        },
+        "city": "Warsaw",
+        "country": "PL",
+        "created": 1534245619000,
+        "description": "<p>Kaggle Days Meetup Warsaw is the first Meetup from the worldwide series of Kaggle Days Meetups, gathering a community of Data Science enthusiasts and Kaggle fans.</p> \n<p>Learn how to start on Kaggle, share your experience, learn tips and trick on how to win a Kaggle competition and improve your skills.</p> \n<p>Our goals are to: <br>LEARN through practice, <br>NETWORK with other Data Scientists from your city and work on Data Science projects together, <br>MEET Kaggle Grandmasters, Masters and Kaggle competition winners, <br>HAVE FUN at the meetings and make new friends!</p> \n<p>Our speakers are Kaggle competition winners. At Kaggle Days Meetups you can participate in presentations, workshops and offline mini-competitions, all of them related to Data Science and Kaggle.</p> \n<p>For more information, visit: <br><a href=\"https://kaggledays.com/meetups/\" class=\"linkified\">https://kaggledays.com/meetups/</a> <br>and follow us on facebook: <br><a href=\"https://www.facebook.com/KaggleDays/\" class=\"linkified\">https://www.facebook.com/KaggleDays/</a></p>",
+        "id": 29522595,
+        "join_mode": "open",
+        "key_photo": {
+            "base_url": "https://secure.meetupstatic.com",
+            "highres_link": "https://secure.meetupstatic.com/photos/event/9/b/c/d/highres_473799885.jpeg",
+            "id": 473799885,
+            "photo_link": "https://secure.meetupstatic.com/photos/event/9/b/c/d/600_473799885.jpeg",
+            "thumb_link": "https://secure.meetupstatic.com/photos/event/9/b/c/d/thumb_473799885.jpeg",
+            "type": "event"
+        },
+        "lat": 52.26,
+        "link": "https://www.meetup.com/Kaggle-Days-Meetup-Warsaw/",
+        "localized_country_name": "Poland",
+        "localized_location": "Warsaw, Poland",
+        "lon": 21.02,
+        "members": 501,
+        "meta_category": {
+            "category_ids": [
+                34
+            ],
+            "id": 292,
+            "name": "Tech",
+            "photo": {
+                "base_url": "https://secure.meetupstatic.com",
+                "highres_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
+                "id": 450131949,
+                "photo_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
+                "type": "event"
+            },
+            "shortname": "tech",
+            "sort_name": "Tech"
+        },
+        "name": "Kaggle Days Meetup Warsaw",
+        "organizer": {
+            "bio": "",
+            "id": 261074622,
+            "name": "Patrycja Urbanek",
+            "photo": {
+                "base_url": "https://secure.meetupstatic.com",
+                "highres_link": "https://secure.meetupstatic.com/photos/member/7/3/3/7/highres_279749495.jpeg",
+                "id": 279749495,
+                "photo_link": "https://secure.meetupstatic.com/photos/member/7/3/3/7/member_279749495.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/member/7/3/3/7/thumb_279749495.jpeg",
+                "type": "member"
+            }
+        },
+        "score": 1.0,
+        "state": "",
+        "status": "active",
+        "timezone": "Europe/Warsaw",
+        "untranslated_city": "Warsaw",
+        "urlname": "Kaggle-Days-Meetup-Warsaw",
+        "visibility": "public",
+        "who": "Członkowie"
+    },
+    {
+        "category": {
+            "id": 34,
+            "name": "Tech",
+            "shortname": "tech",
+            "sort_name": "Tech"
+        },
+        "city": "Warsaw",
+        "country": "PL",
+        "created": 1553157915000,
+        "description": "<p>Spotkania związane ze światem Data Science. W iDash wierzymy, że praktyka, jest kluczowym elementem w procesie nauki, szczególnie w jej początkowej fazie. Właśnie dlatego, postanowiliśmy stworzyć wydarzenie, składające się wyłącznie z interaktywnych warsztatów, na których każdy będzie miał okazję pracować nad ciekawymi projektami pod okiem doświadczonych ekspertów.</p>",
+        "id": 31441188,
+        "join_mode": "open",
+        "key_photo": {
+            "base_url": "https://secure.meetupstatic.com",
+            "highres_link": "https://secure.meetupstatic.com/photos/event/5/2/b/6/highres_479901174.jpeg",
+            "id": 479901174,
+            "photo_link": "https://secure.meetupstatic.com/photos/event/5/2/b/6/600_479901174.jpeg",
+            "thumb_link": "https://secure.meetupstatic.com/photos/event/5/2/b/6/thumb_479901174.jpeg",
+            "type": "event"
+        },
+        "lat": 52.26,
+        "link": "https://www.meetup.com/iDash-workshop-meetups/",
+        "localized_country_name": "Poland",
+        "localized_location": "Warsaw, Poland",
+        "lon": 21.02,
+        "members": 173,
+        "meta_category": {
+            "category_ids": [
+                34
+            ],
+            "id": 292,
+            "name": "Tech",
+            "photo": {
+                "base_url": "https://secure.meetupstatic.com",
+                "highres_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
+                "id": 450131949,
+                "photo_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
+                "type": "event"
+            },
+            "shortname": "tech",
+            "sort_name": "Tech"
+        },
+        "name": "iDash Workshop Warsaw",
+        "next_event": {
+            "id": "261454653",
+            "name": "Deep Learning od podszewki",
+            "time": 1561649400000,
+            "utc_offset": 7200000,
+            "yes_rsvp_count": 55
+        },
+        "organizer": {
+            "bio": "",
+            "id": 226030370,
+            "name": "Mikołaj Olszewski",
+            "photo": {
+                "base_url": "https://secure.meetupstatic.com",
+                "highres_link": "https://secure.meetupstatic.com/photos/member/5/3/e/7/highres_267381479.jpeg",
+                "id": 267381479,
+                "photo_link": "https://secure.meetupstatic.com/photos/member/5/3/e/7/member_267381479.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/member/5/3/e/7/thumb_267381479.jpeg",
+                "type": "member"
+            }
+        },
+        "score": 1.0,
+        "state": "",
+        "status": "active",
+        "timezone": "Europe/Warsaw",
+        "untranslated_city": "Warsaw",
+        "urlname": "iDash-workshop-meetups",
+        "visibility": "public",
+        "who": "Members"
+    },
+    {
+        "category": {
+            "id": 34,
+            "name": "Tech",
+            "shortname": "tech",
+            "sort_name": "Tech"
+        },
+        "city": "Warsaw",
+        "country": "PL",
+        "created": 1415127202000,
+        "description": "<p>An upcoming regular event for people interested in Big Data, whether you are professionals in the field, enthusiasts, or students looking to build your career in that direction. We'll host interesting talks from industry experts, a focus on both business and technical aspects of big data, and plenty of time for networking! <br> <br> Big Data, Warsaw is hosted and managed by Dataconomy Media GmbH. Please get in touch with events@dataconomy.com if you are interested in participating.</p>\n<p><a class=\"embedded\" href=\"https://www.youtube.com/watch?v=v-ryAXdftUQ\">https://www.youtube.com/watch?v=v-ryAXdftUQ</a></p>",
+        "group_photo": {
+            "base_url": "https://secure.meetupstatic.com",
+            "highres_link": "https://secure.meetupstatic.com/photos/event/7/f/f/a/highres_431432762.jpeg",
+            "id": 431432762,
+            "photo_link": "https://secure.meetupstatic.com/photos/event/7/f/f/a/600_431432762.jpeg",
+            "thumb_link": "https://secure.meetupstatic.com/photos/event/7/f/f/a/thumb_431432762.jpeg",
+            "type": "event"
+        },
+        "id": 18068232,
+        "join_mode": "open",
+        "key_photo": {
+            "base_url": "https://secure.meetupstatic.com",
+            "highres_link": "https://secure.meetupstatic.com/photos/event/1/5/4/7/highres_473585447.jpeg",
+            "id": 473585447,
+            "photo_link": "https://secure.meetupstatic.com/photos/event/1/5/4/7/600_473585447.jpeg",
+            "thumb_link": "https://secure.meetupstatic.com/photos/event/1/5/4/7/thumb_473585447.jpeg",
+            "type": "event"
+        },
+        "lat": 52.26,
+        "link": "https://www.meetup.com/Big-Data-Warsaw/",
+        "localized_country_name": "Poland",
+        "localized_location": "Warsaw, Poland",
+        "lon": 21.02,
+        "members": 1703,
+        "meta_category": {
+            "category_ids": [
+                34
+            ],
+            "id": 292,
+            "name": "Tech",
+            "photo": {
+                "base_url": "https://secure.meetupstatic.com",
+                "highres_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
+                "id": 450131949,
+                "photo_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
+                "type": "event"
+            },
+            "shortname": "tech",
+            "sort_name": "Tech"
+        },
+        "name": "Big Data, Warsaw",
+        "next_event": {
+            "id": "261611518",
+            "name": "Big Data v 4.0",
+            "time": 1560873600000,
+            "utc_offset": 7200000,
+            "yes_rsvp_count": 54
+        },
+        "organizer": {
+            "bio": "",
+            "id": 148608902,
+            "name": "John Adley"
+        },
+        "score": 1.0,
+        "state": "",
+        "status": "active",
+        "timezone": "Europe/Warsaw",
+        "untranslated_city": "Warsaw",
+        "urlname": "Big-Data-Warsaw",
+        "visibility": "public",
+        "who": "Data Lovers, Warsaw"
+    },
+    {
+        "category": {
+            "id": 34,
+            "name": "Tech",
+            "shortname": "tech",
+            "sort_name": "Tech"
+        },
+        "city": "Warsaw",
+        "country": "PL",
+        "created": 1424334497000,
+        "description": "<p>Witaj w grupie entuzjastów wizualizacji i analizy danych. Grupa została utworzona w związku z rosnącym znaczeniem wizualizacji danych i dashboardów oraz rozwojem różnych narzędzi, które do tego służą (Tableau, Power BI itp.). Początkowo grupa zrzeszała tylko entuzjastów programu Tableau, jednak w celu rozszerzenia jej działalności zrezygnowaliśmy z przywiązywania się do konkretnych narzędzi. Od samego początku nasze spotkania są bezpłatne i otwarte – każdy może wziąć w nich udział jako słuchacz i prelegent.</p>\n<p>W razie pytań zapraszam do kontaktu.</p>\n<p>Bartosz Czapiewski <br> <a href=\"http://SkuteczneRaporty.pl\">SkuteczneRaporty.pl</a> <br> tel. 500&nbsp;196&nbsp;861 <br> e-mail: kontakt@skuteczneraporty.pl</p>",
+        "group_photo": {
+            "base_url": "https://secure.meetupstatic.com",
+            "highres_link": "https://secure.meetupstatic.com/photos/event/3/2/e/2/highres_466513026.jpeg",
+            "id": 466513026,
+            "photo_link": "https://secure.meetupstatic.com/photos/event/3/2/e/2/600_466513026.jpeg",
+            "thumb_link": "https://secure.meetupstatic.com/photos/event/3/2/e/2/thumb_466513026.jpeg",
+            "type": "event"
+        },
+        "id": 18445508,
+        "join_mode": "open",
+        "key_photo": {
+            "base_url": "https://secure.meetupstatic.com",
+            "highres_link": "https://secure.meetupstatic.com/photos/event/3/2/e/2/highres_466513026.jpeg",
+            "id": 466513026,
+            "photo_link": "https://secure.meetupstatic.com/photos/event/3/2/e/2/600_466513026.jpeg",
+            "thumb_link": "https://secure.meetupstatic.com/photos/event/3/2/e/2/thumb_466513026.jpeg",
+            "type": "event"
+        },
+        "lat": 52.26,
+        "link": "https://www.meetup.com/Data-Visualization-and-BI/",
+        "localized_country_name": "Poland",
+        "localized_location": "Warsaw, Poland",
+        "lon": 21.02,
+        "members": 1453,
+        "meta_category": {
+            "category_ids": [
+                34
+            ],
+            "id": 292,
+            "name": "Tech",
+            "photo": {
+                "base_url": "https://secure.meetupstatic.com",
+                "highres_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
+                "id": 450131949,
+                "photo_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
+                "type": "event"
+            },
+            "shortname": "tech",
+            "sort_name": "Tech"
+        },
+        "name": "Data Visualization & BI - Warsaw Meeting",
+        "organizer": {
+            "bio": "Data Visualization Trainer & Consultant at SkuteczneRaporty.pl",
+            "id": 183846523,
+            "name": "Bartosz Czapiewski",
+            "photo": {
+                "base_url": "https://secure.meetupstatic.com",
+                "highres_link": "https://secure.meetupstatic.com/photos/member/d/e/4/c/highres_264656908.jpeg",
+                "id": 264656908,
+                "photo_link": "https://secure.meetupstatic.com/photos/member/d/e/4/c/member_264656908.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/member/d/e/4/c/thumb_264656908.jpeg",
+                "type": "member"
+            }
+        },
+        "score": 1.0,
+        "state": "",
+        "status": "active",
+        "timezone": "Europe/Warsaw",
+        "untranslated_city": "Warsaw",
+        "urlname": "Data-Visualization-and-BI",
+        "visibility": "public",
+        "who": "Analysts"
+    },
+    {
+        "category": {
+            "id": 34,
+            "name": "Tech",
+            "shortname": "tech",
+            "sort_name": "Tech"
+        },
+        "city": "Warsaw",
+        "country": "PL",
+        "created": 1526453787000,
+        "description": "<p>Past events recordings: <a href=\"https://deepdrive.pl/wsdc-meetup/\">https://deepdrive.pl/wsdc-meetup/</a></p>\n<p>This group is for anyone interested in&nbsp;<span>autonomous vehicles, practical deep learning, 1:10 small-scale racing platforms.</span></p>\n<p>Why should you join?</p>\n<p>This meetup is an opportunity to: &lt;br&gt;- meet people interested in Self-Driving Cars &lt;br&gt;- learn how to automate your RC car &lt;br&gt;- learn how to use deep learning</p>\n<p>What we plan to do:</p>\n<p>- presentations about F1/10th, SDC &lt;br&gt;- tutorials about SDC and deep learning &lt;br&gt;- talk and eat pizza!</p>\n<p>If you have ideas or comments: <br><a href=\"https://bit.ly/WSDC_2019\" class=\"linkified\">https://bit.ly/WSDC_2019</a></p>\n<p>Join our Slack channel: <br><a href=\"https://bit.ly/WSDC_Slack\">https://bit.ly/WSDC_Slack</a></p>",
+        "id": 28504867,
+        "join_mode": "open",
+        "key_photo": {
+            "base_url": "https://secure.meetupstatic.com",
+            "highres_link": "https://secure.meetupstatic.com/photos/event/e/3/b/5/highres_471178293.jpeg",
+            "id": 471178293,
+            "photo_link": "https://secure.meetupstatic.com/photos/event/e/3/b/5/600_471178293.jpeg",
+            "thumb_link": "https://secure.meetupstatic.com/photos/event/e/3/b/5/thumb_471178293.jpeg",
+            "type": "event"
+        },
+        "lat": 52.26,
+        "link": "https://www.meetup.com/Warsaw-Self-Driving-Cars-Group/",
+        "localized_country_name": "Poland",
+        "localized_location": "Warsaw, Poland",
+        "lon": 21.02,
+        "members": 412,
+        "meta_category": {
+            "category_ids": [
+                34
+            ],
+            "id": 292,
+            "name": "Tech",
+            "photo": {
+                "base_url": "https://secure.meetupstatic.com",
+                "highres_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
+                "id": 450131949,
+                "photo_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
+                "type": "event"
+            },
+            "shortname": "tech",
+            "sort_name": "Tech"
+        },
+        "name": "Warsaw Self-Driving Cars",
+        "organizer": {
+            "bio": "Self-Driving Car and Mobile Robotics Engineer. He participated in competitions: DARPA VRC, ELROB, Eurathlon, Udacity Challenge and Self-Racing Cars. He is now working on deep learning solutions for autonomous cars, mobile robotics, petabyte storage.",
+            "id": 219272169,
+            "name": "Karol Majek",
+            "photo": {
+                "base_url": "https://secure.meetupstatic.com",
+                "highres_link": "https://secure.meetupstatic.com/photos/member/d/4/e/a/highres_277194506.jpeg",
+                "id": 277194506,
+                "photo_link": "https://secure.meetupstatic.com/photos/member/d/4/e/a/member_277194506.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/member/d/4/e/a/thumb_277194506.jpeg",
+                "type": "member"
+            }
+        },
+        "score": 1.0,
+        "state": "",
+        "status": "active",
+        "timezone": "Europe/Warsaw",
+        "untranslated_city": "Warsaw",
+        "urlname": "Warsaw-Self-Driving-Cars-Group",
+        "visibility": "public",
+        "who": "Members"
+    },
+    {
+        "category": {
+            "id": 34,
+            "name": "Tech",
+            "shortname": "tech",
+            "sort_name": "Tech"
+        },
+        "city": "Torun",
+        "country": "PL",
+        "created": 1550010374000,
+        "description": "<p>Oddział Data Community działający w Bydgoszczy oraz Toruniu, skupiający profesjonalistów zajmujących się platformą danych (głównie firmy Microsoft) a także praktyków Data Science.</p>\n<p>Materiały ze spotkań grupy są dostępne pod linkiem: <br><a href=\"https://github.com/DataCommunityBiT\">https://github.com/DataCommunityBiT</a><br><br>Część naszych sesji jest nagrywana, a nagrania są udostępniane na youtube. Link do playlisty z naszymi nagraniami: <br><a href=\"https://www.youtube.com/watch?v=ZYGTgor6OKw&amp;list=PLgQS_Zhc1frdwrsrV4ov6ncgl8IwLR9f4\">https://www.youtube.com/watch?v=ZYGTgor6OKw&amp;list=PLgQS_Zhc1frdwrsrV4ov6ncgl8IwLR9f4</a><br></p>",
+        "group_photo": {
+            "base_url": "https://secure.meetupstatic.com",
+            "highres_link": "https://secure.meetupstatic.com/photos/event/7/0/0/2/highres_478648674.jpeg",
+            "id": 478648674,
+            "photo_link": "https://secure.meetupstatic.com/photos/event/7/0/0/2/600_478648674.jpeg",
+            "thumb_link": "https://secure.meetupstatic.com/photos/event/7/0/0/2/thumb_478648674.jpeg",
+            "type": "event"
+        },
+        "id": 31151082,
+        "join_mode": "open",
+        "key_photo": {
+            "base_url": "https://secure.meetupstatic.com",
+            "highres_link": "https://secure.meetupstatic.com/photos/event/a/8/a/5/highres_478663173.jpeg",
+            "id": 478663173,
+            "photo_link": "https://secure.meetupstatic.com/photos/event/a/8/a/5/600_478663173.jpeg",
+            "thumb_link": "https://secure.meetupstatic.com/photos/event/a/8/a/5/thumb_478663173.jpeg",
+            "type": "event"
+        },
+        "lat": 53.02,
+        "link": "https://www.meetup.com/Data-Community-Bydgoszcz-i-Toru%C5%84/",
+        "localized_country_name": "Poland",
+        "localized_location": "Torun, Poland",
+        "lon": 18.61,
+        "members": 268,
+        "meta_category": {
+            "category_ids": [
+                34
+            ],
+            "id": 292,
+            "name": "Tech",
+            "photo": {
+                "base_url": "https://secure.meetupstatic.com",
+                "highres_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
+                "id": 450131949,
+                "photo_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
+                "type": "event"
+            },
+            "shortname": "tech",
+            "sort_name": "Tech"
+        },
+        "name": "Data Community Bydgoszcz i Toruń",
+        "next_event": {
+            "id": "262029224",
+            "name": "42. Spotkanie DC Bydgoszcz i Toruń",
+            "time": 1560265200000,
+            "utc_offset": 7200000,
+            "yes_rsvp_count": 1
+        },
+        "organizer": {
+            "bio": "",
+            "id": 149738542,
+            "name": "Hubert Kobierzewski",
+            "photo": {
+                "base_url": "https://secure.meetupstatic.com",
+                "id": 201974672,
+                "photo_link": "https://secure.meetupstatic.com/photos/member/3/9/5/0/member_201974672.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/member/3/9/5/0/thumb_201974672.jpeg",
+                "type": "member"
+            }
+        },
+        "pro_network": {
+            "name": "Data Community",
+            "network_url": "https://www.meetup.com/pro/data-community/",
+            "number_of_groups": 5,
+            "urlname": "data-community"
+        },
+        "score": 1.0,
+        "state": "",
+        "status": "active",
+        "timezone": "Europe/Warsaw",
+        "untranslated_city": "Torun",
+        "urlname": "Data-Community-Bydgoszcz-i-Toruń",
+        "visibility": "public",
+        "who": "Data Geeks"
+    },
+    {
+        "category": {
+            "id": 34,
+            "name": "Tech",
+            "shortname": "tech",
+            "sort_name": "Tech"
+        },
+        "city": "Warsaw",
+        "country": "PL",
+        "created": 1552422849000,
+        "description": "<p>AI changes our lives every day. Terminator and HAL 9000 are still science fiction, but media, economy, art and other areas are being influenced by new discoveries. We meet to discuss those changes with people who apply Artificial Intelligence in different fields. Presentations will be given in non-technical manner. Everyone is welcome to listen and discuss.</p>",
+        "id": 31374300,
+        "join_mode": "open",
+        "key_photo": {
+            "base_url": "https://secure.meetupstatic.com",
+            "highres_link": "https://secure.meetupstatic.com/photos/event/7/0/7/b/highres_479428795.jpeg",
+            "id": 479428795,
+            "photo_link": "https://secure.meetupstatic.com/photos/event/7/0/7/b/600_479428795.jpeg",
+            "thumb_link": "https://secure.meetupstatic.com/photos/event/7/0/7/b/thumb_479428795.jpeg",
+            "type": "event"
+        },
+        "lat": 52.26,
+        "link": "https://www.meetup.com/ThinkAI/",
+        "localized_country_name": "Poland",
+        "localized_location": "Warsaw, Poland",
+        "lon": 21.02,
+        "members": 312,
+        "meta_category": {
+            "category_ids": [
+                34
+            ],
+            "id": 292,
+            "name": "Tech",
+            "photo": {
+                "base_url": "https://secure.meetupstatic.com",
+                "highres_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
+                "id": 450131949,
+                "photo_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
+                "type": "event"
+            },
+            "shortname": "tech",
+            "sort_name": "Tech"
+        },
+        "name": "ThinkAI",
+        "organizer": {
+            "bio": "",
+            "id": 123106612,
+            "name": "Łukasz Czarnecki",
+            "photo": {
+                "base_url": "https://secure.meetupstatic.com",
+                "highres_link": "https://secure.meetupstatic.com/photos/member/7/2/a/c/highres_285989356.jpeg",
+                "id": 285989356,
+                "photo_link": "https://secure.meetupstatic.com/photos/member/7/2/a/c/member_285989356.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/member/7/2/a/c/thumb_285989356.jpeg",
+                "type": "member"
+            }
+        },
+        "score": 1.0,
+        "state": "",
+        "status": "active",
+        "timezone": "Europe/Warsaw",
+        "untranslated_city": "Warsaw",
+        "urlname": "ThinkAI",
+        "visibility": "public",
+        "who": "Members"
+    },
+    {
+        "category": {
+            "id": 34,
+            "name": "Tech",
+            "shortname": "tech",
+            "sort_name": "Tech"
+        },
+        "city": "Łódź",
+        "country": "PL",
+        "created": 1443968641000,
+        "description": "<p>Grupa przeznaczona jest dla entuzjastów szeroko rozumianego Data Science.</p>",
+        "group_photo": {
+            "base_url": "https://secure.meetupstatic.com",
+            "highres_link": "https://secure.meetupstatic.com/photos/event/8/3/2/f/highres_442773583.jpeg",
+            "id": 442773583,
+            "photo_link": "https://secure.meetupstatic.com/photos/event/8/3/2/f/600_442773583.jpeg",
+            "thumb_link": "https://secure.meetupstatic.com/photos/event/8/3/2/f/thumb_442773583.jpeg",
+            "type": "event"
+        },
+        "id": 18994548,
+        "join_mode": "open",
+        "key_photo": {
+            "base_url": "https://secure.meetupstatic.com",
+            "highres_link": "https://secure.meetupstatic.com/photos/event/8/3/2/f/highres_442773583.jpeg",
+            "id": 442773583,
+            "photo_link": "https://secure.meetupstatic.com/photos/event/8/3/2/f/600_442773583.jpeg",
+            "thumb_link": "https://secure.meetupstatic.com/photos/event/8/3/2/f/thumb_442773583.jpeg",
+            "type": "event"
+        },
+        "lat": 51.77,
+        "link": "https://www.meetup.com/data-science-lodz/",
+        "localized_country_name": "Poland",
+        "localized_location": "Łódź, Poland",
+        "lon": 19.46,
+        "members": 619,
+        "meta_category": {
+            "category_ids": [
+                34
+            ],
+            "id": 292,
+            "name": "Tech",
+            "photo": {
+                "base_url": "https://secure.meetupstatic.com",
+                "highres_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
+                "id": 450131949,
+                "photo_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
+                "type": "event"
+            },
+            "shortname": "tech",
+            "sort_name": "Tech"
+        },
+        "name": "Data Science Łódź",
+        "next_event": {
+            "id": "261683444",
+            "name": "DSŁ-15 WhyR pre-meeting",
+            "time": 1560183300000,
+            "utc_offset": 7200000,
+            "yes_rsvp_count": 28
+        },
+        "organizer": {
+            "bio": "Adiunkt naukowy w Uniwersytecie Łódzkim, Kierownik Pracowni Biobank. Analiza big data i aspekty bioinformatyczne to codzienność mojej pracy. Trudno jest połączyć IT specjalistów z biologami, ale na szczęście nie jest to nie możliwe.",
+            "id": 277585840,
+            "name": "Dominik Strapagiel"
+        },
+        "score": 1.0,
+        "state": "",
+        "status": "active",
+        "timezone": "Europe/Warsaw",
+        "untranslated_city": "Łódź",
+        "urlname": "data-science-lodz",
+        "visibility": "public",
+        "who": "Data Scientists"
+    },
+    {
+        "category": {
+            "id": 34,
+            "name": "Tech",
+            "shortname": "tech",
+            "sort_name": "Tech"
+        },
+        "city": "Warsaw",
+        "country": "PL",
+        "created": 1536680610000,
+        "description": "<p>Warszawski oddział Data Community skupiający profesjonalistów zajmujących się platformą danych głównie firmy Microsoft. Spotykamy się w dwóch oddzielnych grupach: jedna ogólna a druga poświęcona wizualizacji danych (Warsaw Power BI User Group)</p>",
+        "group_photo": {
+            "base_url": "https://secure.meetupstatic.com",
+            "highres_link": "https://secure.meetupstatic.com/photos/event/6/8/1/7/highres_476006647.jpeg",
+            "id": 476006647,
+            "photo_link": "https://secure.meetupstatic.com/photos/event/6/8/1/7/600_476006647.jpeg",
+            "thumb_link": "https://secure.meetupstatic.com/photos/event/6/8/1/7/thumb_476006647.jpeg",
+            "type": "event"
+        },
+        "id": 29772902,
+        "join_mode": "open",
+        "lat": 52.26,
+        "link": "https://www.meetup.com/Data-Community-Warsaw/",
+        "localized_country_name": "Poland",
+        "localized_location": "Warsaw, Poland",
+        "lon": 21.02,
+        "members": 566,
+        "meta_category": {
+            "category_ids": [
+                34
+            ],
+            "id": 292,
+            "name": "Tech",
+            "photo": {
+                "base_url": "https://secure.meetupstatic.com",
+                "highres_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
+                "id": 450131949,
+                "photo_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
+                "type": "event"
+            },
+            "shortname": "tech",
+            "sort_name": "Tech"
+        },
+        "name": "Data Community Warsaw",
+        "next_event": {
+            "id": "262015388",
+            "name": "126. Spotkanie Data Community - Bezpieczeństwo oraz T-SQL ==> REST API",
+            "time": 1559836800000,
+            "utc_offset": 7200000,
+            "yes_rsvp_count": 57
+        },
+        "organizer": {
+            "bio": "",
+            "id": 149738542,
+            "name": "Hubert Kobierzewski",
+            "photo": {
+                "base_url": "https://secure.meetupstatic.com",
+                "id": 201974672,
+                "photo_link": "https://secure.meetupstatic.com/photos/member/3/9/5/0/member_201974672.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/member/3/9/5/0/thumb_201974672.jpeg",
+                "type": "member"
+            }
+        },
+        "pro_network": {
+            "name": "Data Community",
+            "network_url": "https://www.meetup.com/pro/data-community/",
+            "number_of_groups": 5,
+            "urlname": "data-community"
+        },
+        "score": 1.0,
+        "state": "",
+        "status": "active",
+        "timezone": "Europe/Warsaw",
+        "untranslated_city": "Warsaw",
+        "urlname": "Data-Community-Warsaw",
+        "visibility": "public",
+        "who": "SQL Folks"
+    },
+    {
+        "category": {
+            "id": 34,
+            "name": "Tech",
+            "shortname": "tech",
+            "sort_name": "Tech"
+        },
+        "city": "Warsaw",
+        "country": "PL",
+        "created": 1541275840000,
+        "description": "<p>Koło Naukowe Uczenia Maszynowego MIM UW <br>Na spotkania zapraszamy wszystkie osoby zainteresowane uczeniem maszynowym, programowaniem i analizą danych. Spotkania te są prowadzone w formie warsztatowej, z przewidzianym czasem na networking i wymianę doświadczeń.</p>\n<p>Machine Learning Club at University of Warsaw, Poland <br>We invite everyone interested in machine learning, computer science and data analytics to join our meetings. These meetings consist of workshop and networking sessions, giving everyone chance to share their knowledge and experiences.</p>",
+        "id": 30453034,
+        "join_mode": "open",
+        "key_photo": {
+            "base_url": "https://secure.meetupstatic.com",
+            "highres_link": "https://secure.meetupstatic.com/photos/event/8/d/c/2/highres_481176290.jpeg",
+            "id": 481176290,
+            "photo_link": "https://secure.meetupstatic.com/photos/event/8/d/c/2/600_481176290.jpeg",
+            "thumb_link": "https://secure.meetupstatic.com/photos/event/8/d/c/2/thumb_481176290.jpeg",
+            "type": "event"
+        },
+        "lat": 52.26,
+        "link": "https://www.meetup.com/KNUM-UW/",
+        "localized_country_name": "Poland",
+        "localized_location": "Warsaw, Poland",
+        "lon": 21.02,
+        "members": 148,
+        "meta_category": {
+            "category_ids": [
+                34
+            ],
+            "id": 292,
+            "name": "Tech",
+            "photo": {
+                "base_url": "https://secure.meetupstatic.com",
+                "highres_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
+                "id": 450131949,
+                "photo_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
+                "type": "event"
+            },
+            "shortname": "tech",
+            "sort_name": "Tech"
+        },
+        "name": "KNUM UW",
+        "organizer": {
+            "bio": "",
+            "id": 226611919,
+            "name": "Krzysztof Kowalczyk",
+            "photo": {
+                "base_url": "https://secure.meetupstatic.com",
+                "highres_link": "https://secure.meetupstatic.com/photos/member/b/e/9/d/highres_282108797.jpeg",
+                "id": 282108797,
+                "photo_link": "https://secure.meetupstatic.com/photos/member/b/e/9/d/member_282108797.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/member/b/e/9/d/thumb_282108797.jpeg",
+                "type": "member"
+            }
+        },
+        "score": 1.0,
+        "state": "",
+        "status": "active",
+        "timezone": "Europe/Warsaw",
+        "untranslated_city": "Warsaw",
+        "urlname": "KNUM-UW",
+        "visibility": "public",
+        "who": "Members"
+    },
+    {
+        "category": {
+            "id": 34,
+            "name": "Tech",
+            "shortname": "tech",
+            "sort_name": "Tech"
+        },
+        "city": "Warsaw",
+        "country": "PL",
+        "created": 1488020912000,
+        "description": "<p>Chcesz spotkać inne osoby wykorzystujące język programowania Julia? Interesuje Ciebie Julia i nie wiesz jak zacząć? Realizujesz projekt biznesowy lub naukowy wykorzystując Julia i chcesz o nim opowiedzieć? Zapraszamy na Warszawskie Forum Julia.</p>\n<p>Materiały ze spotkań można znaleźć na <a href=\"https://github.com/bkamins/WarszawskieForumJulia\">GitHub</a>&nbsp;i na <a href=\"https://www.youtube.com/channel/UCO_TOhhECwJkemapF8yQxRg\">YouTube</a>.</p>",
+        "id": 22615167,
+        "join_mode": "open",
+        "key_photo": {
+            "base_url": "https://secure.meetupstatic.com",
+            "highres_link": "https://secure.meetupstatic.com/photos/event/d/a/5/highres_467043493.jpeg",
+            "id": 467043493,
+            "photo_link": "https://secure.meetupstatic.com/photos/event/d/a/5/600_467043493.jpeg",
+            "thumb_link": "https://secure.meetupstatic.com/photos/event/d/a/5/thumb_467043493.jpeg",
+            "type": "event"
+        },
+        "lat": 52.26,
+        "link": "https://www.meetup.com/Warszawskie-Forum-Julia/",
+        "localized_country_name": "Poland",
+        "localized_location": "Warsaw, Poland",
+        "lon": 21.02,
+        "members": 475,
+        "meta_category": {
+            "category_ids": [
+                34
+            ],
+            "id": 292,
+            "name": "Tech",
+            "photo": {
+                "base_url": "https://secure.meetupstatic.com",
+                "highres_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
+                "id": 450131949,
+                "photo_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
+                "type": "event"
+            },
+            "shortname": "tech",
+            "sort_name": "Tech"
+        },
+        "name": "Warszawskie Forum Julia",
+        "organizer": {
+            "bio": "",
+            "id": 222227303,
+            "name": "Bogumił Kamiński",
+            "photo": {
+                "base_url": "https://secure.meetupstatic.com",
+                "highres_link": "https://secure.meetupstatic.com/photos/member/3/c/9/1/highres_264375505.jpeg",
+                "id": 264375505,
+                "photo_link": "https://secure.meetupstatic.com/photos/member/3/c/9/1/member_264375505.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/member/3/c/9/1/thumb_264375505.jpeg",
+                "type": "member"
+            }
+        },
+        "score": 1.0,
+        "state": "",
+        "status": "active",
+        "timezone": "Europe/Warsaw",
+        "untranslated_city": "Warsaw",
+        "urlname": "Warszawskie-Forum-Julia",
+        "visibility": "public",
+        "who": "Członków"
+    },
+    {
+        "category": {
+            "id": 34,
+            "name": "Tech",
+            "shortname": "tech",
+            "sort_name": "Tech"
+        },
+        "city": "Łódź",
+        "country": "PL",
+        "created": 1491569672000,
+        "description": "<p>Stacja IT to całodniowe warsztaty hands-on, bezpłatna edukacja trenerska, miejsce spotkań ekspertów branżowych, profesjonalistów, którzy nieprzerwanie podnoszą swoje kompetencje, trenerów, przedsiębiorców i twórców startupów, a także osób wchodzących na rynek pracy.</p>\n<p>Wstąp na Stację i złap pociag do kodowania! <a href=\"http://www.stacja.it\" class=\"linkified\">http://www.stacja.it</a></p>",
+        "id": 23193193,
+        "join_mode": "open",
+        "lat": 51.77,
+        "link": "https://www.meetup.com/Stacja-IT-Lodz/",
+        "localized_country_name": "Poland",
+        "localized_location": "Łódź, Poland",
+        "lon": 19.46,
+        "members": 404,
+        "meta_category": {
+            "category_ids": [
+                34
+            ],
+            "id": 292,
+            "name": "Tech",
+            "photo": {
+                "base_url": "https://secure.meetupstatic.com",
+                "highres_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
+                "id": 450131949,
+                "photo_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
+                "type": "event"
+            },
+            "shortname": "tech",
+            "sort_name": "Tech"
+        },
+        "name": "Stacja IT Łódź",
+        "organizer": {
+            "bio": "",
+            "id": 199474210,
+            "name": "Maria Nowakowska",
+            "photo": {
+                "base_url": "https://secure.meetupstatic.com",
+                "highres_link": "https://secure.meetupstatic.com/photos/member/5/e/e/b/highres_269484299.jpeg",
+                "id": 269484299,
+                "photo_link": "https://secure.meetupstatic.com/photos/member/5/e/e/b/member_269484299.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/member/5/e/e/b/thumb_269484299.jpeg",
+                "type": "member"
+            }
+        },
+        "score": 1.0,
+        "state": "",
+        "status": "active",
+        "timezone": "Europe/Warsaw",
+        "untranslated_city": "Łódź",
+        "urlname": "Stacja-IT-Lodz",
+        "visibility": "public",
+        "who": "Members"
+    },
+    {
+        "category": {
+            "id": 34,
+            "name": "Tech",
+            "shortname": "tech",
+            "sort_name": "Tech"
+        },
+        "city": "Łódź",
+        "country": "PL",
+        "created": 1539015862000,
+        "description": "<p>Cykliczne spotkania dla pasjonatów i praktyków Sztucznej Inteligencji w Łodzi. Do końca 2018 roku planuję 5 spotkan. Wstęp wolny.</p>\n<p>Jeśli masz ochotę wziąć udział jako prezenter - także zapraszamy!</p>",
+        "id": 30139941,
+        "join_mode": "open",
+        "key_photo": {
+            "base_url": "https://secure.meetupstatic.com",
+            "highres_link": "https://secure.meetupstatic.com/photos/event/2/e/f/9/highres_475272025.jpeg",
+            "id": 475272025,
+            "photo_link": "https://secure.meetupstatic.com/photos/event/2/e/f/9/600_475272025.jpeg",
+            "thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/f/9/thumb_475272025.jpeg",
+            "type": "event"
+        },
+        "lat": 51.77,
+        "link": "https://www.meetup.com/Sztuczna-Inteligencja-Lodz/",
+        "localized_country_name": "Poland",
+        "localized_location": "Łódź, Poland",
+        "lon": 19.46,
+        "members": 319,
+        "meta_category": {
+            "category_ids": [
+                34
+            ],
+            "id": 292,
+            "name": "Tech",
+            "photo": {
+                "base_url": "https://secure.meetupstatic.com",
+                "highres_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
+                "id": 450131949,
+                "photo_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
+                "type": "event"
+            },
+            "shortname": "tech",
+            "sort_name": "Tech"
+        },
+        "name": "Sztuczna Inteligencja Łódź",
+        "organizer": {
+            "bio": "",
+            "id": 265088097,
+            "name": "Łukasz Kuncewicz",
+            "photo": {
+                "base_url": "https://secure.meetupstatic.com",
+                "highres_link": "https://secure.meetupstatic.com/photos/member/5/0/b/6/highres_281360662.jpeg",
+                "id": 281360662,
+                "photo_link": "https://secure.meetupstatic.com/photos/member/5/0/b/6/member_281360662.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/member/5/0/b/6/thumb_281360662.jpeg",
+                "type": "member"
+            }
+        },
+        "score": 1.0,
+        "state": "",
+        "status": "active",
+        "timezone": "Europe/Warsaw",
+        "untranslated_city": "Łódź",
+        "urlname": "Sztuczna-Inteligencja-Lodz",
+        "visibility": "public",
+        "who": "Członkowie"
+    },
+    {
+        "category": {
+            "id": 34,
+            "name": "Tech",
+            "shortname": "tech",
+            "sort_name": "Tech"
+        },
+        "city": "Łódź",
+        "country": "PL",
+        "created": 1503675253000,
+        "description": "<p>PyData is an educational program of NumFOCUS, a 501(c)3 non-profit organization in the United States. PyData provides a forum for the international community of users and developers of data analysis tools to share ideas and learn from each other. The global PyData network promotes discussion of best practices, new approaches, and emerging technologies for data management, processing, analytics, and visualization. PyData communities approach data science using many languages, including (but not limited to) Python, Julia, and R. The PyData Code of Conduct governs this meetup. (<a href=\"http://pydata.org/code-of-conduct.html\" class=\"linkified\">http://pydata.org/code-of-conduct.html</a>) To discuss any issues or concerns relating to the code of conduct or the behavior of anyone at a PyData meetup, please contact NumFOCUS Executive Director Leah Silen (+1 512-222-5449; leah@numfocus.org) or the group organizer.</p>",
+        "group_photo": {
+            "base_url": "https://secure.meetupstatic.com",
+            "highres_link": "https://secure.meetupstatic.com/photos/event/b/2/9/highres_463982857.jpeg",
+            "id": 463982857,
+            "photo_link": "https://secure.meetupstatic.com/photos/event/b/2/9/600_463982857.jpeg",
+            "thumb_link": "https://secure.meetupstatic.com/photos/event/b/2/9/thumb_463982857.jpeg",
+            "type": "event"
+        },
+        "id": 25634758,
+        "join_mode": "open",
+        "key_photo": {
+            "base_url": "https://secure.meetupstatic.com",
+            "highres_link": "https://secure.meetupstatic.com/photos/event/b/2/9/highres_463982857.jpeg",
+            "id": 463982857,
+            "photo_link": "https://secure.meetupstatic.com/photos/event/b/2/9/600_463982857.jpeg",
+            "thumb_link": "https://secure.meetupstatic.com/photos/event/b/2/9/thumb_463982857.jpeg",
+            "type": "event"
+        },
+        "lat": 51.77,
+        "link": "https://www.meetup.com/PyData-Lodz/",
+        "localized_country_name": "Poland",
+        "localized_location": "Łódź, Poland",
+        "lon": 19.46,
+        "members": 213,
+        "meta_category": {
+            "category_ids": [
+                34
+            ],
+            "id": 292,
+            "name": "Tech",
+            "photo": {
+                "base_url": "https://secure.meetupstatic.com",
+                "highres_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
+                "id": 450131949,
+                "photo_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
+                "type": "event"
+            },
+            "shortname": "tech",
+            "sort_name": "Tech"
+        },
+        "name": "PyData Lodz",
+        "organizer": {
+            "bio": "",
+            "id": 234868751,
+            "name": "Igor Zubrycki",
+            "photo": {
+                "base_url": "https://secure.meetupstatic.com",
+                "highres_link": "https://secure.meetupstatic.com/photos/member/a/e/2/f/highres_270044591.jpeg",
+                "id": 270044591,
+                "photo_link": "https://secure.meetupstatic.com/photos/member/a/e/2/f/member_270044591.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/member/a/e/2/f/thumb_270044591.jpeg",
+                "type": "member"
+            }
+        },
+        "pro_network": {
+            "name": "PyData",
+            "network_url": "https://www.meetup.com/pro/pydata/",
+            "number_of_groups": 140,
+            "urlname": "pydata"
+        },
+        "score": 1.0,
+        "state": "",
+        "status": "active",
+        "timezone": "Europe/Warsaw",
+        "untranslated_city": "Łódź",
+        "urlname": "PyData-Lodz",
+        "visibility": "public",
+        "who": "Members"
+    },
+    {
+        "category": {
+            "id": 34,
+            "name": "Tech",
+            "shortname": "tech",
+            "sort_name": "Tech"
+        },
+        "city": "Warsaw",
+        "country": "PL",
+        "created": 1495527058000,
+        "description": "<p>Zapraszamy na cykl technicznych spotkań dla entuzjastów sztucznej inteligencji, uczenia maszynowego, sieci neuronowych, przetwarzania języka naturalnego, wizji komputerowej i analizy danych.&nbsp;</p>",
+        "id": 23958467,
+        "join_mode": "open",
+        "key_photo": {
+            "base_url": "https://secure.meetupstatic.com",
+            "highres_link": "https://secure.meetupstatic.com/photos/event/5/0/b/4/highres_461420660.jpeg",
+            "id": 461420660,
+            "photo_link": "https://secure.meetupstatic.com/photos/event/5/0/b/4/600_461420660.jpeg",
+            "thumb_link": "https://secure.meetupstatic.com/photos/event/5/0/b/4/thumb_461420660.jpeg",
+            "type": "event"
+        },
+        "lat": 52.26,
+        "link": "https://www.meetup.com/AI-Warsaw/",
+        "localized_country_name": "Poland",
+        "localized_location": "Warsaw, Poland",
+        "lon": 21.02,
+        "members": 1499,
+        "meta_category": {
+            "category_ids": [
+                34
+            ],
+            "id": 292,
+            "name": "Tech",
+            "photo": {
+                "base_url": "https://secure.meetupstatic.com",
+                "highres_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
+                "id": 450131949,
+                "photo_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
+                "type": "event"
+            },
+            "shortname": "tech",
+            "sort_name": "Tech"
+        },
+        "name": "AI Warsaw",
+        "organizer": {
+            "bio": "",
+            "id": 128453402,
+            "name": "Bartek Biskupski",
+            "photo": {
+                "base_url": "https://secure.meetupstatic.com",
+                "highres_link": "https://secure.meetupstatic.com/photos/member/a/9/8/d/highres_267163405.jpeg",
+                "id": 267163405,
+                "photo_link": "https://secure.meetupstatic.com/photos/member/a/9/8/d/member_267163405.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/member/a/9/8/d/thumb_267163405.jpeg",
+                "type": "member"
+            }
+        },
+        "score": 1.0,
+        "state": "",
+        "status": "active",
+        "timezone": "Europe/Warsaw",
+        "untranslated_city": "Warsaw",
+        "urlname": "AI-Warsaw",
+        "visibility": "public",
+        "who": "Members"
+    },
+    {
+        "category": {
+            "id": 34,
+            "name": "Tech",
+            "shortname": "tech",
+            "sort_name": "Tech"
+        },
+        "city": "Warsaw",
+        "country": "PL",
+        "created": 1541484926000,
+        "description": "<p>Spotykamy się, aby rozmawiać o naszej pasji - analizie danych w R. Podczas każdego spotkania poznajemy nowe narzędzia, które pozwalają nam efektywniej analizować dane i efektowniej prezentować wyniki naszej pracy.</p>",
+        "group_photo": {
+            "base_url": "https://secure.meetupstatic.com",
+            "highres_link": "https://secure.meetupstatic.com/photos/event/1/b/d/b/highres_476467131.jpeg",
+            "id": 476467131,
+            "photo_link": "https://secure.meetupstatic.com/photos/event/1/b/d/b/600_476467131.jpeg",
+            "thumb_link": "https://secure.meetupstatic.com/photos/event/1/b/d/b/thumb_476467131.jpeg",
+            "type": "event"
+        },
+        "id": 30469939,
+        "join_mode": "open",
+        "lat": 52.26,
+        "link": "https://www.meetup.com/Mastering-R-at-MI-2/",
+        "localized_country_name": "Poland",
+        "localized_location": "Warsaw, Poland",
+        "lon": 21.02,
+        "members": 94,
+        "meta_category": {
+            "category_ids": [
+                34
+            ],
+            "id": 292,
+            "name": "Tech",
+            "photo": {
+                "base_url": "https://secure.meetupstatic.com",
+                "highres_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
+                "id": 450131949,
+                "photo_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
+                "type": "event"
+            },
+            "shortname": "tech",
+            "sort_name": "Tech"
+        },
+        "name": "Mastering R at MI^2",
+        "organizer": {
+            "bio": "",
+            "id": 215835833,
+            "name": "Michał Burdukiewicz",
+            "photo": {
+                "base_url": "https://secure.meetupstatic.com",
+                "highres_link": "https://secure.meetupstatic.com/photos/member/6/d/1/4/highres_263427924.jpeg",
+                "id": 263427924,
+                "photo_link": "https://secure.meetupstatic.com/photos/member/6/d/1/4/member_263427924.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/member/6/d/1/4/thumb_263427924.jpeg",
+                "type": "member"
+            }
+        },
+        "score": 1.0,
+        "state": "",
+        "status": "active",
+        "timezone": "Europe/Warsaw",
+        "untranslated_city": "Warsaw",
+        "urlname": "Mastering-R-at-MI-2",
+        "visibility": "public",
+        "who": "Members"
+    },
+    {
+        "category": {
+            "id": 34,
+            "name": "Tech",
+            "shortname": "tech",
+            "sort_name": "Tech"
+        },
+        "city": "Warsaw",
+        "country": "PL",
+        "created": 1540744565000,
+        "description": "<p>People working/interested on working with data as Data Engineers, Data Scientists, Data Analysts, wanting to hear talks about this fields.</p>\n<p>After presentations we plan to have food/networking and if you're interested boardgames! :)</p>",
+        "id": 30412305,
+        "join_mode": "open",
+        "key_photo": {
+            "base_url": "https://secure.meetupstatic.com",
+            "highres_link": "https://secure.meetupstatic.com/photos/event/d/e/5/5/highres_476336917.jpeg",
+            "id": 476336917,
+            "photo_link": "https://secure.meetupstatic.com/photos/event/d/e/5/5/600_476336917.jpeg",
+            "thumb_link": "https://secure.meetupstatic.com/photos/event/d/e/5/5/thumb_476336917.jpeg",
+            "type": "event"
+        },
+        "lat": 52.26,
+        "link": "https://www.meetup.com/Data-Boardgames/",
+        "localized_country_name": "Poland",
+        "localized_location": "Warsaw, Poland",
+        "lon": 21.02,
+        "members": 423,
+        "meta_category": {
+            "category_ids": [
+                34
+            ],
+            "id": 292,
+            "name": "Tech",
+            "photo": {
+                "base_url": "https://secure.meetupstatic.com",
+                "highres_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
+                "id": 450131949,
+                "photo_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
+                "type": "event"
+            },
+            "shortname": "tech",
+            "sort_name": "Tech"
+        },
+        "name": "Data + Board Games",
+        "organizer": {
+            "bio": "",
+            "id": 58002042,
+            "name": "Mateusz Klimek",
+            "photo": {
+                "base_url": "https://secure.meetupstatic.com",
+                "highres_link": "https://secure.meetupstatic.com/photos/member/b/1/b/e/highres_223485502.jpeg",
+                "id": 223485502,
+                "photo_link": "https://secure.meetupstatic.com/photos/member/b/1/b/e/member_223485502.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/member/b/1/b/e/thumb_223485502.jpeg",
+                "type": "member"
+            }
+        },
+        "score": 1.0,
+        "state": "",
+        "status": "active",
+        "timezone": "Europe/Warsaw",
+        "untranslated_city": "Warsaw",
+        "urlname": "Data-Boardgames",
+        "visibility": "public",
+        "who": "Members"
+    },
+    {
+        "category": {
+            "id": 34,
+            "name": "Tech",
+            "shortname": "tech",
+            "sort_name": "Tech"
+        },
+        "city": "Warsaw",
+        "country": "PL",
+        "created": 1432988343000,
+        "description": "<p>This is a group for anyone interested in Machine Learning and Artificial Intelligence and their applications such as Big Data, predictive analytics, data science and robotics. All skill levels are welcome. We started this group because we want to meet other enthusiasts in the area. We're looking forward to exploring exciting new ideas with everybody!</p>",
+        "group_photo": {
+            "base_url": "https://secure.meetupstatic.com",
+            "highres_link": "https://secure.meetupstatic.com/photos/event/b/1/b/9/highres_439545497.jpeg",
+            "id": 439545497,
+            "photo_link": "https://secure.meetupstatic.com/photos/event/b/1/b/9/600_439545497.jpeg",
+            "thumb_link": "https://secure.meetupstatic.com/photos/event/b/1/b/9/thumb_439545497.jpeg",
+            "type": "event"
+        },
+        "id": 18636199,
+        "join_mode": "open",
+        "key_photo": {
+            "base_url": "https://secure.meetupstatic.com",
+            "highres_link": "https://secure.meetupstatic.com/photos/event/9/2/4/2/highres_438037442.jpeg",
+            "id": 438037442,
+            "photo_link": "https://secure.meetupstatic.com/photos/event/9/2/4/2/600_438037442.jpeg",
+            "thumb_link": "https://secure.meetupstatic.com/photos/event/9/2/4/2/thumb_438037442.jpeg",
+            "type": "event"
+        },
+        "lat": 52.26,
+        "link": "https://www.meetup.com/Machine-Learning-Warsaw/",
+        "localized_country_name": "Poland",
+        "localized_location": "Warsaw, Poland",
+        "lon": 21.02,
+        "members": 794,
+        "meta_category": {
+            "category_ids": [
+                34
+            ],
+            "id": 292,
+            "name": "Tech",
+            "photo": {
+                "base_url": "https://secure.meetupstatic.com",
+                "highres_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
+                "id": 450131949,
+                "photo_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
+                "type": "event"
+            },
+            "shortname": "tech",
+            "sort_name": "Tech"
+        },
+        "name": "Machine Learning Warsaw",
+        "organizer": {
+            "bio": "",
+            "id": 122631042,
+            "name": "Maciej Kowalski",
+            "photo": {
+                "base_url": "https://secure.meetupstatic.com",
+                "highres_link": "https://secure.meetupstatic.com/photos/member/4/b/d/e/highres_168319422.jpeg",
+                "id": 168319422,
+                "photo_link": "https://secure.meetupstatic.com/photos/member/4/b/d/e/member_168319422.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/member/4/b/d/e/thumb_168319422.jpeg",
+                "type": "member"
+            }
+        },
+        "score": 1.0,
+        "state": "",
+        "status": "active",
+        "timezone": "Europe/Warsaw",
+        "untranslated_city": "Warsaw",
+        "urlname": "Machine-Learning-Warsaw",
+        "visibility": "public",
+        "who": "Machine Learners"
+    },
+    {
+        "category": {
+            "id": 34,
+            "name": "Tech",
+            "shortname": "tech",
+            "sort_name": "Tech"
+        },
+        "city": "Warsaw",
+        "country": "PL",
+        "created": 1481555850000,
+        "description": "<p>We will discuss human and business perspective on Machine Learning and Artificial Intelligence. The exponential growth of data and pervasive processing power, along with the arrival of Internet of Things result in rapid adoption of various aspects of AI. The question remains how to use smart machines to positively transform our world. To make it a better world for education, work, business, and self fulfilment of humans. Let us discuss big ideas, showcase and evaluate innovative solutions, and share best practices in making the Smarter World!</p>",
+        "id": 21555551,
+        "join_mode": "open",
+        "lat": 52.26,
+        "link": "https://www.meetup.com/SmarterWorldWAW/",
+        "localized_country_name": "Poland",
+        "localized_location": "Warsaw, Poland",
+        "lon": 21.02,
+        "members": 119,
+        "meta_category": {
+            "category_ids": [
+                34
+            ],
+            "id": 292,
+            "name": "Tech",
+            "photo": {
+                "base_url": "https://secure.meetupstatic.com",
+                "highres_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
+                "id": 450131949,
+                "photo_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
+                "type": "event"
+            },
+            "shortname": "tech",
+            "sort_name": "Tech"
+        },
+        "name": "Smart(er) World Meetup",
+        "organizer": {
+            "bio": "",
+            "id": 193991705,
+            "name": "Borys Stokalski",
+            "photo": {
+                "base_url": "https://secure.meetupstatic.com",
+                "highres_link": "https://secure.meetupstatic.com/photos/member/6/f/0/a/highres_250468426.jpeg",
+                "id": 250468426,
+                "photo_link": "https://secure.meetupstatic.com/photos/member/6/f/0/a/member_250468426.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/member/6/f/0/a/thumb_250468426.jpeg",
+                "type": "member"
+            }
+        },
+        "score": 1.0,
+        "state": "",
+        "status": "active",
+        "timezone": "Europe/Warsaw",
+        "untranslated_city": "Warsaw",
+        "urlname": "SmarterWorldWAW",
+        "visibility": "public",
+        "who": "Members"
+    },
+    {
+        "category": {
+            "id": 34,
+            "name": "Tech",
+            "shortname": "tech",
+            "sort_name": "Tech"
+        },
+        "city": "Warsaw",
+        "country": "PL",
+        "created": 1530946896000,
+        "description": "<p>EuroOz Virtual Tech Talks: Blockchain + AI + Cybersecurity is a global virtual tech talks meetup, live streamed via Facebook.</p> \n<p>This is a virtual group for enthusiasts of Blockchain + AI + Cybersecurity and promoting startup business and investment links between Australia and Europe.</p> \n<p>Whether you are a startup, corporate, investor, policymaker, academic or student, the only prerequisites for joining are your passion for innovation and technology and strengthening the Australia and Europe alliance.</p> \n<p>If you would like to be a speaker at our next virtual event, email us at: eurooztechtalks@gmail.com</p> \n<p>Join us on Slack:<br><a href=\"http://euroozvirtualtechtalk.slack.com/\" class=\"linkified\">http://euroozvirtualtechtalk.slack.com/</a></p>",
+        "id": 29149285,
+        "join_mode": "open",
+        "key_photo": {
+            "base_url": "https://secure.meetupstatic.com",
+            "highres_link": "https://secure.meetupstatic.com/photos/event/d/c/5/9/highres_472676409.jpeg",
+            "id": 472676409,
+            "photo_link": "https://secure.meetupstatic.com/photos/event/d/c/5/9/600_472676409.jpeg",
+            "thumb_link": "https://secure.meetupstatic.com/photos/event/d/c/5/9/thumb_472676409.jpeg",
+            "type": "event"
+        },
+        "lat": 52.26,
+        "link": "https://www.meetup.com/EuroOz-Virtual-Tech-Talks-Blockchain-AI-Cybersecurity/",
+        "localized_country_name": "Poland",
+        "localized_location": "Warsaw, Poland",
+        "lon": 21.02,
+        "members": 155,
+        "meta_category": {
+            "category_ids": [
+                34
+            ],
+            "id": 292,
+            "name": "Tech",
+            "photo": {
+                "base_url": "https://secure.meetupstatic.com",
+                "highres_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
+                "id": 450131949,
+                "photo_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
+                "type": "event"
+            },
+            "shortname": "tech",
+            "sort_name": "Tech"
+        },
+        "name": "EuroOz Virtual Tech Talks: Blockchain + AI + Cybersecurity",
+        "organizer": {
+            "bio": "",
+            "id": 258327112,
+            "name": "Katrine Narkiewicz",
+            "photo": {
+                "base_url": "https://secure.meetupstatic.com",
+                "highres_link": "https://secure.meetupstatic.com/photos/member/7/5/f/a/highres_278670202.jpeg",
+                "id": 278670202,
+                "photo_link": "https://secure.meetupstatic.com/photos/member/7/5/f/a/member_278670202.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/member/7/5/f/a/thumb_278670202.jpeg",
+                "type": "member"
+            }
+        },
+        "score": 1.0,
+        "state": "",
+        "status": "active",
+        "timezone": "Europe/Warsaw",
+        "untranslated_city": "Warsaw",
+        "urlname": "EuroOz-Virtual-Tech-Talks-Blockchain-AI-Cybersecurity",
+        "visibility": "public",
+        "who": "Virtual Tech Talkers"
+    },
+    {
+        "category": {
+            "id": 34,
+            "name": "Tech",
+            "shortname": "tech",
+            "sort_name": "Tech"
+        },
+        "city": "Warsaw",
+        "country": "PL",
+        "created": 1470250334000,
+        "description": "<p>This meetup is focused on the Future of Data and the open community data projects governed by the Apache Software Foundation. Geared towards developers, data scientists and ALL Data enthusiasts who are building modern data applications. Our meetups cover all data -- data-in-motion and data-at-rest. Meetups provide an opportunity to listen, share and work hands on with other technologists in the open source and open community Apache tools.</p>",
+        "id": 20276026,
+        "join_mode": "open",
+        "key_photo": {
+            "base_url": "https://secure.meetupstatic.com",
+            "highres_link": "https://secure.meetupstatic.com/photos/event/a/0/d/0/highres_467021168.jpeg",
+            "id": 467021168,
+            "photo_link": "https://secure.meetupstatic.com/photos/event/a/0/d/0/600_467021168.jpeg",
+            "thumb_link": "https://secure.meetupstatic.com/photos/event/a/0/d/0/thumb_467021168.jpeg",
+            "type": "event"
+        },
+        "lat": 52.26,
+        "link": "https://www.meetup.com/futureofdata-warsaw/",
+        "localized_country_name": "Poland",
+        "localized_location": "Warsaw, Poland",
+        "lon": 21.02,
+        "members": 573,
+        "meta_category": {
+            "category_ids": [
+                34
+            ],
+            "id": 292,
+            "name": "Tech",
+            "photo": {
+                "base_url": "https://secure.meetupstatic.com",
+                "highres_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
+                "id": 450131949,
+                "photo_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
+                "type": "event"
+            },
+            "shortname": "tech",
+            "sort_name": "Tech"
+        },
+        "name": "Future of Data: Warsaw",
+        "organizer": {
+            "bio": "Community Team at Hortonworks.",
+            "id": 217906218,
+            "name": "Future of Data 2",
+            "photo": {
+                "base_url": "https://secure.meetupstatic.com",
+                "highres_link": "https://secure.meetupstatic.com/photos/member/3/6/2/c/highres_278353868.jpeg",
+                "id": 278353868,
+                "photo_link": "https://secure.meetupstatic.com/photos/member/3/6/2/c/member_278353868.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/member/3/6/2/c/thumb_278353868.jpeg",
+                "type": "member"
+            }
+        },
+        "score": 1.0,
+        "state": "",
+        "status": "active",
+        "timezone": "Europe/Warsaw",
+        "untranslated_city": "Warsaw",
+        "urlname": "futureofdata-warsaw",
+        "visibility": "public",
+        "who": "Members"
+    },
+    {
+        "category": {
+            "id": 34,
+            "name": "Tech",
+            "shortname": "tech",
+            "sort_name": "Tech"
+        },
+        "city": "Warsaw",
+        "country": "PL",
+        "created": 1518288136000,
+        "description": "<p>[wydarzenie bezpłatne, wymagana rejestracja, szczegóły poniżej]</p> \n<p>Już w czwartek, 15 lutego, odbędzie się I edycja wydarzenia z cyklu technicznych meetupów związanych z szeroko pojętym obszarem przetwarzania i reprezentacji danych - Accenture Data Meetup</p> \n<p># DLA WSZYSTKICH ZWIĄZANYCH / ZAINTERESOWANYCH Z SZEROKO POJĘTYM OBSZAREM DANYCH<br>Jeśli:<br>→ interesujesz się obszarem danych (hurtownie danych, bazy danych, BI, szeroko pojęte big data, machine learning, analityka w obszarze danych, …)<br>→ pracujesz w obszarze związanym z przetwarzaniem dużych ilości danych<br>→ chcesz poznać najnowsze rynkowe trendy i doświadczenia innych <br>Przyjdź po pracy, nasze spotkania powstały z myślą o wzajemnym przekazywaniu doświadczeń w formie przyswajalnej dla każdego :)</p> \n<p># ROZWÓJ MERYTORYCZNY<br>- Poszerz swoją wiedzę: trendy, praktyczne case studies, dobre praktyki, tips &amp; tricks, deep dive<br>- Nie nudź się: krótkie i konkretne wystąpienia na poziomie średnim i zaawansowanym</p> \n<p># NETWORKING<br>- Poznaj swoje środowisko<br>- Dyskutuj, omów swoje wyzwania / problemy techniczne<br>- Napij się wspólnie piwa lub innego alkoholu :)</p> \n<p># DODATKOWO<br>⚡ Skosztuj pysznego jedzenia i napij się z nami: zadbaliśmy aby trafić w gusta każdego<br>⚡ Wygraj nagrody: nagrodę niespodziankę, vouchery mytaxi i UberEats<br>⚡ Dojedź wygodnie: lokalizacja w centrum Warszawy, dodatkowo zapewniamy 50% zniżki na dojazd mytaxi na spotkanie i powrót do pracy/domu po zakończeniu meetup'u</p> \n<p># AGENDA<br>18:30-18:45 - Otwarcie<br>18:45 - 19:15 - Trendy W BI &amp; Analytics<br>19:30 - 20:00 - Współczesna architektura hurtowni danych<br>20:15 - 20:45 - ETL vs ELT w big data i projektach analytics<br>20:45 - 21:30 - Networking _________________________________________________<br># GDZIE?<br>Miejsce spotkania: spotkamy się w centrum Warszawy, na ostatnim piętrze budynku przy Mysiej 3</p> \n<p># DOJAZD TAXI<br>mytaxi: dla każdego kursu kończącego na ulicy Mysiej - 50% zniżki :)</p> \n<p>→ Meetup jest bezpłatny (włączając w to jedzenie i napoje). Zarejestruj się, aby wziąć w nim udział na: www.DataMeetup.pl/Warszawa/</p>",
+        "id": 27454109,
+        "join_mode": "open",
+        "key_photo": {
+            "base_url": "https://secure.meetupstatic.com",
+            "highres_link": "https://secure.meetupstatic.com/photos/event/e/6/d/4/highres_470339092.jpeg",
+            "id": 470339092,
+            "photo_link": "https://secure.meetupstatic.com/photos/event/e/6/d/4/600_470339092.jpeg",
+            "thumb_link": "https://secure.meetupstatic.com/photos/event/e/6/d/4/thumb_470339092.jpeg",
+            "type": "event"
+        },
+        "lat": 52.26,
+        "link": "https://www.meetup.com/meetup-group-GJrQIpUu/",
+        "localized_country_name": "Poland",
+        "localized_location": "Warsaw, Poland",
+        "lon": 21.02,
+        "members": 163,
+        "meta_category": {
+            "category_ids": [
+                34
+            ],
+            "id": 292,
+            "name": "Tech",
+            "photo": {
+                "base_url": "https://secure.meetupstatic.com",
+                "highres_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
+                "id": 450131949,
+                "photo_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
+                "type": "event"
+            },
+            "shortname": "tech",
+            "sort_name": "Tech"
+        },
+        "name": "Accenture Data Meetup",
+        "organizer": {
+            "bio": "",
+            "id": 172421172,
+            "name": "Michał Bijata",
+            "photo": {
+                "base_url": "https://secure.meetupstatic.com",
+                "highres_link": "https://secure.meetupstatic.com/photos/member/b/d/1/8/highres_271908408.jpeg",
+                "id": 271908408,
+                "photo_link": "https://secure.meetupstatic.com/photos/member/b/d/1/8/member_271908408.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/member/b/d/1/8/thumb_271908408.jpeg",
+                "type": "member"
+            }
+        },
+        "score": 1.0,
+        "state": "",
+        "status": "active",
+        "timezone": "Europe/Warsaw",
+        "untranslated_city": "Warsaw",
+        "urlname": "meetup-group-GJrQIpUu",
+        "visibility": "public",
+        "who": "Members"
+    },
+    {
+        "category": {
+            "id": 34,
+            "name": "Tech",
+            "shortname": "tech",
+            "sort_name": "Tech"
+        },
+        "city": "Warsaw",
+        "country": "PL",
+        "created": 1507588390000,
+        "description": "<p>Welcome to the Poland Talend User Group!&nbsp;</p>\n<p>We look forward to getting productive discussions and collaborations going.&nbsp;</p>\n<p>To keep in touch and to get meetup announcements via Twitter, follow&nbsp;<a href=\"https://twitter.com/TalendCommunity\">@TalendCommunity</a>. And feel free to spread the word about our group, using hashtag #PolandTalendUG.</p>",
+        "id": 26212014,
+        "join_mode": "open",
+        "key_photo": {
+            "base_url": "https://secure.meetupstatic.com",
+            "highres_link": "https://secure.meetupstatic.com/photos/event/4/2/5/c/highres_468676988.jpeg",
+            "id": 468676988,
+            "photo_link": "https://secure.meetupstatic.com/photos/event/4/2/5/c/600_468676988.jpeg",
+            "thumb_link": "https://secure.meetupstatic.com/photos/event/4/2/5/c/thumb_468676988.jpeg",
+            "type": "event"
+        },
+        "lat": 52.26,
+        "link": "https://www.meetup.com/Poland-Talend-User-Group/",
+        "localized_country_name": "Poland",
+        "localized_location": "Warsaw, Poland",
+        "lon": 21.02,
+        "members": 87,
+        "meta_category": {
+            "category_ids": [
+                34
+            ],
+            "id": 292,
+            "name": "Tech",
+            "photo": {
+                "base_url": "https://secure.meetupstatic.com",
+                "highres_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
+                "id": 450131949,
+                "photo_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
+                "type": "event"
+            },
+            "shortname": "tech",
+            "sort_name": "Tech"
+        },
+        "name": "Poland Talend User Group",
+        "organizer": {
+            "bio": "Users are the foundation of our Community. Each day I strive to find new and innovative ways to create an environment of engagement to discussion Talend tips, tricks, best practices, and job designs. Hope to meet you at the next Meetup!",
+            "id": 222484279,
+            "name": "Drew Kreiger",
+            "photo": {
+                "base_url": "https://secure.meetupstatic.com",
+                "highres_link": "https://secure.meetupstatic.com/photos/member/a/5/b/5/highres_280242421.jpeg",
+                "id": 280242421,
+                "photo_link": "https://secure.meetupstatic.com/photos/member/a/5/b/5/member_280242421.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/member/a/5/b/5/thumb_280242421.jpeg",
+                "type": "member"
+            }
+        },
+        "pro_network": {
+            "name": "About the Talend User Groups",
+            "network_url": "https://www.meetup.com/pro/talend-user-group/",
+            "number_of_groups": 41,
+            "urlname": "talend-user-group"
+        },
+        "score": 1.0,
+        "state": "",
+        "status": "active",
+        "timezone": "Europe/Warsaw",
+        "untranslated_city": "Warsaw",
+        "urlname": "Poland-Talend-User-Group",
+        "visibility": "public",
+        "who": "Members"
+    },
+    {
+        "category": {
+            "id": 34,
+            "name": "Tech",
+            "shortname": "tech",
+            "sort_name": "Tech"
+        },
+        "city": "Warsaw",
+        "country": "PL",
+        "created": 1449567787000,
+        "description": "<p>Calling <a href=\"http://spark.apache.org/\">Apache Spark</a> users in <b>Warsaw, Poland</b>!</p>\n<p><span>Let's get together and share our experience in Apache Spark to use it in a way that impresses us as well as project stakeholders. This is a group for anyone interested in Apache Spark.</span><br></p>\n<p><span>If you're considering giving a talk at the meetup, please read&nbsp;<a href=\"http://www.meetup.com/Warsaw-Spark/pages/Giving_a_talk_at_Warsaw_Spark_meetup/\">Giving a talk at Warsaw Spark meetup</a>.</span></p>\n<p>Thanks!</p>",
+        "group_photo": {
+            "base_url": "https://secure.meetupstatic.com",
+            "highres_link": "https://secure.meetupstatic.com/photos/event/5/4/1/1/highres_445041521.jpeg",
+            "id": 445041521,
+            "photo_link": "https://secure.meetupstatic.com/photos/event/5/4/1/1/600_445041521.jpeg",
+            "thumb_link": "https://secure.meetupstatic.com/photos/event/5/4/1/1/thumb_445041521.jpeg",
+            "type": "event"
+        },
+        "id": 19193326,
+        "join_mode": "open",
+        "key_photo": {
+            "base_url": "https://secure.meetupstatic.com",
+            "highres_link": "https://secure.meetupstatic.com/photos/event/4/f/5/6/highres_446060310.jpeg",
+            "id": 446060310,
+            "photo_link": "https://secure.meetupstatic.com/photos/event/4/f/5/6/600_446060310.jpeg",
+            "thumb_link": "https://secure.meetupstatic.com/photos/event/4/f/5/6/thumb_446060310.jpeg",
+            "type": "event"
+        },
+        "lat": 52.26,
+        "link": "https://www.meetup.com/Warsaw-Spark/",
+        "localized_country_name": "Poland",
+        "localized_location": "Warsaw, Poland",
+        "lon": 21.02,
+        "members": 310,
+        "meta_category": {
+            "category_ids": [
+                34
+            ],
+            "id": 292,
+            "name": "Tech",
+            "photo": {
+                "base_url": "https://secure.meetupstatic.com",
+                "highres_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
+                "id": 450131949,
+                "photo_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
+                "type": "event"
+            },
+            "shortname": "tech",
+            "sort_name": "Tech"
+        },
+        "name": "Warsaw Apache Spark",
+        "organizer": {
+            "bio": "An independent consultant, software developer and technical instructor specializing in Apache Spark, Apache Kafka and Kafka Streams (with Scala). Find me at https://about.me/JacekLaskowski.",
+            "id": 53567442,
+            "name": "Jacek Laskowski",
+            "photo": {
+                "base_url": "https://secure.meetupstatic.com",
+                "highres_link": "https://secure.meetupstatic.com/photos/member/b/9/8/highres_241922968.jpeg",
+                "id": 241922968,
+                "photo_link": "https://secure.meetupstatic.com/photos/member/b/9/8/member_241922968.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/member/b/9/8/thumb_241922968.jpeg",
+                "type": "member"
+            }
+        },
+        "score": 1.0,
+        "state": "",
+        "status": "active",
+        "timezone": "Europe/Warsaw",
+        "untranslated_city": "Warsaw",
+        "urlname": "Warsaw-Spark",
+        "visibility": "public",
+        "who": "Friends of Apache Spark"
+    },
+    {
+        "category": {
+            "id": 34,
+            "name": "Tech",
+            "shortname": "tech",
+            "sort_name": "Tech"
+        },
+        "city": "Warsaw",
+        "country": "PL",
+        "created": 1426784130000,
+        "description": "<p>At our meetups we like to collaborate ideas, provide an environment for education and discovery and make data fun all whilst increasing knowledge about kdb+ and its programming language, q.</p>\n<p>Interested in topics such as Industry 4.0, IIoT, IoT, Manufacturing and Consumer Insights? If so then this meetup is for you! Everybody from total newbies to q \"Gods\" are welcome!</p>\n<p>You bring the laptop; we’ll bring the pizza!</p>\n<p>Come along for an interactive evening of coding with an experienced Kx engineer.</p>\n<p>We look forward to seeing you there!</p>",
+        "group_photo": {
+            "base_url": "https://secure.meetupstatic.com",
+            "highres_link": "https://secure.meetupstatic.com/photos/event/9/7/3/5/highres_467918709.jpeg",
+            "id": 467918709,
+            "photo_link": "https://secure.meetupstatic.com/photos/event/9/7/3/5/600_467918709.jpeg",
+            "thumb_link": "https://secure.meetupstatic.com/photos/event/9/7/3/5/thumb_467918709.jpeg",
+            "type": "event"
+        },
+        "id": 18511441,
+        "join_mode": "open",
+        "key_photo": {
+            "base_url": "https://secure.meetupstatic.com",
+            "highres_link": "https://secure.meetupstatic.com/photos/event/9/7/3/5/highres_467918709.jpeg",
+            "id": 467918709,
+            "photo_link": "https://secure.meetupstatic.com/photos/event/9/7/3/5/600_467918709.jpeg",
+            "thumb_link": "https://secure.meetupstatic.com/photos/event/9/7/3/5/thumb_467918709.jpeg",
+            "type": "event"
+        },
+        "lat": 52.26,
+        "link": "https://www.meetup.com/kx-warsaw/",
+        "localized_country_name": "Poland",
+        "localized_location": "Warsaw, Poland",
+        "lon": 21.02,
+        "members": 83,
+        "meta_category": {
+            "category_ids": [
+                34
+            ],
+            "id": 292,
+            "name": "Tech",
+            "photo": {
+                "base_url": "https://secure.meetupstatic.com",
+                "highres_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
+                "id": 450131949,
+                "photo_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
+                "type": "event"
+            },
+            "shortname": "tech",
+            "sort_name": "Tech"
+        },
+        "name": "Analytics At Speed Warsaw",
+        "organizer": {
+            "bio": "For those interested in the kdb+ database and its programming language, q. To provide an environment for people to meet, chat and present various topics on kdb+ and its industry applications. Everybody from total newbies to q \"Gods\" are welcome!",
+            "id": 196296186,
+            "name": "Kx Community",
+            "photo": {
+                "base_url": "https://secure.meetupstatic.com",
+                "highres_link": "https://secure.meetupstatic.com/photos/member/2/1/8/9/highres_251828585.jpeg",
+                "id": 251828585,
+                "photo_link": "https://secure.meetupstatic.com/photos/member/2/1/8/9/member_251828585.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/member/2/1/8/9/thumb_251828585.jpeg",
+                "type": "member"
+            }
+        },
+        "score": 1.0,
+        "state": "",
+        "status": "active",
+        "timezone": "Europe/Warsaw",
+        "untranslated_city": "Warsaw",
+        "urlname": "kx-warsaw",
+        "visibility": "public",
+        "who": "q-ists"
+    },
+    {
+        "category": {
+            "id": 34,
+            "name": "Tech",
+            "shortname": "tech",
+            "sort_name": "Tech"
+        },
+        "city": "Warsaw",
+        "country": "PL",
+        "created": 1412580630000,
+        "description": "<p>Spotkania Entuzjastów R mają na celu integrację środowiska użytkowników i entuzjastów analizy danych z użyciem programu R. Spotkania organizowane są co miesiąc w czwartki w godzinach popołudniowych. Każde spotkanie składa się z dwóch półgodzinnych prelekcji rozdzielonych półgodzinną przerwą na spokojną dyskusję w kuluarach.&nbsp;</p>\n<p>Udział w spotkaniach jest bezpłatny, wymagana jest jednak wcześniejsza rejestracja.&nbsp;</p>\n<p>Zapraszamy nowicjuszy i weteranów, każdy znajdzie coś dla siebie!</p>\n<p>YouTube channel:&nbsp;<a href=\"https://www.youtube.com/channel/UCq1v6SmgtmJeWDUtIKr0nVw\">https://www.youtube.com/channel/UCq1v6SmgtmJeWDUtIKr0nVw</a></p>\n<p>Zgloś prezentację!</p>\n<p>Współdzielimy konto na meetupie z R-Ladies Warsaw inicjatywą promującą kobiety programujące w R.</p>\n<p>Enthusiasts R Meetup aims at integrating community of users and data analysis enthusiasts using R. Meetings are held every month on Thursdays. Each meeting consists of two half-hour lectures separated by a half-hour break for a quiet discussion on the sidelines.&nbsp;</p>\n<p>Participation in meetings is free, but requires pre-registration.&nbsp;</p>\n<p>We invite novices and veterans, everyone will find something for everyone! <br> </p>\n<p>Meetup account is shared with R-Ladies Warsaw promoting women in rstats.</p>\n<p>YouTube channel:&nbsp;https://www.youtube.com/channel/UCq1v6SmgtmJeWDUtIKr0nVw<br></p>\n<p>Submit talk!</p>\n<br>",
+        "group_photo": {
+            "base_url": "https://secure.meetupstatic.com",
+            "highres_link": "https://secure.meetupstatic.com/photos/event/7/5/f/e/highres_458970206.jpeg",
+            "id": 458970206,
+            "photo_link": "https://secure.meetupstatic.com/photos/event/7/5/f/e/600_458970206.jpeg",
+            "thumb_link": "https://secure.meetupstatic.com/photos/event/7/5/f/e/thumb_458970206.jpeg",
+            "type": "event"
+        },
+        "id": 17428672,
+        "join_mode": "open",
+        "key_photo": {
+            "base_url": "https://secure.meetupstatic.com",
+            "highres_link": "https://secure.meetupstatic.com/photos/event/3/2/5/9/highres_479772889.jpeg",
+            "id": 479772889,
+            "photo_link": "https://secure.meetupstatic.com/photos/event/3/2/5/9/600_479772889.jpeg",
+            "thumb_link": "https://secure.meetupstatic.com/photos/event/3/2/5/9/thumb_479772889.jpeg",
+            "type": "event"
+        },
+        "lat": 52.26,
+        "link": "https://www.meetup.com/Spotkania-Entuzjastow-R-Warsaw-R-Users-Group-Meetup/",
+        "localized_country_name": "Poland",
+        "localized_location": "Warsaw, Poland",
+        "lon": 21.02,
+        "members": 2059,
+        "meta_category": {
+            "category_ids": [
+                34
+            ],
+            "id": 292,
+            "name": "Tech",
+            "photo": {
+                "base_url": "https://secure.meetupstatic.com",
+                "highres_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
+                "id": 450131949,
+                "photo_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
+                "type": "event"
+            },
+            "shortname": "tech",
+            "sort_name": "Tech"
+        },
+        "name": "Spotkania Entuzjastów R-Warsaw RUG Meetup & R-Ladies Warsaw",
+        "organizer": {
+            "bio": "",
+            "id": 46056892,
+            "name": "Przemyslaw Biecek",
+            "photo": {
+                "base_url": "https://secure.meetupstatic.com",
+                "highres_link": "https://secure.meetupstatic.com/photos/member/b/f/6/2/highres_260268994.jpeg",
+                "id": 260268994,
+                "photo_link": "https://secure.meetupstatic.com/photos/member/b/f/6/2/member_260268994.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/member/b/f/6/2/thumb_260268994.jpeg",
+                "type": "member"
+            }
+        },
+        "pro_network": {
+            "name": "R User Groups",
+            "network_url": "https://www.meetup.com/pro/r-user-groups/",
+            "number_of_groups": 71,
+            "urlname": "r-user-groups"
+        },
+        "score": 1.0,
+        "state": "",
+        "status": "active",
+        "timezone": "Europe/Warsaw",
+        "untranslated_city": "Warsaw",
+        "urlname": "Spotkania-Entuzjastow-R-Warsaw-R-Users-Group-Meetup",
+        "visibility": "public",
+        "who": "Entuzjaści R"
+    }
+]
