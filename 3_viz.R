@@ -42,10 +42,12 @@ d <- d %>%
 
 (edu_ds <- edu_ds %>% mutate(area = fct_recode(.f = city,
                                                Trójmiasto = "Gdańsk",
-                                               `a. katowicka` = "Gliwice")) %>% 
-    mutate(area = fct_other(f = area, drop = c("Białystok", "Lublin", "Łódź", "Rzeszów", "Toruń"),
-                            other_level = "Inne")) %>% 
-    mutate(area = as.character(area)) %>% group_by(area) %>% summarise(n_edu = sum(n_edu)))
+                                               `a. katowicka` = "Gliwice"),
+                             area = fct_other(f = area, drop = c("Białystok", "Lublin", 
+                                                                 "Łódź", "Rzeszów", "Toruń"),
+                            other_level = "Inne"),
+                            area = as.character(area)) %>%
+    group_by(area) %>% summarise(n_edu = sum(n_edu)))
 
 (groups_firms_edu <- cities_groups %>% group_by(area) %>% summarise(groups_n = sum(groups_n),
                                                                    members_sum = sum(members_sum)))
@@ -62,9 +64,9 @@ ai_firms$area <- as.character(ai_firms$area)
     gather(contains("pct"), key = type, value = pct))
 groups_firms_edu_long_pct$area <- factor(groups_firms_edu_long_pct$area,levels = groups_firms_edu_long_pct$area[c(1,3:7,2)])
 # plot
-ggplot(data = groups_firms_edu_long %>% filter(type != "members_sum")) + 
-  geom_col(position = "dodge",
-           aes(x = area, y = n, group = type, fill = type))
+# ggplot(data = groups_firms_edu_long %>% filter(type != "members_sum")) + 
+#   geom_col(position = "dodge",
+#            aes(x = area, y = n, group = type, fill = type))
 
 groups_firms_edu <- ggplot(data = groups_firms_edu_long_pct) + 
   geom_col(position = "dodge", 
@@ -104,19 +106,21 @@ shp <- sf::st_read(dsn = ".",layer = "gadm36_POL_1")
                                                      members_per_groups = members_sum / groups_n))
 
 # map
-map <- ggplot(data = lon_lat_cities) + geom_sf(data = shp, fill = "white") + 
+map <- ggplot(data = lon_lat_cities) + geom_sf(data = shp, fill = "white") +
   geom_point(aes(x = lon, y = lat, size = members_k, colour = city)) +
-  coord_sf(datum = NA) + 
-  scale_size_continuous(range = c(5, 15), name = "Suma członków\ngrup [tys. osób]") + 
+  coord_sf(datum = NA,
+           xlim = c(14.6, 24), 
+           ylim = c(49.35, 54.7)) + 
+  scale_size_continuous(range = c(2, 12), name = "Suma członków\ngrup [tys. osób]") + 
   scale_colour_brewer(palette = "Set3") +
   theme_void(base_family = "serif", base_size = 10) +
   guides(colour = "none") +
-  theme(legend.position = "bottom", legend.direction = "horizontal", 
-        legend.box.just = "left", legend.spacing.x = unit(0, 'mm')) + 
+  theme(legend.position = "bottom", 
+        legend.direction = "horizontal", 
+        legend.spacing.x = unit(0, 'mm')) + 
   labs(title = "5A",
        subtitle = "Najmniejsza jest społeczność meetupów data science\nw Rzeszowie: 135 osób\nnajwiększa w Warszawie: 23 306",
        caption = "Dane pobrane w dniu 04.06.2019 r. przez API meetup.com")
-
 # bar
 bar <- ggplot(data = lon_lat_cities) +
   geom_col(aes(x = fct_rev(city), y = members_per_groups, fill = city),

@@ -43,6 +43,16 @@ city_pop %>%
   scale_x_log10()
 
 summary(lm(members_sum~ogolem_num, city_pop))
-cor(city_pop$members_sum, city_pop$groups_n)
-
+# cor(city_pop$members_sum, city_pop$groups_n, method = "pearson")
+# cor(city_pop$members_sum, city_pop$groups_n, method = "kendall")
+cor(city_pop$members_sum, city_pop$groups_n, method = "spearman")
 # check https://stackoverflow.com/questions/7549694/adding-regression-line-equation-and-r2-on-graph
+
+# rsvp vs members
+d %>% filter(!is.na(next_event.id)) %>% dim()
+d %>% filter(!is.na(next_event.id)) %>% 
+  mutate(rspv_by_members = next_event.yes_rsvp_count / members) %>% 
+  select(rspv_by_members) %>% summary()
+d %>% filter(!is.na(next_event.id)) %>% 
+  mutate(rspv_by_members = next_event.yes_rsvp_count / members) %>% 
+  select(name, members, next_event.yes_rsvp_count, rspv_by_members) %>% arrange(members)
