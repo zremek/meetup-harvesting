@@ -95,7 +95,7 @@ groups_firms_edu
 
 shp <- sf::st_read(dsn = ".",layer = "gadm36_POL_1")
 
-d %>% select(city, lon, lat) %>% View()
+# d %>% select(city, lon, lat) %>% View()
 (lon_lat_cities <- d %>% group_by(city) %>% summarise(groups_n = n(),
                                                      members_sum = sum(members),
                                                      lon = median(lon),
@@ -158,7 +158,7 @@ ggplot(aes(x = fct_rev(short_name), y = members, colour = city)) +
   theme_minimal(base_family = "serif", base_size = 10) +
   labs(title = "Ponad połowa grup ma mniej niż 300 członków\ndwie grupy warszawskie są dziesięciokrotnie większe",
        caption = "Dane pobrane w dniu 04.06.2019 r. przez API meetup.com",
-       x = "Skrócona nazwa grupy",
+       x = "Skrócona nazwa grupy [do czterech pierwszych słów]",
        y = "Ilość członków grupy [szt. osób, skala log10]") +
   annotate("text", label = "Mediana = 296,5", x = 58, y = 900, colour = "gray", family = "serif") +
   coord_flip() 
