@@ -75,7 +75,7 @@ groups_firms_edu <- ggplot(data = groups_firms_edu_long_pct) +
                y = pct, group = type, fill = type)) +
   labs(title = "Świat społeczny data science w Polsce koncentruje się w Warszawie",
        subtitle = "oraz ośrodkach miejskich powyżej 500 tys. mieszkańców",
-       caption = "Dane pobrane w dniu 04.06.2019 r. przez API meetup.com i ze źródeł wymienionych w części 5.1.",
+       caption = "Dane pobrane w dniu 04.06.2019 r. przez API meetup.com\noraz ze źródeł wymienionych w części 5.1.1.",
        x = "Ośrodek miejski",
        y = "Frakcja [każdy Wymiar = 1]") + 
   scale_fill_brewer(palette = "Set3", name = "Wymiar:",
