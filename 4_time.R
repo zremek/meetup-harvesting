@@ -80,11 +80,21 @@ next_event <- d %>%
        y = "Data") +
   coord_flip()
 
-d %>% group_by(created_year) %>% 
-  summarise(n = n(),
-            count_next_event = sum(!is.na(next_event_date)),
-            prop_next_event = count_next_event / n)
+# d %>% group_by(created_year) %>% 
+#   summarise(n = n(),
+#             count_next_event = sum(!is.na(next_event_date)),
+#             prop_next_event = count_next_event / n)
+# 
+# png("next_event.png", width = 160, height = 220, units = "mm", res = 300)
+# plot(next_event) # Rys. 20. in chapter 5.1.4.
+# dev.off()
 
-png("next_event.png", width = 160, height = 220, units = "mm", res = 300)
-plot(next_event) # Rys. 20. in chapter 5.1.4.
-dev.off()
+d %>% 
+  ggplot(aes(x = fct_rev(city), y = created_date, fill = city)) +
+  geom_boxplot() +
+  scale_fill_brewer(palette = "Set3") +
+  scale_y_date(date_breaks = "6 months", date_labels = "%Y-%m",
+               date_minor_breaks = "6 months") +
+  theme_minimal(base_family = "serif", base_size = 10) +
+  theme(axis.text.x = element_text(angle = 90)) +
+  coord_flip()
