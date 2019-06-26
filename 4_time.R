@@ -1,4 +1,6 @@
+library(tidyverse)
 library(lubridate)
+library(ggrepel)
 
 # options(scipen = 999) # turn off scientific notation
 
@@ -89,12 +91,129 @@ next_event <- d %>%
 # plot(next_event) # Rys. 20. in chapter 5.1.4.
 # dev.off()
 
-d %>% 
-  ggplot(aes(x = fct_rev(city), y = created_date, fill = city)) +
+box_created <- d %>% 
+  ggplot(aes(x = fct_rev(reorder(city, created_date, min)), y = created_date)) +
   geom_boxplot() +
-  scale_fill_brewer(palette = "Set3") +
+  geom_point(aes(colour = city), size = 4, alpha = 1/2) +
+  # scale_fill_brewer(palette = "Set3") +
+  scale_color_brewer(palette = "Set3", name = "") +
   scale_y_date(date_breaks = "6 months", date_labels = "%Y-%m",
                date_minor_breaks = "6 months") +
   theme_minimal(base_family = "serif", base_size = 10) +
   theme(axis.text.x = element_text(angle = 90)) +
+  labs(
+    title = "21A",
+    subtitle = "Miasta różnią się czasem rozpoczęcia działalności grup\ni powstawaniem nowych grup w czasie",
+       x = "",
+       y = "Data założenia grupy") +
   coord_flip()
+
+kruskal.test(created / 1000 ~ city, d %>% filter(city != "Gdynia" &
+                                                   city != "Białystok" &
+                                                   city != "Rzeszów" &
+                                                   city != "Toruń"))
+
+# d %>% group_by(city) %>% 
+#   summarise(dif = max(created_date) - min(created_date),
+#             n_gr = n(),
+#             gr_per_dif = n_gr / dif,
+#             dif_per_gr = dif / n_gr,
+#             min = min(created_date)) %>%
+#   arrange(dif_per_gr) %>% 
+#   filter(dif_per_gr != 0) %>% 
+#   ggplot(aes(x = min, y = dif_per_gr, label = city)) +
+#   geom_smooth(method = "lm", se = FALSE,
+#               colour = "gray") +
+#   geom_point(size = 5) +
+#   geom_text(nudge_y = 15, family = "serif") +
+#   scale_x_date(date_breaks = "6 months", date_labels = "%Y-%m",
+#                date_minor_breaks = "6 months") +
+#   scale_y_continuous(limits = c(0, 300)) +
+#   theme_minimal(base_family = "serif", base_size = 10) +
+#   theme(axis.text.x = element_text(angle = 90)) +
+#   labs(
+#     title = "21B",
+#     subtitle = "",
+#     caption = "Dane pobrane w dniu 04.06.2019 r. przez API meetup.com",
+#     x = "Data założenia pierwszej grupy w mieście",
+#     y = "")
+
+dif_n_gr <- d %>% group_by(city) %>% 
+  summarise(dif = max(created_date) - min(created_date),
+            n_gr = n(),
+            gr_per_dif = n_gr / dif,
+            dif_per_gr = dif / n_gr,
+            min = min(created_date)) %>%
+  arrange(dif_per_gr) %>% 
+  filter(dif_per_gr != 0) %>% 
+  ggplot(aes(x = dif, y = n_gr, label = city)) +
+  geom_smooth(method = "lm", se = FALSE,
+              colour = "gray") +
+  geom_point(size = 2) +
+  ggrepel::geom_text_repel(aes(label = city), family = "serif",
+                           nudge_y = -1) +
+  # geom_text(nudge_y = -1, family = "serif") +
+  # scale_x_date(date_breaks = "6 months", date_labels = "%Y-%m",
+  #              date_minor_breaks = "6 months") +
+  scale_y_continuous(limits = c(0, 25)) +
+  scale_x_reverse(limits = c(2500, 0)) +
+  theme_minimal(base_family = "serif", base_size = 10) +
+  labs(
+    title = "21B",
+    subtitle = "Ilość grup w mieście rośnie wraz z czasem od założenia pierwszej do ostatniej grupy
+widoczna jest niska aktywność Łodzi i wysoka aktywność Warszawy
+    
+Uwaga: usunięto miasta z tylko jedną grupą",
+    caption = "Dane pobrane w dniu 04.06.2019 r. przez API meetup.com",
+    x = "Czas od założenia pierwszej do ostatniej grupy w mieście [ilość dni]",
+    y = "Ilość grup w mieście [szt.]")
+
+box_dif <- plot_grid(box_created, dif_n_gr, nrow =  2, rel_heights = c(1.7, 1))
+
+# png("box_dif.png", width = 160, height = 180, units = "mm", res = 300)
+# plot(box_dif) # Rys. 5. in chapter 5.1.
+# dev.off()
+
+names_time <- d %>% 
+  mutate(name_AI = grepl("AI|Sztuczna|Artificial", name),
+         name_ML = grepl("ml|ML|Machine", name),
+         name_DS = grepl("Data Science", name, ignore.case = TRUE),
+         name_BD = grepl("Big Data", name, ignore.case = TRUE),
+         name_data = grepl("data", name, ignore.case = TRUE)) %>% 
+  select(created_year, name, contains("name_")) %>% 
+  group_by(created_year) %>% 
+  summarise(n = n(),
+            sum_AI = sum(name_AI),
+            sum_ML = sum(name_ML),
+            sum_DS = sum(name_DS),
+            sum_BD = sum(name_BD),
+            sum_data = sum(name_data),
+            sum_other = 
+              n -
+              (sum_AI +
+                 sum_ML +
+                 sum_DS +
+                 sum_BD)) %>%
+  gather(-created_year, key = "name_type", value = "count") %>% 
+  filter(name_type != "n" & name_type != "sum_data") %>% 
+  ggplot() +
+  geom_col(aes(x = created_year, y = count, fill = name_type),
+           position = "stack", colour = "black") +
+  theme_minimal(base_size = 10, base_family = "serif") +
+  scale_fill_brewer(palette = "Set3", 
+                    name = "Nazwa grupy zawiera słowa:",
+                    labels = c("sztuczna inteligencja",
+                               "big data",
+                               "data science",
+                               "uczenie maszynowe",
+                               "inne")) +
+  scale_x_continuous(breaks = 2012:2019) +
+  labs(title = 'Termin "sztuczna inteligencja" pojawia się w nazwach grup od 2017 r.
+termin "big data" jest najmniej popularny',
+      caption = "Dane pobrane w dniu 04.06.2019 r. przez API meetup.com",
+      x = "Rok powstania grupy",
+      y = "Ilość grup [szt.]")
+
+# png("names_time.png", width = 160, height = 80, units = "mm", res = 300)
+# plot(names_time) # Rys. 5. in chapter 5.1.
+# dev.off()

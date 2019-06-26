@@ -1,6 +1,7 @@
 library(moments)
 library(tidyverse)
 library(stringr)
+library(lubridate)
 
 # pro networks
 
@@ -56,3 +57,28 @@ d %>% filter(!is.na(next_event.id)) %>%
 d %>% filter(!is.na(next_event.id)) %>% 
   mutate(rspv_by_members = next_event.yes_rsvp_count / members) %>% 
   select(name, members, next_event.yes_rsvp_count, rspv_by_members) %>% arrange(members)
+
+# pop vs time of groups creation
+
+# members vs population
+# csv from http://swaid.stat.gov.pl/Dashboards/Miasta%20najwi%C4%99ksze%20pod%20wzgl%C4%99dem%20liczby%20ludno%C5%9Bci.aspx
+city_pop <- read_csv("city_pop.csv", skip = 3)
+city_pop[1,7] <- "Warszawa"
+names(city_pop)[7] <- "city"
+city_pop <- city_pop %>% mutate(ogolem_num = gsub("[[:space:]]", "", ogolem),
+                                ogolem_num = parse_integer(ogolem_num)) 
+city_time_created <- d %>% group_by(city) %>% 
+  summarise(min_created = min(created_date),
+            median_created = median(created_date),
+            max_created = max(created_date))
+
+city_pop <- left_join(city_time_created, city_pop, "city") 
+
+city_pop %>% 
+  ggplot(aes(x = as.numeric(ogolem_num), y = median_created, label = city, colour = city)) +
+  geom_point() + 
+  geom_text()
+
+
+
+  
