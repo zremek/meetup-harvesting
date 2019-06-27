@@ -1,6 +1,6 @@
 ---
 title: "Meetupy data science w Polsce. Stan na 2019-06-04"
-output: html_document
+output: github_document
 ---
 
 ```{r setup, include = FALSE}
@@ -10,6 +10,8 @@ source("0_source_1234.R")
 To jest analiza 86 polskich grup meetupowych, które miały wpisany temat "data science" na dzień 2019-06-04. 
 
 Chcę pokazać meetupy w **przestrzeni** (1) i **czasie** (2). Idzie to do rozdziału, gdzie pokazuję też inne rzeczy poza meetupami, stąd wykres 1.1. 
+
+***
 
 Dane pobrałem przez API meetup.com za pomocą pakietu w Pythonie. Kod i pliki .json są w /meetup_api/.
 
