@@ -73,8 +73,7 @@ groups_firms_edu <- ggplot(data = groups_firms_edu_long_pct) +
            colour = "black",
            aes(x = area,
                y = pct, group = type, fill = type)) +
-  labs(title = "Świat społeczny data science w Polsce koncentruje się w Warszawie",
-       subtitle = "oraz ośrodkach miejskich powyżej 500 tys. mieszkańców",
+  labs(title = "Świat społeczny data science w Polsce koncentruje się w Warszawie\noraz ośrodkach miejskich powyżej 500 tys. mieszkańców",
        caption = "Dane pobrane w dniu 04.06.2019 r. przez API meetup.com\noraz ze źródeł wymienionych w części 5.1.1.",
        x = "Ośrodek miejski",
        y = "Frakcja [każdy Wymiar = 1]") + 
@@ -85,13 +84,13 @@ groups_firms_edu <- ggplot(data = groups_firms_edu_long_pct) +
   theme_minimal(base_family = "serif", base_size = 10) +
   theme(legend.position = "bottom", legend.direction = "horizontal", legend.box.just = "left")
 
-groups_firms_edu
 # save to good A4 fit size .png 
 # max width = 160, height = 247
 
 png("groups_firms_edu.png", width = 160, height = 130, units = "mm", res = 300)
 plot(groups_firms_edu) # Rys. 4. in chapter 5.1.
 dev.off()
+
 
 ### show locations of members, members by groups and groups 
 
