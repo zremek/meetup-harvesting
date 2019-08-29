@@ -1,6 +1,6 @@
 ---
 title: "Meetupy data science w Polsce. Stan na 2019-06-04"
-output: github_document
+output: pdf_document
 ---
 
 ```{r setup, include = FALSE}
