@@ -97,16 +97,17 @@ box_created <- d %>%
   geom_point(aes(colour = city), size = 4, alpha = 1/2) +
   # scale_fill_brewer(palette = "Set3") +
   scale_color_brewer(palette = "Set3", name = "") +
-  scale_y_date(date_breaks = "6 months", date_labels = "%Y-%m",
-               date_minor_breaks = "6 months") +
+  scale_y_date(date_breaks = "1 year", date_labels = "%Y",
+               minor_breaks = NULL) +
   theme_minimal(base_family = "serif", base_size = 10) +
-  theme(axis.text.x = element_text(angle = 90)) +
+  # theme(axis.text.x = element_text(angle = 90)) +
   labs(
     title = "21A",
     subtitle = "Miasta różnią się czasem rozpoczęcia działalności grup\ni powstawaniem nowych grup w czasie",
        x = "",
        y = "Data założenia grupy") +
-  coord_flip()
+  coord_flip() +
+  guides(colour = "none")
 
 kruskal.test(created / 1000 ~ city, d %>% filter(city != "Gdynia" &
                                                    city != "Białystok" &
@@ -139,7 +140,7 @@ kruskal.test(created / 1000 ~ city, d %>% filter(city != "Gdynia" &
 #     y = "")
 
 dif_n_gr <- d %>% group_by(city) %>% 
-  summarise(dif = max(created_date) - min(created_date),
+  summarise(dif = as.numeric(max(created_date) - min(created_date)),
             n_gr = n(),
             gr_per_dif = n_gr / dif,
             dif_per_gr = dif / n_gr,
@@ -168,7 +169,7 @@ Uwaga: usunięto miasta z tylko jedną grupą",
     x = "Czas od założenia pierwszej do ostatniej grupy w mieście [ilość dni]",
     y = "Ilość grup w mieście [szt.]")
 
-box_dif <- plot_grid(box_created, dif_n_gr, nrow =  2, rel_heights = c(1.7, 1))
+box_dif <- plot_grid(box_created, dif_n_gr, nrow =  2, rel_heights = c(1.6, 1))
 
 # png("box_dif.png", width = 160, height = 180, units = "mm", res = 300)
 # plot(box_dif) # Rys. 5. in chapter 5.1.
@@ -207,13 +208,15 @@ names_time <- d %>%
                                "data science",
                                "uczenie maszynowe",
                                "inne")) +
-  scale_x_continuous(breaks = 2012:2019) +
+  scale_x_continuous(breaks = 2012:2019,
+                     minor_breaks = NULL) +
+  scale_y_continuous(minor_breaks = NULL) +
   labs(title = 'Termin "sztuczna inteligencja" pojawia się w nazwach grup od 2017 r.
 termin "big data" jest najmniej popularny',
       caption = "Dane pobrane w dniu 04.06.2019 r. przez API meetup.com",
       x = "Rok powstania grupy",
       y = "Ilość grup [szt.]")
 
-# png("names_time.png", width = 160, height = 80, units = "mm", res = 300)
-# plot(names_time) # Rys. 5. in chapter 5.1.
-# dev.off()
+png("names_time.png", width = 160, height = 70, units = "mm", res = 300)
+plot(names_time) # Rys. 5. in chapter 5.1.
+dev.off()

@@ -87,9 +87,9 @@ groups_firms_edu <- ggplot(data = groups_firms_edu_long_pct) +
 # save to good A4 fit size .png 
 # max width = 160, height = 247
 
-png("groups_firms_edu.png", width = 160, height = 130, units = "mm", res = 300)
-plot(groups_firms_edu) # Rys. 4. in chapter 5.1.
-dev.off()
+# png("groups_firms_edu.png", width = 160, height = 130, units = "mm", res = 300)
+# plot(groups_firms_edu) # Rys. 4. in chapter 5.1.
+# dev.off()
 
 
 ### show locations of members, members by groups and groups 
